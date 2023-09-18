@@ -1,0 +1,3789 @@
+,currentRanking,userId,displayName,userUrl,joinDate,tier,totalGoldMedals,totalSilverMedals,totalBronzeMedals,points
+0,1,793761,Larxel,/andrewmvd,2016-11-15,GRANDMASTER,10,24,42,1129
+1,2,1571785,Shivam Bansal,/shivamb,2018-01-22,GRANDMASTER,5,8,31,886
+2,3,769452,Gabriel Preda,/gpreda,2016-10-27,GRANDMASTER,7,9,47,798
+3,4,3309826,Ruchi Bhatia,/ruchi798,2019-06-04,GRANDMASTER,12,13,17,750
+4,5,6402661,fedesoriano,/fedesoriano,2020-12-18,GRANDMASTER,5,8,14,728
+5,6,6096594,Anandhu H,/anandhuh,2020-11-04,GRANDMASTER,6,19,6,718
+6,7,9590174,Suraj Jha,/surajjha101,2022-02-06,GRANDMASTER,8,6,1,687
+7,8,998023,Timo Bozsolik,/timoboz,2017-03-31,MASTER,4,3,6,666
+8,9,3012786,Marília Prata,/mpwolke,2019-03-29,MASTER,1,10,94,644
+9,10,71388,SRK,/sudalairajkumar,2012-11-28,GRANDMASTER,10,3,3,577
+10,11,484516,Chris Crawford,/crawford,2015-12-09,GRANDMASTER,11,12,53,548
+11,12,2411256,Saurabh Shahane,/saurabhshahane,2018-10-26,GRANDMASTER,5,5,55,541
+12,13,6693435,Sanskar Hasija,/odins0n,2021-02-09,GRANDMASTER,6,6,6,518
+13,14,2931338,devrishi,/devvret,2019-03-12,EXPERT,1,0,3,495
+14,15,1723677,Chris Deotte,/cdeotte,2018-03-14,GRANDMASTER,8,10,28,485
+15,16,590653,Zeeshan-ul-hassan Usmani,/zusmani,2016-04-19,GRANDMASTER,7,8,23,464
+16,17,3682357,Deep Contractor,/deepcontractor,2019-09-09,MASTER,4,6,18,460
+17,18,373959,Tensor Girl,/usharengaraju,2015-06-27,GRANDMASTER,9,16,9,454
+18,19,18463,Mathurin Aché,/mathurinache,2011-10-11,MASTER,2,3,50,450
+19,20,5309,Abhishek Thakur,/abhishek,2011-01-12,GRANDMASTER,13,6,26,447
+20,21,644036,Rob Mulla,/robikscube,2016-06-18,MASTER,2,4,24,445
+21,22,7024923,Sourav Banerjee,/iamsouravbanerjee,2021-03-25,GRANDMASTER,6,8,0,439
+22,23,405318,raddar,/raddar,2015-08-24,MASTER,3,3,12,417
+23,24,761104,Möbius,/arashnic,2016-10-21,MASTER,2,4,35,410
+24,25,6279218,Ram Jas Maurya,/ramjasmaurya,2020-11-30,EXPERT,0,5,39,407
+25,26,2352583,xhlulu,/xhlulu,2018-10-12,GRANDMASTER,5,5,31,406
+26,27,417337,Bojan Tunguz,/tunguz,2015-09-11,GRANDMASTER,7,9,38,399
+27,28,2527236,Ms. Nancy Al Aswad,/nancyalaswad90,2018-11-22,GRANDMASTER,5,5,0,392
+28,29,113389,Vopani,/rohanrao,2013-07-09,GRANDMASTER,8,2,7,350
+29,30,1162990,Rachael Tatman,/rtatman,2017-07-10,GRANDMASTER,7,9,44,335
+30,31,4730101,Rashik Rahman,/rashikrahmanpritom,2020-03-24,MASTER,1,6,5,318
+31,32,3828601,koustubhk,/kkhandekar,2019-10-09,EXPERT,0,0,49,316
+32,33,797864,Abigail Larion,/abigaillarion,2016-11-16,GRANDMASTER,5,10,43,315
+33,34,3951589,mugen88,/mugentk,2019-10-30,GRANDMASTER,5,5,0,315
+34,35,1120513,Prasert Kanawattanachai,/prasertk,2017-06-11,EXPERT,0,1,40,306
+35,36,8267012,Anshul Mehta,/anshulmehtakaggl,2021-09-02,MASTER,1,9,4,295
+36,37,6641125,Meet Nagadia,/meetnagadia,2021-02-02,EXPERT,0,3,27,283
+37,38,1236717,Mitchell J,/datasnaek,2017-08-28,EXPERT,3,1,1,279
+38,39,3574256,Awsaf,/awsaf49,2019-08-12,MASTER,1,6,15,276
+39,40,7042824,Baris Dincer,/brsdincer,2021-03-27,EXPERT,0,2,35,274
+40,41,67483,K Scott Mader,/kmader,2012-11-04,GRANDMASTER,6,7,21,261
+41,42,8392179,kukuroo3,/kukuroo3,2021-09-20,EXPERT,0,5,19,259
+42,43,8833583,M Yasser H,/yasserh,2021-11-09,EXPERT,1,1,20,255
+43,44,4920916,Batucan Senkal,/psycon,2020-04-20,EXPERT,0,5,15,254
+44,45,5276687,Rishi Damarla,/rishidamarla,2020-06-10,EXPERT,0,1,65,240
+45,46,3442866,Bala Baskar,/balabaskar,2019-07-09,MASTER,1,5,2,239
+46,47,10465213,hrterhrter,/programmerrdai,2022-05-07,EXPERT,0,0,24,238
+47,48,395512,Esther Kim,/ekim01,2015-08-04,GRANDMASTER,5,6,13,236
+48,49,5270083,Akash Patel,/imakash3011,2020-06-09,MASTER,1,4,0,236
+49,50,3564129,Andrada Olteanu,/andradaolteanu,2019-08-09,MASTER,2,6,18,232
+50,51,9028,DanB,/dansbecker,2011-04-06,MASTER,3,4,9,227
+51,52,4432707,Kalilur Rahman,/kalilurrahman,2020-02-04,EXPERT,0,0,25,226
+52,53,1611072,Omer Colakoglu,/omercolakoglu,2018-02-05,MASTER,4,2,2,221
+53,54,4331575,Dhruvil Dave,/dhruvildave,2020-01-15,MASTER,2,9,7,213
+54,55,1014468,Heads or Tails,/headsortails,2017-04-09,MASTER,4,3,3,212
+55,56,8877089,hemil26,/hemil26,2021-11-13,MASTER,3,3,0,212
+56,57,4760409,Gaurav Dutta,/gauravduttakiit,2020-03-28,EXPERT,0,2,12,205
+57,58,5337747,Moore,/imoore,2020-06-20,MASTER,3,6,2,202
+58,59,861427,Petro,/piterfm,2017-01-09,EXPERT,1,0,7,199
+59,60,5020133,Vivo Vinco,/vivovinco,2020-05-04,EXPERT,0,2,20,183
+60,61,8438634,John Harshith,/johnharshith,2021-09-25,MASTER,1,4,2,182
+61,62,7168168,Azmine Toushik Wasi,/azminetoushikwasi,2021-04-12,EXPERT,0,5,7,179
+62,63,195475,Bill Cruise,/bcruise,2014-05-14,EXPERT,0,0,22,175
+63,64,2681031,Brenda N,/brendan45774,2019-01-07,MASTER,2,5,8,173
+64,65,2036,Konrad Banachewicz,/konradb,2010-08-03,EXPERT,0,3,27,172
+65,66,3575309,Nicholas Broad,/nbroad,2019-08-13,EXPERT,1,1,9,168
+66,67,1549225,Andre Sionek,/andresionek,2018-01-13,EXPERT,1,1,1,166
+67,68,10072866,Murat KOKLU,/muratkokludataset,2022-03-28,EXPERT,1,2,5,166
+68,69,863388,PromptCloud,/promptcloud,2017-01-11,MASTER,1,4,26,165
+69,70,927562,Rounak Banik,/rounakbanik,2017-02-23,EXPERT,3,0,0,162
+70,71,2533892,Gerry,/gpiosenka,2018-11-24,EXPERT,1,1,7,162
+71,72,1134944,Ankan Hore,/ankanhore545,2017-06-21,EXPERT,0,1,15,159
+72,73,1160522,dataista0 (Julián Peller),/julian3833,2017-07-09,EXPERT,1,2,8,158
+73,74,4034364,Muhammed Tausif,/muhammedtausif,2019-11-14,EXPERT,0,3,10,158
+74,75,3650837,Mehmet Akturk,/mathchi,2019-09-01,MASTER,2,9,2,155
+75,76,1798416,Vitalii Mokin,/vbmokin,2018-04-07,MASTER,1,9,9,153
+76,77,2504634,Edward Zhang,/sshikamaru,2018-11-17,MASTER,1,5,6,153
+77,78,1636313,Darien Schettler,/dschettler8845,2018-02-14,EXPERT,0,1,12,151
+78,79,2103971,Michal Bogacz,/michau96,2018-07-27,EXPERT,1,0,16,151
+79,80,4124088,Ahmed Shahriar Sakib,/ahmedshahriarsakib,2019-11-29,EXPERT,0,7,1,151
+80,81,5154008,Ashfak Yeafi,/ashfakyeafi,2020-05-24,EXPERT,0,5,1,150
+81,82,6245640,Subham Surana,/subhamjain,2020-11-25,MASTER,2,4,4,150
+82,83,753574,Aleksey Bilogur,/residentmario,2016-10-15,MASTER,3,4,18,145
+83,84,1695531,Y.Nakama,/yasufuminakama,2018-03-06,EXPERT,2,1,6,144
+84,85,2248093,Quadeer Shaikh,/quadeer15sh,2018-09-14,EXPERT,0,6,1,144
+85,86,1430847,Kash,/kaushiksuresh147,2017-11-19,MASTER,1,4,14,143
+86,87,4697476,Victor Soeiro,/victorsoeiro,2020-03-19,EXPERT,1,0,12,143
+87,88,2332181,Firat Gonen,/frtgnn,2018-10-07,GRANDMASTER,5,6,1,142
+88,89,4163969,Arjun Prasad Sarkhel,/arjunprasadsarkhel,2019-12-06,EXPERT,1,0,5,142
+89,90,360751,JohnM,/jpmiller,2015-05-31,MASTER,2,5,11,140
+90,91,4631534,S H I N I G A M I,/gargmanas,2020-03-08,MASTER,2,3,5,140
+91,92,6990402,mysar ahmad bhat,/mysarahmadbhat,2021-03-21,EXPERT,0,2,22,140
+92,93,178864,Yury Kashnitsky,/kashnitsky,2014-03-27,EXPERT,2,0,4,134
+93,94,1130103,Arpit Verma,/varpit94,2017-06-17,EXPERT,0,0,29,133
+94,95,1302389,Devakumar K. P.,/imdevskp,2017-09-30,MASTER,2,5,4,129
+95,96,5882083,Arsh Anwar,/d4rklucif3r,2020-10-03,EXPERT,0,5,5,129
+96,97,8893519,Sandra Grace Nelson,/sandragracenelson,2021-11-15,EXPERT,0,3,2,128
+97,98,618942,KUCEV ROMAN,/tapakah68,2016-05-20,EXPERT,0,1,15,125
+98,99,7652624,Anas Mahmood,/anasmahmood000,2021-06-11,EXPERT,0,3,3,124
+99,100,1920818,Prashant Banerjee,/prashant111,2018-05-17,MASTER,5,4,8,123
+100,101,391404,Parul Pandey,/parulpandey,2015-07-26,MASTER,2,5,10,120
+101,102,4698936,Ajaypal Singh,/ajaypalsinghlo,2020-03-19,EXPERT,1,0,2,119
+102,103,4969123,Yamac Eren Ay,/yamaerenay,2020-04-27,EXPERT,0,0,5,119
+103,104,9352946,Alan Jo,/alanjo,2022-01-08,EXPERT,0,0,13,118
+104,105,1842206,BwandoWando,/bwandowando,2018-04-20,EXPERT,0,1,9,117
+105,106,5472192,Tejashvi,/tejashvi14,2020-07-15,MASTER,1,4,2,117
+106,107,7237430,Jillani Soft Tech,/jillanisofttech,2021-04-21,EXPERT,0,0,16,116
+107,108,5447474,Vahideh Dashti,/vahidehdashti,2020-07-10,EXPERT,0,5,0,114
+108,109,7852923,Sanjeet Singh Naik,/sanjeetsinghnaik,2021-07-07,EXPERT,0,3,6,113
+109,110,270038,Rishabh Misra,/rmisra,2014-12-10,EXPERT,2,1,1,112
+110,111,1444085,Shashwat Tiwari,/shashwatwork,2017-11-24,EXPERT,0,2,14,111
+111,112,3490494,Mario Caesar,/caesarmario,2019-07-22,EXPERT,0,4,1,111
+112,113,860951,Joe Young,/jsphyg,2017-01-09,EXPERT,1,0,2,110
+113,114,3618598,Hamdalla  F. Kareem,/hamdallak,2019-08-24,MASTER,1,5,0,109
+114,115,6700236,Robin S.,/heyrobin,2021-02-10,EXPERT,0,4,2,108
+115,116,4476084,Jesse Mostipak,/jessemostipak,2020-02-11,EXPERT,1,1,7,107
+116,117,623370,Takoi,/takoihiraokazu,2016-05-24,EXPERT,0,4,7,106
+117,118,3885917,Neha Prabhavalkar,/nehaprabhavalkar,2019-10-19,EXPERT,2,2,5,106
+118,119,8003977,Luiz Bueno,/juniorbueno,2021-07-28,EXPERT,0,5,3,106
+119,120,8273845,Durgesh Rao,/durgeshrao9993,2021-09-03,EXPERT,0,0,18,106
+120,121,554091,Nikita Kozodoi,/kozodoi,2016-03-11,EXPERT,1,1,2,105
+121,122,4411217,Neel Gajare,/neelgajare,2020-01-31,EXPERT,0,0,11,105
+122,123,6125196,Halime Doğan,/halimedogan,2020-11-08,EXPERT,0,4,1,105
+123,124,10606723,Mustanger,/eisgandar,2022-05-21,EXPERT,0,0,11,105
+124,125,3399844,Karnika Kapoor,/karnikakapoor,2019-06-27,EXPERT,0,7,0,104
+125,126,3390641,Divyansh Agrawal,/divyansh22,2019-06-25,MASTER,1,7,9,102
+126,127,3740202,Murilão,/upadorprofzs,2019-09-20,MASTER,6,0,0,102
+127,128,7378363,Zahra Amini,/aminizahra,2021-05-09,EXPERT,0,1,8,102
+128,129,1815526,Anmol Kumar,/anmolkumar,2018-04-12,EXPERT,1,1,9,101
+129,130,6361330,Lasal Jayawardena,/lasaljaywardena,2020-12-11,EXPERT,0,2,12,100
+130,131,7545003,Brandon Conrady,/brandonconrady,2021-05-30,EXPERT,0,0,15,100
+131,132,8350476,Lexyr,/pavellexyr,2021-09-14,EXPERT,0,0,13,100
+132,133,1727163,Noah Daniels,/nbdaniels,2018-03-16,EXPERT,0,6,29,99
+133,134,1920073,Alex Shonenkov,/shonenkov,2018-05-17,MASTER,3,3,5,99
+134,135,2029256,KS,/ks2019,2018-06-29,EXPERT,0,1,8,99
+135,136,2357264,PAVAN KUMAR D,/mragpavank,2018-10-13,EXPERT,0,5,10,99
+136,137,1984321,M.Innat,/ipythonx,2018-06-11,EXPERT,0,4,5,98
+137,138,6097832,Andrey Shtrauss,/shtrausslearning,2020-11-04,EXPERT,0,3,5,98
+138,139,9521686,efimpolianskii,/timmofeyy,2022-01-28,EXPERT,0,0,15,98
+139,140,4382914,Saurav Maheshkar ☕️,/sauravmaheshkar,2020-01-25,EXPERT,0,1,9,96
+140,141,5397177,CodeBreaker619,/codebreaker619,2020-07-01,EXPERT,0,5,13,96
+141,142,1852232,Stefano Leone,/stefanoleone992,2018-04-24,EXPERT,1,3,4,95
+142,143,10590800,Matt OP,/mattop,2022-05-19,EXPERT,0,1,8,95
+143,144,2685252,Jan Bre,/jpbremer,2019-01-08,EXPERT,0,3,3,94
+144,145,378285,Praveen ,/praveengovi,2015-07-05,EXPERT,2,0,5,93
+145,146,5926459,Shiv Kumar Ganesh,/shivkumarganesh,2020-10-10,EXPERT,0,0,14,93
+146,147,6776149,radmirkaz,/hijest,2021-02-21,EXPERT,1,3,0,93
+147,148,1200915,Bulent Siyah,/bulentsiyah,2017-08-04,MASTER,1,4,11,92
+148,149,2322783,Jonathan Besomi,/jonathanbesomi,2018-10-04,EXPERT,1,0,4,92
+149,150,8055831,Omkar Gowda,/omkargowda,2021-08-03,EXPERT,0,3,2,92
+150,151,2590110,Aman Kumar,/aestheteaman01,2018-12-07,EXPERT,0,6,4,91
+151,152,3863136,Aman Miglani,/datatattle,2019-10-15,EXPERT,1,0,4,91
+152,153,4051350,Carl McBride Ellis,/carlmcbrideellis,2019-11-17,EXPERT,0,3,11,91
+153,154,4688022,Thomas Konstantin,/thomaskonstantin,2020-03-17,EXPERT,0,2,18,91
+154,155,3244747,Raphael Fontes,/unanimad,2019-05-19,MASTER,3,2,3,90
+155,156,3264446,Berkay Alan,/berkayalan,2019-05-23,EXPERT,0,3,8,90
+156,157,8243135,EMİRHAN BULUT,/emirhanai,2021-08-30,EXPERT,0,0,12,90
+157,158,6372737,Iron486,/die9origephit,2020-12-12,EXPERT,0,0,8,89
+158,159,1056223,Ekrem Bayar,/ekrembayar,2017-05-03,EXPERT,0,7,2,88
+159,160,8718389,Shubham Trivedi,/shubhamptrivedi,2021-10-27,EXPERT,0,4,0,88
+160,161,9144283,Santosh Kumar,/kuchhbhi,2021-12-11,EXPERT,0,0,10,88
+161,162,5944036,babyoda,/babyoda,2020-10-12,MASTER,1,5,0,87
+162,163,6151869,Yash Patel,/ysthehurricane,2020-11-12,EXPERT,0,6,1,87
+163,164,5133282,Ashish Jangra,/ashishjangra27,2020-05-20,EXPERT,1,1,4,86
+164,165,7002548,SandhyaKrishnan02,/sandhyakrishnan02,2021-03-22,EXPERT,0,4,1,86
+165,166,8739243,Samuel Cortinhas,/samuelcortinhas,2021-10-29,EXPERT,0,0,11,86
+166,167,4978084,Towhidul.Tonmoy,/towhidultonmoy,2020-04-28,EXPERT,0,0,9,85
+167,168,754781,BryanB,/bryanb,2016-10-16,EXPERT,1,2,9,84
+168,169,3511431,Andrii Samoshyn,/mrmorj,2019-07-26,EXPERT,0,4,10,84
+169,170,473234,Tawara,/ttahara,2015-11-24,MASTER,1,6,4,83
+170,171,710779,Cam Nugent,/camnugent,2016-09-10,EXPERT,2,0,3,83
+171,172,4581845,ammarali32,/ammarali32,2020-02-29,EXPERT,1,1,8,83
+172,173,5379999,Ken Jee,/kenjee,2020-06-28,EXPERT,1,1,3,83
+173,174,4804850,Remek Kinas,/remekkinas,2020-04-03,EXPERT,0,2,6,82
+174,175,5821522,Sooter Saalu,/sootersaalu,2020-09-21,EXPERT,1,0,2,82
+175,176,7093618,Jehan Bhathena,/jehanbhathena,2021-04-03,EXPERT,0,2,6,82
+176,177,7274535,PavelBiz,/pavelbiz,2021-04-26,EXPERT,0,1,8,82
+177,178,10030651,Yassir Acharki,/yacharki,2022-03-24,EXPERT,0,0,10,82
+178,179,23583,Clayton Miller,/claytonmiller,2011-11-17,EXPERT,0,0,13,81
+179,180,348067,Sobhan Moosavi,/sobhanmoosavi,2015-05-06,EXPERT,1,1,1,80
+180,181,9093277,Amritha R J,/amritharj,2021-12-06,EXPERT,0,0,6,80
+181,182,5525731,Syed Jafer,/syedjaferk,2020-07-25,EXPERT,0,0,13,79
+182,183,3492504,Salman Ibne Eunus,/salmaneunus,2019-07-22,EXPERT,0,5,8,78
+183,184,5256312,Arya Shah,/aryashah2k,2020-06-08,EXPERT,0,1,11,78
+184,185,368,Anthony Goldbloom,/antgoldbloom,2010-01-20,EXPERT,1,3,6,77
+185,186,1708419,Soheil Tehranipour,/soheiltehranipour,2018-03-10,EXPERT,0,1,7,77
+186,187,3072182,Rupak Roy,/rupakroy,2019-04-11,EXPERT,0,0,10,77
+187,188,5933676,Nick Kuzmenkov,/nickuzmenkov,2020-10-11,EXPERT,0,2,4,77
+188,189,844176,Olga Belitskaya,/olgabelitskaya,2016-12-21,EXPERT,1,1,15,76
+189,190,3335785,shivan kumar,/shivan118,2019-06-11,MASTER,1,6,1,76
+190,191,4683527,Ben Roshan ,/benroshan,2020-03-17,EXPERT,1,0,3,76
+191,192,7050806,Yash Goel,/goelyash,2021-03-28,EXPERT,0,2,4,76
+192,193,1715390,Balraj Ashwath,/balraj98,2018-03-12,EXPERT,0,2,15,75
+193,194,6785760,Sven Eschlbeck,/sveneschlbeck,2021-02-22,EXPERT,0,0,13,75
+194,195,9040825,Midhun Das L,/midhundasl,2021-11-30,EXPERT,0,2,2,75
+195,196,9742946,Qusay AL-Btoush,/qusaybtoush1990,2022-02-22,EXPERT,0,0,6,75
+196,197,548996,tito,/its7171,2016-03-06,EXPERT,2,1,3,74
+197,198,1314864,torch,/rhtsingh,2017-10-05,EXPERT,0,3,5,74
+198,199,1498852,kkiller,/kneroma,2017-12-15,EXPERT,0,4,8,74
+199,200,2333706,Aung Pyae,/aungpyaeap,2018-10-08,EXPERT,2,0,1,74
+200,201,4184718,Sparsh Gupta,/imsparsh,2019-12-10,EXPERT,1,0,7,74
+201,202,1878632,Leo0523,/hattan0523,2018-05-03,EXPERT,0,0,8,73
+202,203,2034098,Slawek Biel,/slawekbiel,2018-07-01,EXPERT,1,1,4,73
+203,204,4333519,Yasir Hussein Shakir,/yasserhessein,2020-01-15,EXPERT,0,0,11,73
+204,205,6374616,Arya krishnan A R,/aryakrishnanar,2020-12-13,EXPERT,0,5,0,73
+205,206,7524543,DataCluster Labs,/dataclusterlabs,2021-05-27,EXPERT,0,0,4,73
+206,207,1313949,Yaroslav Isaienkov,/ihelon,2017-10-05,EXPERT,1,0,5,72
+207,208,6549244,Emmanuel F. Werr,/emmanuelfwerr,2021-01-19,EXPERT,0,0,6,72
+208,209,7941831,Rahil Parikh,/rprkh15,2021-07-20,EXPERT,0,0,6,72
+209,210,451025,Henrique Mendonça,/hmendonca,2015-10-26,EXPERT,1,0,5,71
+210,211,1900190,Komal Khetlani,/komalkhetlani,2018-05-10,EXPERT,0,1,13,70
+211,212,2815958,datartist,/kimjihoo,2019-02-14,EXPERT,1,0,3,69
+212,213,731385,Ed King,/kinguistics,2016-09-28,MASTER,3,3,12,68
+213,214,1212661,Iafoss,/iafoss,2017-08-12,MASTER,1,5,5,68
+214,215,5444725,l3LlFF,/l3llff,2020-07-10,EXPERT,0,0,7,68
+215,216,5630044,Rajkumar Lakshmanamoorthy,/rajkumarl,2020-08-16,EXPERT,1,0,5,68
+216,217,7471880,Ayessa,/ayessa,2021-05-21,EXPERT,0,1,4,68
+217,218,291298,RDizzl3,/rdizzl3,2015-02-08,EXPERT,0,3,3,67
+218,219,2655536,Jims Chacko,/jimschacko,2018-12-28,EXPERT,0,0,7,67
+219,220,3595464,Caesar Lupum,/caesarlupum,2019-08-18,EXPERT,0,6,4,67
+220,221,6328369,AM,/amandam1,2020-12-06,EXPERT,0,0,11,67
+221,222,9455601,CHEN Han,/concyclics,2022-01-20,EXPERT,0,1,5,67
+222,223,6610637,Prit Sheta,/pritsheta,2021-01-28,EXPERT,0,1,9,66
+223,224,820667,Mart Jürisoo,/martj42,2016-12-02,EXPERT,1,1,1,65
+224,225,1182060,DimitreOliveira,/dimitreoliveira,2017-07-23,EXPERT,0,2,13,65
+225,226,2236152,Hernan Valdivieso,/hernan4444,2018-09-11,EXPERT,1,0,2,64
+226,227,3445991,PavanKalyan,/pavan9065,2019-07-10,EXPERT,0,0,10,64
+227,228,5181162,ProgrammerRDAI,/ranugadisansagamage,2020-05-28,EXPERT,0,0,4,64
+228,229,8859329,Vishesh Thakur,/vishesh1412,2021-11-11,EXPERT,0,0,7,64
+229,230,270995,Anna Wolak,/annawolak,2014-12-12,MASTER,3,4,7,63
+230,231,674553,ilovescience,/tanlikesmath,2016-07-29,EXPERT,1,1,1,63
+231,232,1746215,Atul Anand {Jha},/atulanandjha,2018-03-22,MASTER,2,3,0,63
+232,233,2781854,Kamal Das,/kmldas,2019-02-05,EXPERT,0,0,11,63
+233,234,4562457,Lonnie,/lonnieqin,2020-02-26,EXPERT,0,1,2,63
+234,235,6522159,Lucas Hohmann,/lucashohmann,2021-01-14,EXPERT,0,0,8,63
+235,236,5144861,Ankit Gupta,/nkitgupta,2020-05-22,EXPERT,0,1,3,62
+236,237,1311729,Austin Reese,/austinreese,2017-10-04,EXPERT,1,1,1,61
+237,238,2102167,Alex Teboul,/alexteboul,2018-07-26,EXPERT,0,1,4,61
+238,239,4956446,OH SEOK KIM,/ohseokkim,2020-04-25,EXPERT,0,3,1,61
+239,240,858250,Ayush Garg,/ayushggarg,2017-01-06,EXPERT,1,1,1,60
+240,241,5753671,Vadim Irtlach,/vad13irt,2020-09-10,EXPERT,0,0,7,60
+241,242,2262596,Alexander,/alexandervc,2018-09-18,EXPERT,0,0,7,59
+242,243,3758223,Seyedsaman (sam) Emami,/samanemami,2019-09-24,EXPERT,0,0,5,59
+243,244,4660642,RyanJT,/ryanjt,2020-03-13,EXPERT,0,0,5,59
+244,245,5560753,Rishav Sharma,/rsrishav,2020-08-01,EXPERT,1,0,5,59
+245,246,9135747,Dhamodharan R,/dhamur,2021-12-10,EXPERT,0,0,8,59
+246,247,2745054,Leonardo Henrique,/leonardopena,2019-01-25,EXPERT,2,0,2,58
+247,248,4382651,Andy8744,/andy8744,2020-01-25,EXPERT,0,1,5,58
+248,249,5532218,Sreevishnu Damodaran,/sreevishnudamodaran,2020-07-27,EXPERT,0,1,8,58
+249,250,10914512,xodeum,/xodeum,2022-06-26,EXPERT,0,0,7,58
+250,251,2769451,Mohaiminul Islam,/mohaiminul101,2019-02-01,EXPERT,0,5,1,57
+251,252,4182566,Aayush Mishra,/aayushmishra1512,2019-12-10,EXPERT,0,2,13,57
+252,253,1419792,Right Goose,/ilyaryabov,2017-11-15,EXPERT,0,0,5,56
+253,254,2648923,stpete_ishii,/stpeteishii,2018-12-26,EXPERT,0,0,9,56
+254,255,3300807,Chirag Desai,/cid007,2019-06-02,EXPERT,0,0,8,56
+255,256,3694210,Paritosh Anand,/paritosh712,2019-09-11,EXPERT,0,0,5,56
+256,257,5720392,Caleb Reigada,/calebreigada,2020-09-04,EXPERT,0,1,3,56
+257,258,7140959,Khushee Kapoor,/khusheekapoor,2021-04-09,EXPERT,0,1,3,56
+258,259,7995923,Naman Srivastava,/srivnaman,2021-07-27,EXPERT,0,0,6,56
+259,260,10654180,The Devastator,/thedevastator,2022-05-26,EXPERT,0,1,4,56
+260,261,7495018,Jatin,/jkanthony,2021-05-24,EXPERT,0,0,6,55
+261,262,2796256,NoLogic,/veeralakrishna,2019-02-09,EXPERT,0,3,6,54
+262,263,3802190,Devashree Madhugiri,/devsubhash,2019-10-03,EXPERT,0,1,4,54
+263,264,4638489,İlker Yıldız,/ilkeryildiz,2020-03-09,EXPERT,0,4,0,54
+264,265,5332545,Heeral Dedhia,/heeraldedhia,2020-06-19,EXPERT,1,1,3,54
+265,266,6497788,Bhavik Ardeshna,/bhavikardeshna,2021-01-10,EXPERT,0,1,4,54
+266,267,9525405,Majyhain,/majyhain,2022-01-29,EXPERT,0,2,1,54
+267,268,265431,Shruti Saxena,/shrutisaxena,2014-12-01,EXPERT,0,1,5,53
+268,269,576168,Aleksandr Snorkin,/parapapapam,2016-04-04,EXPERT,0,1,4,53
+269,270,4574701,Faisal Qureshi,/mfaisalqureshi,2020-02-28,EXPERT,0,1,9,53
+270,271,6877898,Siddharth Kulkarni,/mykeysid10,2021-03-06,EXPERT,0,1,6,53
+271,272,7785819,Michael Bryant,/michaelbryantds,2021-06-28,EXPERT,0,1,4,53
+272,273,1086574,vbookshelf,/vbookshelf,2017-05-22,EXPERT,1,2,5,52
+273,274,2533028,prasoon kottarathil,/prasoonkottarathil,2018-11-24,EXPERT,0,3,5,52
+274,275,2630863,Firuz Juraev,/firuzjuraev,2018-12-19,EXPERT,0,2,1,52
+275,276,4835558,Sankha Subhra Mondal,/sankha1998,2020-04-08,EXPERT,1,3,0,52
+276,277,4895752,Christian Lillelund,/christianlillelund,2020-04-16,EXPERT,1,2,5,52
+277,278,6925588,Muhammad Imran Zaman,/muhammadimran112233,2021-03-12,EXPERT,0,0,6,52
+278,279,7300186,blue7red,/rhythmcam,2021-04-29,EXPERT,0,0,4,52
+279,280,1163019,Jacob Boysen,/jboysen,2017-07-10,MASTER,1,5,20,51
+280,281,1260510,KritiDoneria,/kritidoneria,2017-09-11,EXPERT,0,0,8,51
+281,282,5063402,Maher 3id,/maher3id,2020-05-11,EXPERT,0,0,8,51
+282,283,7729827,Shiv28,/shiv28,2021-06-20,EXPERT,0,3,1,51
+283,284,9336710,Sindhu inti,/sindhuinti,2022-01-06,EXPERT,0,0,5,51
+284,285,9547290,Shantanu Dhakad,/shantanudhakadd,2022-02-01,EXPERT,0,0,4,51
+285,286,10035285,Emmanuel Masavo DJEGOU,/emmanueldjegou,2022-03-24,EXPERT,0,0,5,51
+286,287,10563689,linze.yu,/linzey,2022-05-17,EXPERT,0,0,7,51
+287,288,10972678,iamravi,/iamravi1,2022-07-04,EXPERT,0,0,6,51
+288,289,993,Ben Hamner,/benhamner,2010-05-31,MASTER,3,3,5,50
+289,290,1150494,Rohit Kulkarni,/therohk,2017-07-02,EXPERT,1,2,4,50
+290,291,1317613,Gianetan,/gianetan,2017-10-07,EXPERT,0,0,6,50
+291,292,2487652,Edoardo Cantagallo,/edoardoba,2018-11-13,EXPERT,0,0,5,50
+292,293,4534017,Zeus,/utkarshxy,2020-02-21,EXPERT,1,0,2,50
+293,294,4773147,Ishant_J,/ishantj,2020-03-30,EXPERT,0,0,7,50
+294,295,5044558,Owais Ahmad,/owaiskhan9654,2020-05-07,EXPERT,0,0,5,50
+295,296,5659407,Jack Daoud,/jackdaoud,2020-08-21,EXPERT,1,0,3,50
+296,297,6131640,Jack Ogozaly,/jackogozaly,2020-11-09,EXPERT,0,1,6,50
+297,298,7975862,SAHIL VORA,/vora1011,2021-07-24,EXPERT,0,0,6,50
+298,299,113660,‎‎‎‎‎‎‎‎,/hengck23,2013-07-11,EXPERT,0,1,5,49
+299,300,1763348,huseyincotel,/huseyincot,2018-03-27,EXPERT,0,1,3,49
+300,301,6657109,khaIid,/khaiid,2021-02-04,EXPERT,0,0,6,49
+301,302,8147908,Joonas,/joonasyoon,2021-08-16,EXPERT,0,0,8,49
+302,303,9465443,Abir CHakraborty,/ac1414,2022-01-22,EXPERT,0,0,3,49
+303,304,10489812,Muhammad Irfan Azam,/mirfanazam,2022-05-09,EXPERT,0,0,6,49
+304,305,590240,katsu1110,/code1110,2016-04-18,EXPERT,0,1,2,48
+305,306,1361604,Teja Surya,/tejasurya,2017-10-26,EXPERT,0,0,5,48
+306,307,4288268,Mehran Kazeminia,/mehrankazeminia,2020-01-05,EXPERT,0,0,5,48
+307,308,5456766,Preet Viradiya,/preetviradiya,2020-07-12,EXPERT,0,1,6,48
+308,309,7140312,DIGVIJAYSINH GOHIL,/digvijaysinhgohil,2021-04-09,EXPERT,0,1,2,48
+309,310,8070736,Aluru V N M Hemateja,/ahemateja19bec1025,2021-08-05,EXPERT,0,0,6,48
+310,311,8772965,Jishnu,/jishnukoliyadan,2021-11-02,EXPERT,0,0,7,48
+311,312,9855161,Francisco Feng,/franciscofeng,2022-03-07,EXPERT,0,0,5,48
+312,313,10275991,Hassan Shehzad,/hassanshehzadk,2022-04-18,EXPERT,0,0,6,48
+313,314,410443,Rajanand Ilangovan,/rajanand,2015-09-01,MASTER,1,4,6,47
+314,315,3607160,Mohamed Hany,/mohamedhanyyy,2019-08-21,EXPERT,0,2,4,47
+315,316,3674727,yashtiwari1906,/yashtiwari1906,2019-09-06,EXPERT,0,3,4,47
+316,317,4433335,Mark Wijkhuizen,/markwijkhuizen,2020-02-04,EXPERT,0,0,5,47
+317,318,4729207,Tanya,/tanyadayanand,2020-03-23,EXPERT,0,0,6,47
+318,319,4945934,David Roberts,/davidbroberts,2020-04-23,EXPERT,0,0,6,47
+319,320,5034367,Ayush Verma,/ayushv322,2020-05-06,EXPERT,0,0,5,47
+320,321,5645048,Gokul Prakash P,/gokulprakash22,2020-08-19,MASTER,1,4,0,47
+321,322,6369059,Thasnihakeem,/thasnihakeem,2020-12-12,EXPERT,0,1,3,47
+322,323,9039897,Arathi P Raj,/arathipraj,2021-11-30,EXPERT,0,1,2,47
+323,324,10102519,ElMartian,/elmartini,2022-03-31,EXPERT,0,0,4,47
+324,325,1203791,Soumik Rakshit,/soumikrakshit,2017-08-06,EXPERT,0,2,2,46
+325,326,3127519,Arnaud ROUGETET,/arnaud58,2019-04-23,EXPERT,0,2,3,46
+326,327,3226852,Sreshta Putchala,/sreshta140,2019-05-15,EXPERT,0,3,0,46
+327,328,3700049,Chowdhury Saleh Ahmed Rony,/salehahmedrony,2019-09-12,EXPERT,0,6,1,46
+328,329,6118982,Iman Jowkar,/imanjowkar,2020-11-07,EXPERT,0,2,3,46
+329,330,6778441,Crawl Feeds,/crawlfeeds,2021-02-22,EXPERT,0,0,4,46
+330,331,1231596,Martin Kovacevic Buvinic,/ragnar123,2017-08-24,EXPERT,0,1,8,45
+331,332,1884116,Michael Kechinov,/mkechinov,2018-05-04,EXPERT,1,1,2,45
+332,333,2034058,Mobassir,/mobassir,2018-07-01,EXPERT,0,1,8,45
+333,334,4893527,Vinayak Shanawad,/vinayakshanawad,2020-04-16,EXPERT,0,0,6,45
+334,335,5637976,Mau Rua,/mruanova,2020-08-17,EXPERT,1,0,6,45
+335,336,5769741,Abid Ali Awan,/kingabzpro,2020-09-13,EXPERT,0,0,7,45
+336,337,5966695,Ammar Alhaj Ali,/ammarnassanalhajali,2020-10-15,EXPERT,0,0,6,45
+337,338,9280459,Nguyen Ngoc Phung,/nguyenngocphung,2021-12-30,EXPERT,0,0,7,45
+338,339,2361968,Chitwan Manchanda,/chitwanmanchanda,2018-10-14,EXPERT,0,0,5,44
+339,340,2679105,Subin An,/subinium,2019-01-07,EXPERT,0,1,5,44
+340,341,5820768,Aruna S,/arunasivapragasam,2020-09-21,EXPERT,0,0,5,44
+341,342,6535768,Zahid Ali,/zahidmahar,2021-01-16,EXPERT,0,2,5,44
+342,343,8130169,Ujjwal Chowdhury,/ujjwalchowdhury,2021-08-14,EXPERT,0,0,4,44
+343,344,10350744,MD Shariful Islam,/shariful07,2022-04-25,EXPERT,0,1,2,44
+344,345,109123,Dan Ofer,/danofer,2013-06-14,EXPERT,1,0,10,43
+345,346,738361,Asjad K,/asjad99,2016-10-04,EXPERT,0,0,4,43
+346,347,866788,nicapotato,/nicapotato,2017-01-13,EXPERT,1,1,1,43
+347,348,1102236,Vineeth,/vineethakkinapalli,2017-05-31,EXPERT,0,0,5,43
+348,349,2318606,Manish Kumar,/hellbuoy,2018-10-03,EXPERT,1,0,2,43
+349,350,3995454,Ritesh Yadav,/ritesh2000,2019-11-07,EXPERT,1,1,5,43
+350,351,4671367,Mukesh Manral,/mukeshmanral,2020-03-15,EXPERT,0,0,4,43
+351,352,6845028,Yash Yadav,/codefantasy,2021-03-02,EXPERT,0,0,5,43
+352,353,7057764,Sakshi Jha,/sakshi20008,2021-03-29,EXPERT,0,0,5,43
+353,354,9240314,Ishaan Thareja,/ishaanthareja007,2021-12-23,EXPERT,0,0,5,43
+354,355,9271896,sbhatti,/sbhatti,2021-12-28,EXPERT,0,1,2,43
+355,356,127599,Gokagglers ,/loveall,2013-09-23,EXPERT,2,0,2,42
+356,357,1853660,DataTurks,/dataturks,2018-04-24,EXPERT,1,2,4,42
+357,358,4956172,Alin Cijov,/alincijov,2020-04-25,EXPERT,0,0,10,42
+358,359,6349270,Karthik Vadlamudi,/karthikvadlamudi,2020-12-09,EXPERT,0,0,5,42
+359,360,8167954,Heitor Nunes,/heitornunes,2021-08-18,EXPERT,0,0,7,42
+360,361,8276140,ArnavR,/arnavr10880,2021-09-04,EXPERT,0,0,5,42
+361,362,8835058,Sreelal H,/sreelalh,2021-11-09,EXPERT,0,0,3,42
+362,363,1245336,Janio Martinez Bachmann,/janiobachmann,2017-09-03,EXPERT,1,1,1,41
+363,364,2048048,Manu Siddhartha,/sid321axn,2018-07-06,EXPERT,1,0,6,41
+364,365,2085560,Aladdin Persson,/aladdinpersson,2018-07-20,EXPERT,0,1,3,41
+365,366,2102373,Chris Gorgolewski,/chrisfilo,2018-07-26,EXPERT,0,2,6,41
+366,367,3257097,A SURESH,/sureshmecad,2019-05-22,EXPERT,0,0,8,41
+367,368,4795937,Arslan Ali,/arslanali4343,2020-04-02,EXPERT,0,2,5,41
+368,369,4837769,Akash Guna,/akashguna,2020-04-08,EXPERT,0,1,3,41
+369,370,4972751,Shiva Vashishtha,/shivavashishtha,2020-04-27,EXPERT,0,0,5,41
+370,371,5047229,Sunny Kusawa,/sunnykusawa,2020-05-08,EXPERT,0,0,4,41
+371,372,5401349,Deep Shah,/deepshah16,2020-07-01,EXPERT,0,1,6,41
+372,373,5532900,Ankit Kalauni,/ankitkalauni,2020-07-27,EXPERT,0,1,4,41
+373,374,8993668,Aslan Ahmedov,/aslanahmedov,2021-11-25,EXPERT,0,0,6,41
+374,375,168670,Old Monk,/saurabhbagchi,2014-02-24,EXPERT,0,0,9,40
+375,376,1788308,Mukharbek Organokov,/muhakabartay,2018-04-04,EXPERT,0,3,9,40
+376,377,1831880,Valentin Biryukov,/valentinbiryukov,2018-04-17,EXPERT,0,0,7,40
+377,378,2911143,Maunish dave,/maunish,2019-03-08,EXPERT,1,0,2,40
+378,379,4257241,Muhammad Saleh,/saleh846,2019-12-27,EXPERT,0,0,4,40
+379,380,6807360,Nick Litwinow,/nicklitwinow,2021-02-25,EXPERT,0,0,4,40
+380,381,8986298,Md. Jafril Alam Shihab,/mdjafrilalamshihab,2021-11-24,EXPERT,0,0,5,40
+381,382,9042531,Aravind A S,/aravindas01,2021-11-30,EXPERT,0,0,3,40
+382,383,10723535,Basti Tee,/bastitee,2022-06-03,EXPERT,0,0,5,40
+383,384,128750,David Beniaguev,/selfishgene,2013-09-27,EXPERT,2,0,2,39
+384,385,1210896,Welf Crozzo,/miklgr500,2017-08-11,EXPERT,1,0,3,39
+385,386,3486296,dasmehdixtr,/dasmehdixtr,2019-07-20,EXPERT,0,0,8,39
+386,387,3997404,John Mitchell,/jbomitchell,2019-11-07,EXPERT,0,0,4,39
+387,388,4878232,Debarshi Chanda,/debarshichanda,2020-04-14,EXPERT,0,0,4,39
+388,389,5845181,vardhan SIRAMDASU,/vardhansiramdasu,2020-09-26,EXPERT,0,0,6,39
+389,390,5945335,Abir ELTAIEF,/abireltaief,2020-10-12,EXPERT,0,0,5,39
+390,391,6684140,Elemento,/elemento,2021-02-08,EXPERT,0,0,4,39
+391,392,9799387,Lafoi,/wentinglu,2022-03-01,EXPERT,0,0,4,39
+392,393,9861188,Evan Gower,/evangower,2022-03-07,EXPERT,0,0,4,39
+393,394,1489975,Hidehisa Arai,/hidehisaarai1213,2017-12-12,EXPERT,0,0,7,38
+394,395,2050099,Ritvik Rastogi,/ritvik1909,2018-07-07,EXPERT,0,0,5,38
+395,396,3166828,Rohan Paris,/parisrohan,2019-05-01,EXPERT,0,1,2,38
+396,397,5066531,Georgy Zubkov,/georgyzubkov,2020-05-11,EXPERT,0,0,4,38
+397,398,6470511,Mohamed Bakrey,/mohamedbakrey,2021-01-05,EXPERT,0,0,9,38
+398,399,6953865,Knightbearr,/knightbearr,2021-03-16,EXPERT,0,1,2,38
+399,400,7637047,Manish Mathias,/manishmathias,2021-06-10,EXPERT,0,0,3,38
+400,401,8788103,Ali Farajnia,/alifarajnia,2021-11-04,EXPERT,0,0,7,38
+401,402,9049440,Anju Sunilkumar,/anjusunilkumar,2021-12-01,EXPERT,0,0,3,38
+402,403,1350598,ask9,/arbazkhan971,2017-10-21,EXPERT,0,2,5,37
+403,404,1429925,Kunaal Naik,/funxexcel,2017-11-19,EXPERT,1,0,3,37
+404,405,1776576,csafrit,/csafrit2,2018-03-31,EXPERT,0,0,4,37
+405,406,2076200,Johar M. Ashfaque,/ukveteran,2018-07-17,EXPERT,0,0,9,37
+406,407,3717445,Maryna Antonevych,/maricinnamon,2019-09-16,EXPERT,0,0,5,37
+407,408,5233552,Rajat Gupta,/rajat95gupta,2020-06-04,EXPERT,0,0,5,37
+408,409,5530860,sai pavan saketh,/saipavansaketh,2020-07-26,EXPERT,0,1,2,37
+409,410,6368833,Sandra P,/sandraphari,2020-12-12,EXPERT,0,3,0,37
+410,411,6750325,Kishal Mandal,/kishalmandal,2021-02-17,EXPERT,0,1,3,37
+411,412,8226007,Aditya Ramachandran,/adityaramachandran27,2021-08-27,EXPERT,0,0,3,37
+412,413,9412855,Tyrion Lannister-lzy,/tyrionlannisterlzy,2022-01-16,EXPERT,0,0,3,37
+413,414,18102,beluga,/gaborfodor,2011-10-05,EXPERT,1,0,2,36
+414,415,281652,Ian Pan,/vaillant,2015-01-14,EXPERT,1,0,2,36
+415,416,1156831,Xavier,/xvivancos,2017-07-06,EXPERT,1,2,5,36
+416,417,1200650,Vetrivel-PS,/vetrirah,2017-08-04,EXPERT,0,2,4,36
+417,418,1567578,Ragnar,/rowhitswami,2018-01-20,EXPERT,0,2,3,36
+418,419,1788694,Ami,/fanbyprinciple,2018-04-04,EXPERT,0,0,5,36
+419,420,3455366,Nipun Arora,/nipunarora8,2019-07-12,EXPERT,1,0,2,36
+420,421,3773993,Naim Mhedhbi,/naim99,2019-09-27,EXPERT,0,1,5,36
+421,422,4256756,Naresha Bhat,/nareshbhat,2019-12-27,EXPERT,1,0,3,36
+422,423,4287302,Manch Hui,/manchunhui,2020-01-05,EXPERT,1,0,3,36
+423,424,4287407,landlord,/landlord,2020-01-05,EXPERT,1,0,5,36
+424,425,4740297,Pratham Tripathi,/prathamtripathi,2020-03-25,EXPERT,1,0,2,36
+425,426,4801400,Somayyeh Gholami,/somayyehgholami,2020-04-03,EXPERT,0,0,4,36
+426,427,5277123,Aditta Das Nishad,/adinishad,2020-06-10,EXPERT,0,0,5,36
+427,428,5346415,Venkatkumar R,/venkatkumar001,2020-06-22,EXPERT,0,0,4,36
+428,429,6534192,Kiran Sharma,/kdsharmaai,2021-01-16,EXPERT,0,0,7,36
+429,430,7825963,ANANTH R,/ananthr1,2021-07-03,EXPERT,0,0,4,36
+430,431,8082416,Marcus Vinicius,/markfinn1,2021-08-06,EXPERT,0,0,3,36
+431,432,8512481,DSFelix,/dsfelix,2021-10-04,EXPERT,0,0,5,36
+432,433,305510,Kyubyong Park,/bryanpark,2015-03-06,EXPERT,1,1,6,35
+433,434,732424,Kostiantyn Isaienkov,/isaienkov,2016-09-28,EXPERT,0,1,3,35
+434,435,1039385,HyeongChan Kim,/kozistr,2017-04-24,EXPERT,0,0,4,35
+435,436,1364892,Jung,/ratthachat,2017-10-27,EXPERT,0,1,5,35
+436,437,1500231,KARTHIK BHANDARY,/karthikbhandary2,2017-12-16,EXPERT,0,0,5,35
+437,438,2711621,TavoGLC,/tavoglc,2019-01-16,EXPERT,0,0,4,35
+438,439,5484076,Vikas Ukani,/vikasukani,2020-07-17,EXPERT,0,4,2,35
+439,440,5675624,Co-learning Lounge,/colearninglounge,2020-08-25,EXPERT,0,1,5,35
+440,441,8064850,Harsh Singh,/harshsingh2209,2021-08-04,EXPERT,0,0,3,35
+441,442,8490424,hugequiz.com,/darinhawley,2021-10-01,EXPERT,0,0,4,35
+442,443,8999476,Sandip devre,/sandipdevre,2021-11-26,EXPERT,0,0,5,35
+443,444,9713601,rumbleFTW,/rumbleftw,2022-02-19,EXPERT,0,0,3,35
+444,445,810213,Justinas Cirtautas,/justinas,2016-11-25,EXPERT,0,2,1,34
+445,446,1072765,Adriano Passos,/coldfir3,2017-05-13,EXPERT,0,0,3,34
+446,447,1575265,Blesson Densil,/blessondensil294,2018-01-23,EXPERT,0,1,6,34
+447,448,2430917,Marianna,/marianna13,2018-10-31,EXPERT,0,0,3,34
+448,449,2723137,Niharika Pandit,/niharika41298,2019-01-20,EXPERT,0,2,2,34
+449,450,3612572,Loulou,/louise2001,2019-08-22,EXPERT,0,0,11,34
+450,451,4009751,Mammad Abbasli,/mammadabbasli,2019-11-10,EXPERT,0,0,7,34
+451,452,4793224,Gaurav Rajesh Sahani,/gauravsahani,2020-04-02,EXPERT,0,2,5,34
+452,453,4837793,Constantin Werner,/constantinwerner,2020-04-08,EXPERT,0,2,1,34
+453,454,5000036,SANDIP PALIT,/sandippalit009,2020-05-01,EXPERT,0,0,4,34
+454,455,5289481,Shubam Sumbria,/shubamsumbria,2020-06-12,EXPERT,0,0,5,34
+455,456,5493928,Rajat Chaudhari,/rajatrc1705,2020-07-19,EXPERT,0,1,2,34
+456,457,7781962,Sayan Saha,/sayansh001,2021-06-27,EXPERT,0,0,4,34
+457,458,7863498,Siddharth Upadhyay,/sid3945,2021-07-08,EXPERT,0,0,4,34
+458,459,7916104,Kshitij Kumar,/kshitij192,2021-07-16,EXPERT,0,0,5,34
+459,460,8621145,Mohamed Gamal Abd-El Wahab,/muhammetgamal5,2021-10-17,EXPERT,0,0,4,34
+460,461,518134,corochann,/corochann,2016-02-01,EXPERT,1,2,1,33
+461,462,1413741,Ankur Sinha,/ankurzing,2017-11-13,EXPERT,0,1,2,33
+462,463,1956324,Carlo Lepelaars,/carlolepelaars,2018-05-31,EXPERT,0,2,5,33
+463,464,1991843,Amritvir Singh,/amritvirsinghx,2018-06-13,EXPERT,0,4,1,33
+464,465,2226962,VolodymyrGavrysh,/volodymyrgavrysh,2018-09-09,EXPERT,0,1,4,33
+465,466,3578135,Habib Gültekin,/hgultekin,2019-08-13,EXPERT,0,0,9,33
+466,467,3687601,Mohamed Harris,/mohamedharris,2019-09-10,EXPERT,0,0,5,33
+467,468,5832373,Buqi_,/wjybuqi,2020-09-23,EXPERT,0,1,2,33
+468,469,7662674,Andrej Marinchenko,/andrej0marinchenko,2021-06-12,EXPERT,0,0,5,33
+469,470,9148055,Lost in worlds,/lostinworlds,2021-12-11,EXPERT,0,0,3,33
+470,471,826671,Nguyentuananh,/astrung,2016-12-07,EXPERT,0,0,6,32
+471,472,1424766,Dieter,/christofhenkel,2017-11-17,EXPERT,0,1,7,32
+472,473,1506047,Jonathan Bown,/jonbown,2017-12-19,EXPERT,0,0,3,32
+473,474,1895217,Bjorn,/bjoernjostein,2018-05-08,EXPERT,0,0,5,32
+474,475,2062758,Theo Viel,/theoviel,2018-07-12,EXPERT,0,1,3,32
+475,476,2917154,KggleDat.,/sachinkumar413,2019-03-09,EXPERT,0,0,3,32
+476,477,3107144,Saurav Anand,/saurav9786,2019-04-18,EXPERT,0,1,5,32
+477,478,5156948,TUSHAR SARKAR,/tusharsarkar,2020-05-24,EXPERT,0,0,6,32
+478,479,6383332,Anandaram Ganapathi,/anandaramg,2020-12-15,EXPERT,0,0,5,32
+479,480,6579077,Tanjima Nasreen Jenia,/tanjimanasreenjenia,2021-01-23,EXPERT,0,0,3,32
+480,481,6591650,Alex Parkhomenko,/alexandrparkhomenko,2021-01-25,EXPERT,0,0,4,32
+481,482,7908726,Mokhinur Abdurakhimova,/mohinurabdurahimova,2021-07-15,EXPERT,0,0,3,32
+482,483,10193384,Mukul Deshantri,/mukuldeshantri,2022-04-09,EXPERT,0,0,3,32
+483,484,10644534,Sathyanarayan Rao,/sathyanarayanrao89,2022-05-25,EXPERT,0,0,3,32
+484,485,56073,David Robinson,/drobinson,2012-08-28,EXPERT,2,2,1,31
+485,486,371860,Omri Goldstein,/drgilermo,2015-06-22,EXPERT,1,1,3,31
+486,487,727004,Andrew Lukyanenko,/artgor,2016-09-24,EXPERT,0,3,2,31
+487,488,1178996,Gaurav,/disisbig,2017-07-21,EXPERT,0,0,7,31
+488,489,2334083,Marie,/mariapushkareva,2018-10-08,EXPERT,0,4,1,31
+489,490,2862643,Siddharth Mandgi,/siddharthmandgi,2019-02-25,EXPERT,0,0,3,31
+490,491,3477874,Kannan Ravinther,/kannan1314,2019-07-18,EXPERT,0,0,5,31
+491,492,4712534,Nischay Dhankhar,/nischaydnk,2020-03-21,EXPERT,0,0,5,31
+492,493,5319436,vinitshah0110,/vinitshah0110,2020-06-17,EXPERT,0,0,3,31
+493,494,6640507,ItsSuru,/itssuru,2021-02-02,EXPERT,0,1,7,31
+494,495,6648246,ammaraahmad,/ammaraahmad,2021-02-03,EXPERT,0,0,7,31
+495,496,6904224,IVAN CHAVEZ,/ivanchvez,2021-03-10,EXPERT,0,0,3,31
+496,497,6925136,M. Gagan Chandra,/gaganmaahi224,2021-03-12,EXPERT,0,0,5,31
+497,498,6993681,Pranav941,/pranav941,2021-03-21,EXPERT,0,0,3,31
+498,499,8405416,ruthgn,/ruthgn,2021-09-21,EXPERT,0,0,4,31
+499,500,8414208,Souvik Ganguly,/spdsou,2021-09-22,EXPERT,0,0,7,31
+500,501,8752683,Niek van der Zwaag,/niekvanderzwaag,2021-10-31,EXPERT,0,0,4,31
+501,502,19298,Luca Massaron,/lucamassaron,2011-10-26,EXPERT,0,0,4,30
+502,503,75976,CPMP,/cpmpml,2012-12-16,EXPERT,0,0,5,30
+503,504,347463,James Trotman,/jtrotman,2015-05-05,EXPERT,0,0,3,30
+504,505,1842126,Anton Koshelev,/appetukhov,2018-04-20,EXPERT,0,0,3,30
+505,506,2390050,Sripaad Srinivasan,/sripaadsrinivasan,2018-10-22,EXPERT,0,1,5,30
+506,507,3446939,Tanay Mehta,/heyytanay,2019-07-10,EXPERT,0,0,6,30
+507,508,3974712,KA-KA-shi,/adarshsng,2019-11-04,EXPERT,0,0,9,30
+508,509,4954679,Mithil Salunkhe,/mithilsalunkhe,2020-04-25,EXPERT,0,0,4,30
+509,510,4956749,Aayush Sharma,/aayush9753,2020-04-25,EXPERT,0,1,3,30
+510,511,6373899,Vijay V Venkitesh,/vijayvvenkitesh,2020-12-13,EXPERT,0,1,3,30
+511,512,8090615,Muhammad Abdulaziz,/intelai,2021-08-08,EXPERT,0,0,5,30
+512,513,10421455,Akash Kotal,/akashkotal,2022-05-02,EXPERT,0,0,3,30
+513,514,402009,Shuyang Li,/shuyangli94,2015-08-18,EXPERT,1,0,3,29
+514,515,1738095,Wei Hao Khoong,/khoongweihao,2018-03-20,EXPERT,0,1,6,29
+515,516,3699761,Rajkumar Sengottuvel,/rajsengo,2019-09-12,EXPERT,0,1,3,29
+516,517,4193896,GoldNuss,/danela,2019-12-12,EXPERT,0,0,4,29
+517,518,4627242,Ishan Dutta,/ishandutta,2020-03-07,EXPERT,0,1,9,29
+518,519,5045408,Suman Dey,/sumandey,2020-05-08,EXPERT,0,1,4,29
+519,520,5110127,Abhi,/akpmpr,2020-05-17,EXPERT,0,1,2,29
+520,521,5221270,Stanley Zheng,/stanleyjzheng,2020-06-02,EXPERT,0,2,2,29
+521,522,5754413,city-api.io,/cityapiio,2020-09-10,EXPERT,0,0,7,29
+522,523,5779931,Hetul Mehta,/hetulmehta,2020-09-15,EXPERT,0,1,3,29
+523,524,5888460,Axel Torbenson,/axeltorbenson,2020-10-05,EXPERT,0,0,3,29
+524,525,5924115,Mahmoud hassan Mahmoud,/mahmoudhassanmahmoud,2020-10-09,EXPERT,0,0,4,29
+525,526,6098637,Ozgur Cem Tas,/zgrcemta,2020-11-04,EXPERT,0,0,3,29
+526,527,6374656,Prabin Raj ,/prabinraj,2020-12-13,EXPERT,0,0,4,29
+527,528,6668220,Emir Yarkın Yaman,/weinoose,2021-02-05,EXPERT,0,0,5,29
+528,529,10499333,Kutluk Atalay,/kutlukatalay,2022-05-10,EXPERT,0,0,3,29
+529,530,10899058,Ash Trindade,/ashtrindade,2022-06-23,EXPERT,0,0,3,29
+530,531,19605,Jeong-Yoon Lee,/jeongyoonlee,2011-11-01,EXPERT,0,0,5,28
+531,532,276788,Mike Chirico,/mchirico,2014-12-30,EXPERT,1,3,3,28
+532,533,344198,Harry Wang,/harrywang,2015-04-29,EXPERT,0,0,5,28
+533,534,1017089,msafi04,/msafi04,2017-04-11,EXPERT,0,0,3,28
+534,535,1264580,khyeh,/khyeh0719,2017-09-13,EXPERT,0,2,2,28
+535,536,2348066,Pritesh Raj,/priteshraj10,2018-10-11,EXPERT,0,0,6,28
+536,537,2779944,Mr_KnowNothing,/tanulsingh077,2019-02-04,EXPERT,0,1,3,28
+537,538,2909983,Francois Lemarchand,/frlemarchand,2019-03-07,EXPERT,0,1,2,28
+538,539,3381067,Hasan Basri Akçay,/hasanbasriakcay,2019-06-22,EXPERT,0,0,3,28
+539,540,3512471,Eswar Chand,/eswarchandt,2019-07-27,EXPERT,1,0,3,28
+540,541,3745280,Ravirajsinh Dabhi,/ravirajsinh45,2019-09-22,EXPERT,1,0,2,28
+541,542,4131566,Sokolov Aleksandr,/sokolovaleks,2019-11-30,EXPERT,0,0,4,28
+542,543,4306089,🌵,/frankmollard,2020-01-09,EXPERT,0,2,2,28
+543,544,4457718,Muhammet Ikbal Elek,/mielek,2020-02-08,EXPERT,0,0,11,28
+544,545,5196267,Paras Varshney,/blurredmachine,2020-05-30,EXPERT,0,4,0,28
+545,546,5421940,Shanmukh,/shanmukh05,2020-07-06,EXPERT,0,0,5,28
+546,547,7482952,Ahmed Haytham,/ahmedhaytham,2021-05-22,EXPERT,0,0,4,28
+547,548,9241510,William Hyun,/williamhyun,2021-12-24,EXPERT,0,0,3,28
+548,549,9519023,Akshay Pawar,/akshaypawar7,2022-01-28,EXPERT,0,0,3,28
+549,550,131457,ryati,/ryati131457,2013-10-06,EXPERT,1,0,2,27
+550,551,616106,Luis Moneda,/lgmoneda,2016-05-18,EXPERT,0,2,5,27
+551,552,798407,Shion,/shiondatafiniti,2016-11-17,EXPERT,0,4,3,27
+552,553,933480,عثمان,/authman,2017-02-28,EXPERT,2,0,1,27
+553,554,1201155,Michał Choiński,/mikecho,2017-08-04,EXPERT,0,1,2,27
+554,555,1748051,marketneutral,/marketneutral,2018-03-22,EXPERT,0,0,3,27
+555,556,3197002,Nikit Periwal,/stoicstatic,2019-05-08,EXPERT,0,0,5,27
+556,557,3288534,🚀𝐒𝐨𝐧𝐚𝐥𝐢 𝐒𝐢𝐧𝐠𝐡,/sonalisingh1411,2019-05-29,EXPERT,0,0,4,27
+557,558,5325014,Akash Kunwar,/kunwarakash,2020-06-18,EXPERT,0,0,3,27
+558,559,5513692,Prashant Pathak,/prashantpathak244,2020-07-23,EXPERT,0,0,3,27
+559,560,5730096,IshaDS,/ishadss,2020-09-06,EXPERT,0,0,6,27
+560,561,5813776,xuxu_sky,/xuxu1234,2020-09-20,EXPERT,0,0,5,27
+561,562,7772373,Suraj Das,/infinator,2021-06-25,EXPERT,0,0,3,27
+562,563,7833155,KANDHAL KHANDEKA,/kandhalkhandeka,2021-07-04,EXPERT,0,0,3,27
+563,564,7879785,Yaswanth Gali,/yaswanthgali,2021-07-11,EXPERT,0,0,3,27
+564,565,8130831,Farhan Sadeek,/farhansadeek,2021-08-14,EXPERT,0,0,4,27
+565,566,9230516,Dhwanil Shah,/dshah1612,2021-12-22,EXPERT,0,0,3,27
+566,567,9413873,Bikram Saha,/imbikramsaha,2022-01-16,EXPERT,0,0,3,27
+567,568,9680744,Luke X,/lukexun,2022-02-15,EXPERT,0,0,3,27
+568,569,9940466,Madhur Pant,/madhurpant,2022-03-15,EXPERT,0,0,3,27
+569,570,10241573,Riyuzaki Umayru,/raihansoniwala,2022-04-14,EXPERT,0,0,4,27
+570,571,432025,Aravind Ram Nathan,/aravindram11,2015-10-01,EXPERT,0,0,3,26
+571,572,764292,Ranja Sarkar,/ranja7,2016-10-24,EXPERT,0,0,3,26
+572,573,868955,Sadegh Jalalian,/sadeghjalalian,2017-01-15,EXPERT,0,0,3,26
+573,574,942701, Akash Gupta,/akash14,2017-03-05,EXPERT,0,1,7,26
+574,575,1040867,Ramanathan,/ramamet4,2017-04-24,EXPERT,1,0,2,26
+575,576,1305825,Shiro,/ludovick,2017-10-02,EXPERT,0,1,5,26
+576,577,1328185,Darek Kłeczek,/thedrcat,2017-10-11,EXPERT,0,0,4,26
+577,578,1696976,Roman,/nroman,2018-03-06,EXPERT,1,1,1,26
+578,579,1813970,Minyong Shin,/gyejr95,2018-04-12,EXPERT,0,1,8,26
+579,580,3197853,moth,/alejopaullier,2019-05-08,EXPERT,0,0,3,26
+580,581,3350732,M Razif Rizqullah,/linkgish,2019-06-14,EXPERT,0,0,4,26
+581,582,3445455,Susant_Achary🎲,/susant4learning,2019-07-10,EXPERT,0,0,5,26
+582,583,4396359,Mohd Abdul Azeem,/muhammedabdulazeem,2020-01-28,EXPERT,0,0,4,26
+583,584,4663387,Pratham Sharma,/prathamsharma123,2020-03-13,EXPERT,0,1,3,26
+584,585,4910466,bilzard,/tatamikenn,2020-04-19,EXPERT,0,0,4,26
+585,586,5007851,Rushikesh,/rushikeshlavate,2020-05-02,EXPERT,0,0,8,26
+586,587,5418621,Arjun Bhaybhang,/arjunbhaybhang,2020-07-05,EXPERT,0,0,4,26
+587,588,5792998,Yvtsan Levy,/yvtsanlevy,2020-09-17,EXPERT,0,0,3,26
+588,589,5900775,Jen Wadkins,/threnjen,2020-10-06,EXPERT,0,0,5,26
+589,590,6970935,Alexander Bader,/alexanderbader,2021-03-18,EXPERT,0,1,3,26
+590,591,7487280,Bala Vashan,/balavashan,2021-05-23,EXPERT,0,0,4,26
+591,592,7867047,Aneesh Tickoo,/aneeshtickoo,2021-07-09,EXPERT,0,0,5,26
+592,593,8265508,gourav_gujariya,/battle11king,2021-09-02,EXPERT,0,0,3,26
+593,594,9061020,Meer Atif,/meeratif,2021-12-02,EXPERT,0,0,4,26
+594,595,10077530,Vysakh M S,/vysakhvms,2022-03-29,EXPERT,0,0,4,26
+595,596,10374722,"Nirmalya Thakur, PhD",/thakurnirmalya,2022-04-27,EXPERT,0,0,4,26
+596,597,562247,Mohamed Loey,/mloey1,2016-03-20,EXPERT,0,2,1,25
+597,598,1513667,Suddharshan S,/suddharshan,2017-12-24,EXPERT,0,0,3,25
+598,599,1688558,Aleksandr Nikolich,/alexwortega,2018-03-04,EXPERT,0,0,3,25
+599,600,1821234,Evgeniya Sukhodolskaya,/edsukhodolskaya,2018-04-14,EXPERT,0,0,3,25
+600,601,2560033,Siti Khotijah,/khotijahs1,2018-11-30,EXPERT,0,0,7,25
+601,602,2675197,Jose Guzman,/joseguzman,2019-01-05,EXPERT,0,0,4,25
+602,603,2926451,Sercan Yeşilöz,/sercanyesiloz,2019-03-11,EXPERT,0,0,5,25
+603,604,3890590,JIL KOTHARI,/jilkothari,2019-10-20,EXPERT,0,1,3,25
+604,605,4314579,SR,/surekharamireddy,2020-01-11,EXPERT,0,0,3,25
+605,606,4413692,MA Faisal,/mafaisal007,2020-01-31,EXPERT,0,0,4,25
+606,607,4905570,Shivani Rana,/shivanirana63,2020-04-18,EXPERT,0,0,3,25
+607,608,5069700,Jirka Borovec,/jirkaborovec,2020-05-11,EXPERT,0,0,4,25
+608,609,5138057,Harshit Shankhdhar,/harshitshankhdhar,2020-05-21,EXPERT,0,1,2,25
+609,610,5592707,Vaishnavi V,/vaishnavivenkatesan,2020-08-08,EXPERT,0,0,8,25
+610,611,5955223,Nisarg Chodavadiya,/nisargchodavadiya,2020-10-14,EXPERT,0,0,3,25
+611,612,6145551,Dspyt,/pavfedotov,2020-11-11,EXPERT,0,0,4,25
+612,613,7234856,BOOBA,/youneseloiarm,2021-04-20,EXPERT,0,0,3,25
+613,614,7625397,Gabriel Santello,/gabrielsantello,2021-06-09,EXPERT,0,0,3,25
+614,615,8225537,M Faarisul Ilmi,/mfaaris,2021-08-27,EXPERT,0,0,3,25
+615,616,10140537,Shi Long Zhuang,/shilongzhuang,2022-04-04,EXPERT,0,0,3,25
+616,617,10716378,MaxMnemo1010,/maxmnemo1010,2022-06-02,EXPERT,0,0,3,25
+617,618,166871,Liling Tan,/alvations,2014-02-17,EXPERT,0,0,12,24
+618,619,367178,Rob Harrand,/tentotheminus9,2015-06-12,EXPERT,0,2,3,24
+619,620,458815,Laura Fink,/allunia,2015-11-04,EXPERT,0,0,6,24
+620,621,801148,Kheirallah Samaha,/khsamaha,2016-11-18,EXPERT,0,2,2,24
+621,622,851857,Shruti_Iyyer,/shrutimechlearn,2016-12-30,EXPERT,0,1,2,24
+622,623,880183,CoreyChristensen,/chrico03,2017-01-23,EXPERT,0,0,3,24
+623,624,1272482,Sani Kamal,/sanikamal,2017-09-17,EXPERT,0,2,1,24
+624,625,1383867,Adeel Zafar,/adizafar,2017-11-02,EXPERT,0,0,3,24
+625,626,1817124,Narendra Prasath,/narendrageek,2018-04-13,EXPERT,0,1,3,24
+626,627,2913628,Daria Chemkaeva,/lsind18,2019-03-08,EXPERT,0,0,8,24
+627,628,2998588,ma7555,/ma7555,2019-03-27,EXPERT,0,1,3,24
+628,629,3489917,Hamza,/hamzaghanmi,2019-07-21,EXPERT,0,0,4,24
+629,630,4754773,Farhan Hai Khan,/farhanhaikhan,2020-03-27,EXPERT,0,0,4,24
+630,631,5460123,Kritanjali Jain,/kritanjalijain,2020-07-13,EXPERT,0,0,4,24
+631,632,5506556,Data Storm,/paulrohan2020,2020-07-21,EXPERT,0,0,4,24
+632,633,6426050,Muhammad Shahid Mirza,/methoomirza,2020-12-24,EXPERT,0,0,5,24
+633,634,6542693,george saavedra,/georgesaavedra,2021-01-18,EXPERT,0,0,3,24
+634,635,6629778,Sardor Abdirayimov,/sardorabdirayimov,2021-01-31,EXPERT,0,0,5,24
+635,636,7309923,Shawkat Sujon,/shawkatsujon,2021-04-30,EXPERT,0,0,3,24
+636,637,7763888,Zeenb,/zeeenb,2021-06-24,EXPERT,0,0,3,24
+637,638,8065938,Mainak Chaudhuri,/brijlaldhankour,2021-08-04,EXPERT,0,0,3,24
+638,639,8199477,Wassim Chouchen,/wassimchouchen,2021-08-23,EXPERT,0,0,4,24
+639,640,10932954,AKS,/bpmtips,2022-06-28,EXPERT,0,0,4,24
+640,641,229290,KP,/skihikingkevin,2014-08-26,EXPERT,1,1,1,23
+641,642,337744,Tolga,/tolgadincer,2015-04-19,EXPERT,0,1,2,23
+642,643,418526,RVK,/rahulvks,2015-09-14,EXPERT,0,0,3,23
+643,644,436401,tkm2261,/tkm2261,2015-10-06,EXPERT,0,1,2,23
+644,645,1918280,Ashish Gupta,/roydatascience,2018-05-16,EXPERT,0,2,5,23
+645,646,2205850,Yash Gupta,/eryash15,2018-09-03,EXPERT,0,1,2,23
+646,647,2674691,Alexander Antonov,/trolukovich,2019-01-05,EXPERT,0,0,6,23
+647,648,2884552,Neelima Jauhari,/nilimajauhari,2019-03-02,EXPERT,0,3,1,23
+648,649,2974763,yash chaudhary,/yash612,2019-03-21,EXPERT,1,1,1,23
+649,650,3015400,Navin Mundhra,/navinmundhra,2019-03-30,EXPERT,1,0,2,23
+650,651,3165553,Rini Christy,/rinichristy,2019-05-01,EXPERT,0,0,4,23
+651,652,3679261,Sayantan Kirtaniya,/sayantankirtaniya,2019-09-08,EXPERT,0,0,5,23
+652,653,3987701,Taran Marley,/taranmarley,2019-11-06,EXPERT,0,0,3,23
+653,654,3991483,Dr. Amritpal Singh,/amritpal333,2019-11-06,EXPERT,0,0,5,23
+654,655,4430478,Pierre-Louis DANIEAU,/pierrelouisdanieau,2020-02-03,EXPERT,0,0,3,23
+655,656,4663666,Manikantan R Nair,/manikantanrnair,2020-03-13,EXPERT,0,0,5,23
+656,657,5286157,Akuppps,/akuppps,2020-06-12,EXPERT,0,0,3,23
+657,658,5428597,Nandini Bagga,/nandinibagga,2020-07-07,EXPERT,0,0,8,23
+658,659,6446811,Kartik Khandelwal,/kartik2khandelwal,2020-12-30,EXPERT,0,0,3,23
+659,660,6584683,Nadia Nizam,/nadianizam,2021-01-24,EXPERT,0,0,3,23
+660,661,7089355,Gaurav Topre,/gauravtopre,2021-04-02,EXPERT,0,0,4,23
+661,662,7980944,Ahmed,/dsxavier,2021-07-25,EXPERT,0,0,3,23
+662,663,8167377,Aishik Rakshit,/aishikai,2021-08-18,EXPERT,0,0,5,23
+663,664,9139023,Himanshu Nayal,/himanshunayal,2021-12-10,EXPERT,0,0,3,23
+664,665,201774,Mark Peng,/markpeng,2014-05-29,EXPERT,0,0,5,22
+665,666,710858,Canggih P Wibowo,/canggih,2016-09-10,EXPERT,0,1,4,22
+666,667,908174,Ken Miller,/mlconsult,2017-02-11,EXPERT,0,1,2,22
+667,668,1315989,Nitisha,/nitishabharathi,2017-10-06,EXPERT,0,1,3,22
+668,669,1785459,Adnan Zaidi,/adnanzaidi,2018-04-03,EXPERT,0,2,2,22
+669,670,2030328,Joseph Mohr,/josephvm,2018-06-29,EXPERT,0,0,3,22
+670,671,2175703,Bhushan Kapkar,/bpkapkar,2018-08-23,EXPERT,0,1,5,22
+671,672,2591653,Abhinand,/abhinand05,2018-12-08,EXPERT,0,1,4,22
+672,673,3595027,Gotam Dahiya,/apollo2506,2019-08-18,EXPERT,0,1,2,22
+673,674,4874474,salah sammari,/midouazerty,2020-04-13,EXPERT,0,0,6,22
+674,675,4999317,Pranjal Verma,/pranjalverma08,2020-05-01,EXPERT,0,0,3,22
+675,676,5118474,Shreya Sajal,/shreyasajal,2020-05-18,EXPERT,0,0,3,22
+676,677,5960949,Amir Pourmand,/amirpourmand,2020-10-14,EXPERT,0,0,3,22
+677,678,6179408,Pawan Kumar Yadav,/pawankumar97,2020-11-17,EXPERT,0,0,3,22
+678,679,6294032,Chien-Hsiang Hung,/chienhsianghung,2020-12-02,EXPERT,0,1,3,22
+679,680,6641705,Saad Azam,/sadmadlad,2021-02-02,EXPERT,0,0,3,22
+680,681,8321670,Dhinahar P,/dhinaharp,2021-09-10,EXPERT,0,0,3,22
+681,682,172795,Jeff Heaton,/jeffheaton,2014-03-10,EXPERT,0,0,5,21
+682,683,214989,steubk,/steubk,2014-07-09,EXPERT,0,0,3,21
+683,684,505747,anokas,/anokas,2016-01-16,EXPERT,2,0,2,21
+684,685,847012,Daisuke Ishii,/daiearth22,2016-12-25,EXPERT,0,1,5,21
+685,686,873724,Benjamin Minixhofer,/bminixhofer,2017-01-18,EXPERT,0,2,2,21
+686,687,886142,Shane Smith,/smid80,2017-01-27,EXPERT,1,0,4,21
+687,688,1295006,Harveen Singh Chadha,/harveenchadha,2017-09-27,EXPERT,0,0,5,21
+688,689,1433386,V.Prasanna Kumar,/vpkprasanna,2017-11-20,EXPERT,0,1,6,21
+689,690,1472857,Muhammad Bux Alvi,/mbalvi75,2017-12-05,EXPERT,0,0,4,21
+690,691,1971779,Landry KEZEBOU,/landrykezebou,2018-06-06,EXPERT,0,0,4,21
+691,692,2337246,Asim Zahid,/asimzahid,2018-10-08,EXPERT,0,0,4,21
+692,693,2594804,Volkan Özdemir,/volkandl,2018-12-09,EXPERT,0,0,4,21
+693,694,2686945,SIDDHARTH M,/siddharthm1698,2019-01-09,EXPERT,1,0,2,21
+694,695,3177784,Yirun Zhang,/gogo827jz,2019-05-04,EXPERT,0,0,5,21
+695,696,3363440,Fares Sayah,/faressayah,2019-06-18,EXPERT,0,2,2,21
+696,697,3379581,ME2MLE,/samsonlo,2019-06-22,EXPERT,0,0,3,21
+697,698,3387210,Prateek Majumder,/prateekmaj21,2019-06-24,EXPERT,0,0,4,21
+698,699,3391284,Erin Ward,/eward96,2019-06-25,EXPERT,0,0,6,21
+699,700,3400968,Valentyn Sichkar,/valentynsichkar,2019-06-27,EXPERT,0,1,3,21
+700,701,3698700,Dev Khant,/devkhant24,2019-09-12,EXPERT,0,0,3,21
+701,702,4277074,Rohit Sahoo,/rohitsahoo,2020-01-02,EXPERT,0,1,2,21
+702,703,4616296,Ertuğrul Demir,/datafan07,2020-03-05,EXPERT,0,1,3,21
+703,704,4751080,Paulo Breviglieri,/pcbreviglieri,2020-03-27,EXPERT,0,1,4,21
+704,705,4949147,Vishnu Varthan Rao,/vishnuvarthanrao,2020-04-24,EXPERT,1,0,2,21
+705,706,5011653,Saurabh Patra,/patrasaurabh,2020-05-03,EXPERT,0,0,4,21
+706,707,5216831,Chandrima D,/chandrimad31,2020-06-02,EXPERT,0,0,3,21
+707,708,5529272,Umair Nasir14,/umairnasir14,2020-07-26,EXPERT,0,2,2,21
+708,709,6374959,Raj Gupta,/rajgupta2019,2020-12-13,EXPERT,0,0,3,21
+709,710,6541719,Ahmed Dawoud,/ahmedmohameddawoud,2021-01-17,EXPERT,0,0,4,21
+710,711,6762435,antoreepjana,/antoreepjana,2021-02-19,EXPERT,0,0,4,21
+711,712,6800357,Maximiliano Diaz Battan,/maxdiazbattan,2021-02-24,EXPERT,0,0,3,21
+712,713,8014035,Ebrahim Haque Bhatti,/ebrahimhaquebhatti,2021-07-30,EXPERT,0,0,3,21
+713,714,8399738,Mayur Dalvi,/mayurdalvi,2021-09-21,EXPERT,0,0,4,21
+714,715,9118199,Shray Garg,/zwartfreak,2021-12-08,EXPERT,0,0,3,21
+715,716,10595220,Daniel Albarracin Morales,/danielalbarracinm,2022-05-20,EXPERT,0,0,3,21
+716,717,3346,Eu Jin Lok,/ejlok1,2010-10-21,EXPERT,0,1,2,20
+717,718,804629,Vasiliy,/vgarshin,2016-11-21,EXPERT,0,0,4,20
+718,719,872208,Jean-Michel D.,/jeanmidev,2017-01-17,EXPERT,1,0,3,20
+719,720,874280,LPLenka,/lplenka,2017-01-19,EXPERT,0,1,3,20
+720,721,918115,LiamLarsen,/kingburrito666,2017-02-18,EXPERT,0,3,4,20
+721,722,1348567,Ulrich G.,/ulrich07,2017-10-20,EXPERT,0,0,5,20
+722,723,1500455,Saber MalekzadeH,/sabermalek,2017-12-17,EXPERT,0,0,3,20
+723,724,1905996,Kaushal Shah,/kaushal2896,2018-05-12,EXPERT,0,1,3,20
+724,725,2185587,Jay tilala,/jaytilala,2018-08-27,EXPERT,0,0,3,20
+725,726,2836169,ozgurdogan,/ozgurdogan646,2019-02-19,EXPERT,0,0,4,20
+726,727,3502800,Naman Manchanda,/namanmanchanda,2019-07-24,EXPERT,0,1,2,20
+727,728,3809469,Mohammad Reza Ghari,/rezaghari,2019-10-05,EXPERT,0,2,1,20
+728,729,3913463,Evan Zhang,/ironicninja,2019-10-23,EXPERT,0,0,6,20
+729,730,4010658,Elvin Aghammadzada,/elvinagammed,2019-11-10,EXPERT,0,1,2,20
+730,731,4494276,Haithem Hermessi,/haithemhermessi,2020-02-14,EXPERT,0,0,7,20
+731,732,4695459,Himanshu,/himanshu007121,2020-03-18,EXPERT,0,0,3,20
+732,733,4852445,Vagif Aliyev,/vagifa,2020-04-10,EXPERT,0,0,4,20
+733,734,5256931,Abhishek Kumar,/uniabhi,2020-06-08,EXPERT,0,0,3,20
+734,735,5352905,Kaveh Shahhosseini,/kavehshahhosseini,2020-06-23,EXPERT,0,0,3,20
+735,736,5484583,Ege Akyol,/egeakyol,2020-07-17,EXPERT,0,0,3,20
+736,737,5521351,The ML PhD Student,/themlphdstudent,2020-07-24,EXPERT,0,0,5,20
+737,738,5535331,Vishwesh Salodkar,/vishweshsalodkar,2020-07-27,EXPERT,0,0,5,20
+738,739,5973456,lastsunset,/zhakhangershaidullov,2020-10-16,EXPERT,0,0,5,20
+739,740,6129318,Shahrayar,/muhammadshahrayar,2020-11-09,EXPERT,0,0,4,20
+740,741,6276342,Anand Kumar Sahu,/anandkumarsahu09,2020-11-30,EXPERT,0,0,3,20
+741,742,6710117,T.J. Kyner,/tjkyner,2021-02-12,EXPERT,0,0,4,20
+742,743,7011497,AKR,/raj401,2021-03-23,EXPERT,0,0,3,20
+743,744,7192361,Aryan Tiwari,/aryantiwari123,2021-04-15,EXPERT,0,0,3,20
+744,745,7660288,Umesh Kumar Adari,/umeshkumar017,2021-06-12,EXPERT,0,0,5,20
+745,746,7807714,Ayush Jain,/ayushjain001,2021-06-30,EXPERT,0,0,3,20
+746,747,8726614,VaibhavChopra,/vaibhavchopra2,2021-10-28,EXPERT,0,0,4,20
+747,748,11045111,codestarters,/codestarters,2022-07-13,EXPERT,0,0,3,20
+748,749,1304974,Salim Khazem,/salimkhazem,2017-10-02,EXPERT,0,0,7,19
+749,750,1399312,Calven Ng,/calven22,2017-11-08,EXPERT,0,0,3,19
+750,751,1483555,Takamichi Toda,/takamichitoda,2017-12-09,EXPERT,0,0,4,19
+751,752,2054977,Parth Chokhra,/parthplc,2018-07-09,EXPERT,0,1,2,19
+752,753,2326382,Paul,/prondeau,2018-10-05,EXPERT,0,2,2,19
+753,754,2435391,podsyp,/podsyp,2018-11-01,EXPERT,0,0,9,19
+754,755,2863436,Tan Phan,/phanttan,2019-02-26,EXPERT,0,0,3,19
+755,756,3203431,Prakhar Rathi,/prakharrathi25,2019-05-09,EXPERT,0,1,4,19
+756,757,3389856,Ishan Kotian,/lykin22,2019-06-25,EXPERT,0,0,4,19
+757,758,3565979,Marco Carujo,/mcarujo,2019-08-10,EXPERT,0,0,3,19
+758,759,4356057,Archan Ghosh,/archanghosh,2020-01-20,EXPERT,0,0,3,19
+759,760,4359632,Atharva Ingle,/atharvaingle,2020-01-21,EXPERT,0,1,2,19
+760,761,4364876,NITISH SINGHAL,/nitishsinghal,2020-01-22,EXPERT,0,0,3,19
+761,762,5368170,Harsha Varshney,/harshavarshney,2020-06-25,EXPERT,0,0,6,19
+762,763,5449099,IAbhishekBhardwaj,/iabhishekbhardwaj,2020-07-11,EXPERT,0,0,3,19
+763,764,5602038,Osiris,/oossiiris,2020-08-10,EXPERT,0,1,4,19
+764,765,6234152,Mansib Mursalin,/mansibmursalin,2020-11-24,EXPERT,0,0,3,19
+765,766,6405452,Chanon Charuchinda,/chanoncharuchinda,2020-12-19,EXPERT,0,0,3,19
+766,767,7307107,Rogerio Vaz,/rogeriovaz,2021-04-29,EXPERT,0,0,3,19
+767,768,7385725,Pralabh Poudel,/pralabhpoudel,2021-05-10,EXPERT,0,0,3,19
+768,769,8110380,Ibrahim Serouis 99,/ibrahimserouis99,2021-08-11,EXPERT,0,0,3,19
+769,770,9024155,Umang Dobariya,/umangdobariya1436,2021-11-29,EXPERT,0,0,3,19
+770,771,252874,SkyLord,/skylord,2014-10-30,EXPERT,0,0,3,18
+771,772,484496,Elias Dabbas,/eliasdabbas,2015-12-09,EXPERT,0,1,2,18
+772,773,987995,dr. Konya,/sandorkonya,2017-03-25,EXPERT,0,0,3,18
+773,774,1468862,Pranav Hari,/phiitm,2017-12-04,EXPERT,0,0,6,18
+774,775,1475554,Arman Malekzadeh Lashkaryani,/malekzadeharman,2017-12-06,EXPERT,0,0,3,18
+775,776,1533640,ahmettezcantekin,/ahmettezcantekin,2018-01-06,EXPERT,0,1,4,18
+776,777,1710629,Dwarika Teli,/dwarika,2018-03-11,EXPERT,0,0,6,18
+777,778,1876507,Srinidhi,/ggsri123,2018-05-02,EXPERT,0,0,3,18
+778,779,2089138,Satyajit Pattnaik,/pattnaiksatyajit,2018-07-22,EXPERT,0,0,6,18
+779,780,2249414,Satyam Prasad Tiwari,/satyampd,2018-09-15,EXPERT,0,1,2,18
+780,781,3198184,Convophile,/vineeth1999,2019-05-08,EXPERT,0,0,4,18
+781,782,3237858,Anton Kostin,/visualcomments,2019-05-17,EXPERT,0,0,4,18
+782,783,3550438,Faseeh001,/faseeh001,2019-08-06,EXPERT,0,0,3,18
+783,784,3746884,Ashwani Rathee,/ashkhagan,2019-09-22,EXPERT,0,1,2,18
+784,785,3847086,Vipin Kumar,/vipin20,2019-10-12,EXPERT,0,0,3,18
+785,786,4196226,aman2000jaiswal,/aman2000jaiswal,2019-12-12,EXPERT,0,1,2,18
+786,787,4274480,Manish Sharma,/monal007,2020-01-02,EXPERT,0,0,5,18
+787,788,4948300,Shubham Singh,/shub99,2020-04-24,EXPERT,0,0,3,18
+788,789,5130382,LandfallMotto,/landfallmotto,2020-05-20,EXPERT,0,0,3,18
+789,790,5308433,Omar Hany,/omarhanyy,2020-06-15,EXPERT,0,1,2,18
+790,791,5545022,Sidharth Kumar Mohanty,/sidharth178,2020-07-29,EXPERT,0,0,5,18
+791,792,5661275,BHAVISH SALIA,/bhavishsalia,2020-08-22,EXPERT,0,0,3,18
+792,793,5663726,Lázaro,/lazaro97,2020-08-22,EXPERT,0,1,3,18
+793,794,6195046,sonu kumari,/sonukumari47,2020-11-19,EXPERT,0,0,4,18
+794,795,8487941,CaptainClever,/abhimaneukj,2021-10-01,EXPERT,0,0,5,18
+795,796,8774901,Kourosh Kouhyar,/cyruskouhyar,2021-11-02,EXPERT,0,0,4,18
+796,797,103225,Bukun,/ambarish,2013-05-27,EXPERT,0,1,2,17
+797,798,745525,yu4u,/ren4yu,2016-10-09,EXPERT,0,0,3,17
+798,799,1220228,Fellipe Gomes,/gomes555,2017-08-17,EXPERT,0,2,2,17
+799,800,2127141,SAIF UDDIN,/saife245,2018-08-05,EXPERT,0,0,5,17
+800,801,2986914,Akshat Dubey,/akshat0007,2019-03-24,EXPERT,0,2,1,17
+801,802,3591792,VIVEK,/vivmankar,2019-08-17,EXPERT,0,0,3,17
+802,803,3734498,Somesh Sharma,/somesh24,2019-09-19,EXPERT,0,0,9,17
+803,804,4564622,Alberto Zorzetto,/albertozorzetto,2020-02-26,EXPERT,0,0,3,17
+804,805,4656711,Cameron MacPherson,/cameronmacpherson,2020-03-12,EXPERT,0,0,3,17
+805,806,4684168,Akhilesh D. Kapse,/akhileshdkapse,2020-03-17,EXPERT,0,0,3,17
+806,807,4687113,Jyot Makadiya,/jyotmakadiya,2020-03-17,EXPERT,0,0,4,17
+807,808,4708826,Soumyadip Sarkar,/impapan,2020-03-20,EXPERT,0,0,5,17
+808,809,4848480,Jin Bonnie,/jinbonnie,2020-04-10,EXPERT,0,0,5,17
+809,810,4892590,Daniboy370,/daniboy370,2020-04-16,EXPERT,0,1,2,17
+810,811,4943432,SHREYAS P J,/shreyaspj,2020-04-23,EXPERT,0,0,3,17
+811,812,5238268,Abu Bakar,/bakar31,2020-06-05,EXPERT,0,0,3,17
+812,813,5330155,D_aniel122,/daniel122,2020-06-19,EXPERT,0,0,3,17
+813,814,5344332,Ahmed Ali Omar,/ahmedaliomar,2020-06-21,EXPERT,0,0,3,17
+814,815,5639119,Mehant Kammakomati,/mehantkammakomati,2020-08-18,EXPERT,0,0,3,17
+815,816,5782796,Arif Eker,/arifeker,2020-09-15,EXPERT,0,0,4,17
+816,817,6044157,Balasubramaniam,/balasubramaniamv,2020-10-27,EXPERT,0,0,3,17
+817,818,6223515,Abdelrahman Mahana,/abdelrahmanmahana,2020-11-23,EXPERT,0,0,3,17
+818,819,6410124,HAIDER MASOOD,/haidermasood,2020-12-20,EXPERT,0,0,4,17
+819,820,6880456,Diana Pratiwi,/dianapratiwi,2021-03-07,EXPERT,0,0,3,17
+820,821,6910521,Hugo R. V. Angulo,/hugovallejo,2021-03-10,EXPERT,0,0,3,17
+821,822,8945148,Johannes Hötter,/johoetter,2021-11-20,EXPERT,0,0,4,17
+822,823,192294,Sudipta Kar,/cryptexcode,2014-04-30,EXPERT,0,0,3,16
+823,824,254569,Abishek Sudarshan,/abisheksudarshan,2014-11-04,EXPERT,0,1,2,16
+824,825,355417,AiswaryaRamachandran,/aiswaryaramachandran,2015-05-20,EXPERT,0,0,3,16
+825,826,622996,Muhammad Nakhaee,/imuhammad,2016-05-24,EXPERT,0,0,3,16
+826,827,1070485,Ahiale Darlington,/elikplim,2017-05-12,EXPERT,0,0,3,16
+827,828,1439783,Evan Hallmark,/ehallmar,2017-11-22,EXPERT,0,1,4,16
+828,829,1533578,Atri Saxena,/atrisaxena,2018-01-06,EXPERT,0,0,3,16
+829,830,1592357,Guy Barash,/guybarash,2018-01-29,EXPERT,0,0,3,16
+830,831,1673888,Tarek Hamdi,/hamditarek,2018-02-27,EXPERT,0,0,6,16
+831,832,2369716,Meric Pakkan,/pakkanmeric,2018-10-16,EXPERT,0,0,4,16
+832,833,2708391,soham mukherjee,/soham1024,2019-01-15,EXPERT,0,0,7,16
+833,834,2980755,Md. Redwan Karim Sony,/redwankarimsony,2019-03-23,EXPERT,0,0,5,16
+834,835,3505796,AndresHG,/andreshg,2019-07-25,EXPERT,0,0,4,16
+835,836,3543139,GreatGameDota,/greatgamedota,2019-08-04,EXPERT,0,1,2,16
+836,837,3579737,Abhijeet Bhilare,/abhijeetbhilare,2019-08-14,EXPERT,0,0,3,16
+837,838,3781557,Mohamed abdelrazik,/mohamed3abdelrazik,2019-09-29,EXPERT,0,1,3,16
+838,839,4042963,Harsh Walia,/harshwalia,2019-11-15,EXPERT,0,0,3,16
+839,840,4397228,Zaid Qureshi,/zq1200,2020-01-28,EXPERT,0,0,3,16
+840,841,4860182,Jeffrey Braun,/jeffreybraun,2020-04-11,EXPERT,0,1,3,16
+841,842,4954907,Mohsin Raza,/razamh,2020-04-25,EXPERT,0,0,4,16
+842,843,5041393,Aayush Kandpal,/aayushkandpal,2020-05-07,EXPERT,0,0,5,16
+843,844,5056607,Çağrı Karadeniz,/arkaradeniz,2020-05-09,EXPERT,0,0,3,16
+844,845,5144477,Yash Chauhan,/lazrus,2020-05-22,EXPERT,0,0,3,16
+845,846,5264886,Vivekkumar Gediya,/vivekgediya,2020-06-09,EXPERT,0,0,4,16
+846,847,5905300,Adam Wurdits,/adamwurdits,2020-10-07,EXPERT,0,0,3,16
+847,848,7496731,AngadChau,/angadchau,2021-05-24,EXPERT,0,0,3,16
+848,849,7806547,Levent Özdemir,/leventoz,2021-06-30,EXPERT,0,0,3,16
+849,850,10467753,MINHAZ CHOWDHURY,/minhazengg,2022-05-07,EXPERT,0,0,3,16
+850,851,3256,Jeremy Howard,/jhoward,2010-10-13,EXPERT,0,0,6,15
+851,852,152648,Saurav Agarwal,/sauravagarwal,2013-12-26,EXPERT,0,0,6,15
+852,853,612429,Motaz Saad,/mksaad,2016-05-13,EXPERT,0,0,3,15
+853,854,634872,Jeff Faudi,/jeffaudi,2016-06-07,EXPERT,0,0,3,15
+854,855,734344,seefun,/seefun,2016-09-30,EXPERT,0,0,3,15
+855,856,1035002,ryches,/ryches,2017-04-21,EXPERT,0,2,3,15
+856,857,1195275,Chanran Kim,/seriousran,2017-08-01,EXPERT,0,1,3,15
+857,858,1853329,Hieu Phung,/phunghieu,2018-04-24,EXPERT,0,0,4,15
+858,859,2063115,Artificial Intelligence inIT,/initagon,2018-07-12,EXPERT,0,0,6,15
+859,860,2183023,akensert,/akensert,2018-08-26,EXPERT,0,2,2,15
+860,861,2589790,Sagar Khanna,/vesuvius13,2018-12-07,EXPERT,0,0,4,15
+861,862,3148426,Padhma Muniraj,/padhmam,2019-04-27,EXPERT,0,0,3,15
+862,863,3545140,Tanishq Gautam,/ligtfeather,2019-08-04,EXPERT,0,0,3,15
+863,864,3925987,Roberto Lofaro,/robertolofaro,2019-10-25,EXPERT,0,0,3,15
+864,865,3946565,leukipp,/leukipp,2019-10-29,EXPERT,0,0,3,15
+865,866,4227513,Ultron,/mrutyunjaybiswal,2019-12-19,EXPERT,0,0,3,15
+866,867,4298011,Alif Rahman,/alifrahman,2020-01-07,EXPERT,0,0,3,15
+867,868,4487449,Jebathurai JB,/jebathuraiibarnabas,2020-02-13,EXPERT,0,0,3,15
+868,869,4630396,Yerram Varun,/yerramvarun,2020-03-08,EXPERT,0,0,3,15
+869,870,4946340,Patrick Gomes,/patrickgomes,2020-04-23,EXPERT,0,0,4,15
+870,871,5045952,Sujan Shirol,/sujan97,2020-05-08,EXPERT,0,0,4,15
+871,872,5108943, TEJA KUMAR,/ravillatejakumar,2020-05-17,EXPERT,0,0,3,15
+872,873,5223111,vyom bhatia,/vyombhatia,2020-06-03,EXPERT,0,0,5,15
+873,874,5325169,Kaito,/japandata509,2020-06-18,EXPERT,0,0,4,15
+874,875,6557309,Tasneem Abdul Rahim,/tasneemabdulrahim,2021-01-20,EXPERT,0,0,5,15
+875,876,7009646,Binary Joker,/binaryjoker,2021-03-23,EXPERT,0,0,4,15
+876,877,7140321,Prathik Mohan,/pratmo,2021-04-09,EXPERT,0,0,3,15
+877,878,7422083,Sana Shaikh,/sana306,2021-05-15,EXPERT,0,0,3,15
+878,879,8596409,Brandon Qilin Hung,/brandonqilin,2021-10-14,EXPERT,0,0,3,15
+879,880,9640154,Gabriel Ramos,/gabrielramos87,2022-02-11,EXPERT,0,0,3,15
+880,881,1068315,Marlesson,/marlesson,2017-05-10,EXPERT,0,2,1,14
+881,882,1160082,Mohammad Shahebaz,/shaz13,2017-07-08,EXPERT,0,0,4,14
+882,883,1238713,Daniel Grijalva,/danielgrijalvas,2017-08-29,EXPERT,0,1,2,14
+883,884,1253728,AnkurJain,/ankkur13,2017-09-07,EXPERT,1,0,2,14
+884,885,1300246,Ashadullah Shawon,/shawon10,2017-09-29,EXPERT,0,1,2,14
+885,886,1544627,Saman Siadati,/samansiadati,2018-01-11,EXPERT,0,2,1,14
+886,887,1914939,Tomas Mantero,/tomasmantero,2018-05-15,EXPERT,0,0,3,14
+887,888,1943511,VIGNESH KUMAR.K,/vignesh9147,2018-05-26,EXPERT,0,0,3,14
+888,889,2020756,palak sood,/palaksood97,2018-06-26,EXPERT,0,0,6,14
+889,890,2490236,Alexey Kotlik,/antaresnyc,2018-11-13,EXPERT,0,1,2,14
+890,891,3722314,Dev Sharma,/dev0914sharma,2019-09-17,EXPERT,0,0,3,14
+891,892,4001300,chumajin,/chumajin,2019-11-08,EXPERT,0,0,3,14
+892,893,4016340,Mostafa Faramin,/mostafafaramin,2019-11-11,EXPERT,0,0,3,14
+893,894,4429509,Sohom Majumder,/sohommajumder21,2020-02-03,EXPERT,0,0,3,14
+894,895,4454045,Aadhav Vignesh,/aadhavvignesh,2020-02-07,EXPERT,0,0,4,14
+895,896,4520458,Itokiana RAFIDINARIVO,/itokianarafidinarivo,2020-02-19,EXPERT,0,0,4,14
+896,897,4752011,Krishna,/notkrishna,2020-03-27,EXPERT,0,0,3,14
+897,898,4789522,Manish KC,/manishkc06,2020-04-01,EXPERT,0,0,4,14
+898,899,5280881,Jay,/jaykumar1607,2020-06-11,EXPERT,0,0,3,14
+899,900,5433195,Sandor Abad,/sandorabad,2020-07-08,EXPERT,0,0,3,14
+900,901,5601216,Abhranta Panigrahi,/abhranta,2020-08-10,EXPERT,0,0,3,14
+901,902,5659116,Rasel Ahmed,/data855,2020-08-21,EXPERT,0,0,4,14
+902,903,6454812,Diksha Bhati,/dikshabhati2002,2021-01-02,EXPERT,0,0,3,14
+903,904,6509179,Sameer Patel,/therealsampat,2021-01-12,EXPERT,0,0,4,14
+904,905,6800718,HamnaKhalid,/hkhamnakhalid,2021-02-24,EXPERT,0,0,3,14
+905,906,7555070,Abdumalik Khoshimov,/abdumaleek,2021-05-31,EXPERT,0,0,4,14
+906,907,7717502,Yotoro,/shivansh002,2021-06-18,EXPERT,0,0,3,14
+907,908,8405948,Asis Rangel,/asisheriberto,2021-09-21,EXPERT,0,0,3,14
+908,909,8407160,Moath Mohamed,/moathmohamed,2021-09-21,EXPERT,0,0,3,14
+909,910,8436553,T Rohit Bharadwaj,/trohitbharadwaj,2021-09-25,EXPERT,0,0,3,14
+910,911,410158,Raja CSP,/rajacsp,2015-09-01,EXPERT,0,0,4,13
+911,912,1073620,Robin Smits,/rsmits,2017-05-14,EXPERT,0,0,4,13
+912,913,1688884,Mohammad Essam,/mohammedessam97,2018-03-04,EXPERT,0,0,4,13
+913,914,1792385,Santosh kumar,/santoshd3,2018-04-05,EXPERT,0,0,3,13
+914,915,2305502,Arpit Dwivedi,/arpitdw,2018-09-30,EXPERT,0,0,4,13
+915,916,2629214,Bavalpreet,/bavalpreet26,2018-12-19,EXPERT,0,0,5,13
+916,917,3001871,KAZI SHAMIM SHAHAREAR ISLAM,/kpretomazi,2019-03-27,EXPERT,0,0,3,13
+917,918,3459107,Piyush Agnihotri,/piyushagni5,2019-07-13,EXPERT,0,0,4,13
+918,919,3470787,Rishabh Sethia,/rishabh6377,2019-07-16,EXPERT,0,0,3,13
+919,920,3514009,Prajit T R,/prajittr,2019-07-27,EXPERT,0,0,3,13
+920,921,3520469,Akarsh Singh,/akarshsinghh,2019-07-29,EXPERT,0,0,3,13
+921,922,3650646,Overfitted,/vipulgote4,2019-09-01,EXPERT,0,0,5,13
+922,923,3952964,Prajwal Sood,/prajwalsood,2019-10-30,EXPERT,0,0,3,13
+923,924,3982638,Rohit Singh,/rohitsingh9990,2019-11-05,EXPERT,0,0,4,13
+924,925,4002632,Maksym Shkliarevskyi,/maksymshkliarevskyi,2019-11-08,EXPERT,0,0,3,13
+925,926,4289149,Abhishek Gupta,/agsam23,2020-01-05,EXPERT,0,0,7,13
+926,927,4357049,Tanuj dhiman,/tanujdhiman,2020-01-20,EXPERT,0,0,6,13
+927,928,5617013,Aakash Verma,/aakashverma8900,2020-08-13,EXPERT,0,0,3,13
+928,929,5966530,Shivam Modi,/shivamm0di,2020-10-15,EXPERT,0,0,3,13
+929,930,7801424,MsSmartyPants,/mssmartypants,2021-06-29,EXPERT,0,0,4,13
+930,931,7808717,Salio,/saliblue,2021-06-30,EXPERT,0,0,3,13
+931,932,803207,Mesum Raza Hemani,/mesumraza,2016-11-20,EXPERT,0,0,3,12
+932,933,864684,Peter,/pestipeti,2017-01-12,EXPERT,0,2,1,12
+933,934,915913,Carlos Souza,/carlossouza,2017-02-16,EXPERT,0,0,4,12
+934,935,1014968,qiriro,/qiriro,2017-04-10,EXPERT,0,0,3,12
+935,936,1300362,Tania J,/taniaj,2017-09-29,EXPERT,0,2,1,12
+936,937,1351163,Tarun Paparaju,/tarunpaparaju,2017-10-22,EXPERT,0,0,4,12
+937,938,1552664,yuval reina,/yuval6967,2018-01-15,EXPERT,0,2,1,12
+938,939,1747727,Samruddhi Mhatre,/samruddhim,2018-03-22,EXPERT,0,0,3,12
+939,940,1962670,Nagesh Singh Chauhan,/nageshsingh,2018-06-03,EXPERT,0,0,4,12
+940,941,1995670,milan,/milan400,2018-06-15,EXPERT,0,0,4,12
+941,942,2182279,Mehmet Sungur,/medyasun,2018-08-26,EXPERT,0,0,4,12
+942,943,2851794,Rushikesh Hiray,/rushikeshhiray,2019-02-23,EXPERT,0,0,5,12
+943,944,2883450,Aishwarya,/aishu200023,2019-03-02,EXPERT,0,0,3,12
+944,945,2947669,S Lakshmi Narasimhan,/uwuuw11,2019-03-16,EXPERT,0,0,3,12
+945,946,3294616,Ashish Goswami,/ashish2001,2019-05-31,EXPERT,0,0,4,12
+946,947,3654943,Naman Jaswani,/namanj27,2019-09-02,EXPERT,0,0,4,12
+947,948,3905381,Zohaib Ahmed,/zohaib123,2019-10-22,EXPERT,0,0,3,12
+948,949,3979877,Nguyễn Hưng,/nguyenhung1903,2019-11-05,EXPERT,0,0,3,12
+949,950,4542957,Ravi Sane,/ravisane1,2020-02-23,EXPERT,0,0,4,12
+950,951,4631528,Khosiyat Sobir,/khosiyatsabirova,2020-03-08,EXPERT,0,0,3,12
+951,952,4642984,Jai Ganesh Nagidi,/jaiganeshnagidi,2020-03-10,EXPERT,0,0,3,12
+952,953,5042976,Ihor Muliar,/ihormuliar,2020-05-07,EXPERT,0,0,3,12
+953,954,5058161,Soumyadip Ghorai,/soumyadipghorai,2020-05-10,EXPERT,0,0,3,12
+954,955,5157521,Hotson Honet,/hotsonhonet,2020-05-24,EXPERT,0,0,4,12
+955,956,5260543,Homayoon khadivi,/homayoonkhadivi,2020-06-08,EXPERT,0,0,3,12
+956,957,5440821,spin fit,/kimalpha,2020-07-09,EXPERT,0,0,3,12
+957,958,5453501,Hammad Ali,/hammaadali,2020-07-12,EXPERT,0,0,3,12
+958,959,5493065,SALMAN FAROZ,/salmanfaroz,2020-07-19,EXPERT,0,0,5,12
+959,960,5569804,kushal Agrawal,/kushal1506,2020-08-03,EXPERT,0,0,4,12
+960,961,6091765,Dilara Şahan,/dilaraahan,2020-11-03,EXPERT,0,0,3,12
+961,962,6222605,Sahar Pourahmad,/saharpourahmad,2020-11-23,EXPERT,0,0,3,12
+962,963,6659698,Tanusha Gupta,/tanushagupta,2021-02-04,EXPERT,0,0,4,12
+963,964,6921900,ELoo,/aditeloo,2021-03-12,EXPERT,0,0,3,12
+964,965,7801646,Yuvraj Singh,/yuvrajcs18,2021-06-29,EXPERT,0,0,5,12
+965,966,46947,Shravan Kumar Koninti,/shravankoninti,2012-06-17,EXPERT,0,0,3,11
+966,967,215886,Fahd,/fahd09,2014-07-12,EXPERT,0,0,3,11
+967,968,1097838,Leonardo Ferreira,/kabure,2017-05-29,EXPERT,0,1,2,11
+968,969,1341160,Debadri Dutta,/duttadebadri,2017-10-17,EXPERT,0,0,4,11
+969,970,1406198,Muhammad Navaid,/mnavaidd,2017-11-10,EXPERT,0,0,3,11
+970,971,1409853,itsshavar,/shishu1421,2017-11-12,EXPERT,0,0,4,11
+971,972,1929307,Mustafa Fatakdawala,/mastmustu,2018-05-21,EXPERT,0,0,3,11
+972,973,2081025,Akash kumar,/singhakash,2018-07-19,EXPERT,0,0,5,11
+973,974,2243477,nosound,/zaharch,2018-09-13,EXPERT,0,1,2,11
+974,975,2660090,Amit Hasan Shuvo,/amithasanshuvo,2018-12-31,EXPERT,0,0,3,11
+975,976,2680939,BrandontheCoder,/brandonnova,2019-01-07,EXPERT,0,0,3,11
+976,977,2907842,Vatsal Parsaniya,/vatsalparsaniya,2019-03-07,EXPERT,0,0,3,11
+977,978,2934599,Ravi Ranjan Chaubey,/ravichaubey1506,2019-03-13,EXPERT,0,0,3,11
+978,979,3710826,Shantanu Tripathi,/daishinkan002,2019-09-15,EXPERT,0,0,3,11
+979,980,3986919,ASHISH GOYAL,/goyalashish,2019-11-06,EXPERT,0,0,3,11
+980,981,4138465,G_R_S,/danoozy44,2019-12-02,EXPERT,0,0,6,11
+981,982,4241076,Utshab Kumar Ghosh,/utshabkumarghosh,2019-12-23,EXPERT,0,0,3,11
+982,983,4375772,Thaddeus Segura,/thaddeussegura,2020-01-24,EXPERT,0,0,6,11
+983,984,4456409,Soorya Prakash,/sooryaprakash12,2020-02-08,EXPERT,0,0,3,11
+984,985,4523418,Rito Ghosh,/truthr,2020-02-19,EXPERT,0,0,3,11
+985,986,4533747,Abhishek Shrivastava,/abhi8923shriv,2020-02-21,EXPERT,0,0,4,11
+986,987,4576966,Javagar M,/javagarm,2020-02-28,EXPERT,0,0,4,11
+987,988,5162309,Sina Tavakoli Banizi,/sinatavakolibanizi,2020-05-25,EXPERT,0,0,3,11
+988,989,5783021,Işıl Güler,/isilguler,2020-09-15,EXPERT,0,0,5,11
+989,990,5866221,FunkyMonk,/creepycrap,2020-09-30,EXPERT,0,0,3,11
+990,991,5900946,saiabhiteja Chepuri,/saiabhitejachepuri,2020-10-06,EXPERT,0,0,3,11
+991,992,6396210,YashSharma,/yashsharmabharatpur,2020-12-17,EXPERT,0,0,3,11
+992,993,7913399,Manas Marathe,/manasmarathe,2021-07-16,EXPERT,0,0,3,11
+993,994,511702,JackyWang,/jackywang529,2016-01-24,EXPERT,0,1,2,10
+994,995,1164459,Nicholle @ Datafiniti,/datafinitinicholle,2017-07-11,EXPERT,0,2,2,10
+995,996,1216095,AkshatGupta,/akshat4112,2017-08-15,EXPERT,0,0,3,10
+996,997,1394721,Ilham Firdausi Putra,/ilhamfp31,2017-11-06,EXPERT,0,0,3,10
+997,998,1462468,Derrick Mwiti,/derrickmwiti,2017-12-01,EXPERT,0,0,3,10
+998,999,1490082,Raghawendra Singh,/raghaw,2017-12-12,EXPERT,0,0,3,10
+999,1000,1649622,ratan rohith,/ratan123,2018-02-19,EXPERT,0,0,5,10
+1000,1001,1776773,Noah Weber,/zikazika,2018-03-31,EXPERT,0,0,5,10
+1001,1002,2742976,Vyacheslav Razin,/razinw,2019-01-25,EXPERT,0,0,3,10
+1002,1003,2769315,PyKeyo,/yehyachali,2019-02-01,EXPERT,0,0,3,10
+1003,1004,2773025,Smriti ,/smritisingh1997,2019-02-02,EXPERT,0,0,4,10
+1004,1005,3324736,Max Nygma,/dwdkills,2019-06-07,EXPERT,0,0,3,10
+1005,1006,3644761,Deepak Deepu,/deepakdeepu8978,2019-08-30,EXPERT,0,1,2,10
+1006,1007,3684937,Amol Ambkar,/amolambkar,2019-09-09,EXPERT,0,0,4,10
+1007,1008,3722901,Felix Mejia,/fmejia21,2019-09-17,EXPERT,0,0,4,10
+1008,1009,4040209,ROSHAN KUMAR G,/roshankumarg,2019-11-15,EXPERT,0,0,4,10
+1009,1010,4507744,Vitaliy Malcev,/vitaliymalcev,2020-02-17,EXPERT,0,0,5,10
+1010,1011,4576104,Atharv Chaudhari,/atharvchaudhari,2020-02-28,EXPERT,0,0,3,10
+1011,1012,4719461,MohanDeep,/mohandeep20,2020-03-22,EXPERT,0,0,3,10
+1012,1013,5035442,Parth Chhabra,/oneplustricks,2020-05-06,EXPERT,0,0,4,10
+1013,1014,5048068,Khushi Shahh,/khushishahh,2020-05-08,EXPERT,0,0,3,10
+1014,1015,5090420,Kushagra Singh,/perkymaster,2020-05-14,EXPERT,0,0,3,10
+1015,1016,5240195,Al Yeasin,/alyeasin,2020-06-05,EXPERT,0,0,3,10
+1016,1017,5299578,Maneesh,/maneesh99,2020-06-14,EXPERT,0,0,5,10
+1017,1018,5572004,darth manav,/darthmanav,2020-08-04,EXPERT,0,0,4,10
+1018,1019,6568138,Eisha Hassan,/eishahassan,2021-01-21,EXPERT,0,0,3,10
+1019,1020,294675,James McGuigan,/jamesmcguigan,2015-02-15,EXPERT,0,0,4,9
+1020,1021,815066,Bouwe Ceunen,/bouweceunen,2016-11-29,EXPERT,0,0,4,9
+1021,1022,901370,thatdataanalyst,/koki25ando,2017-02-07,EXPERT,0,0,4,9
+1022,1023,1277206,Vlad Golubev,/golubev,2017-09-19,EXPERT,0,0,5,9
+1023,1024,1953180,zzy,/zzy990106,2018-05-30,EXPERT,0,0,3,9
+1024,1025,2497784,KhanhVD,/duykhanh99,2018-11-15,EXPERT,0,0,3,9
+1025,1026,2783471,Chaitanya Krishna Kasaraneni,/chaitanyakck,2019-02-05,EXPERT,0,0,4,9
+1026,1027,3077375,Abu Noman Md. Sakib,/anmspro,2019-04-12,EXPERT,0,0,5,9
+1027,1028,3319985,Shangqiu Li,/unkownhihi,2019-06-06,EXPERT,0,1,3,9
+1028,1029,3486681,Pooja Jain,/jainpooja,2019-07-20,EXPERT,0,0,3,9
+1029,1030,3591705,Shubham Singh,/shubhamzorc9,2019-08-17,EXPERT,0,0,3,9
+1030,1031,3598050,Fedi Ben Messaoud,/fedi1996,2019-08-19,EXPERT,0,0,4,9
+1031,1032,3739937,Abhishek,/iabhishekmaurya,2019-09-20,EXPERT,0,0,3,9
+1032,1033,3852382,Anubha Singh,/cerolacia,2019-10-14,EXPERT,0,0,3,9
+1033,1034,4667203,Dionisius Darryl Hermansyah,/dionisiusdh,2020-03-14,EXPERT,0,0,4,9
+1034,1035,4804740,Ankit Verma,/ankitverma2010,2020-04-03,EXPERT,0,0,3,9
+1035,1036,4891457,Julia Says,/juliasays,2020-04-16,EXPERT,0,0,3,9
+1036,1037,4894234,Unal KOROGLU,/nalkrolu,2020-04-16,EXPERT,0,0,3,9
+1037,1038,5167145,Abhishek Parashar,/abhiparashar,2020-05-26,EXPERT,0,0,3,9
+1038,1039,5308322,Ayyuce Kaytazci,/ayyucek,2020-06-15,EXPERT,0,0,3,9
+1039,1040,5491491,Umerkk12,/umerkk12,2020-07-18,EXPERT,0,0,3,9
+1040,1041,5721145,Abhishek252,/abhishek252,2020-09-04,EXPERT,0,0,3,9
+1041,1042,8207271,Shesh Narayan Gupta,/sheshngupta,2021-08-24,EXPERT,0,0,3,9
+1042,1043,29522,Jose Berengueres,/harriken,2012-01-14,EXPERT,0,1,2,8
+1043,1044,101136,Ceshine Lee,/ceshine,2013-05-14,EXPERT,0,0,3,8
+1044,1045,372183,amrrs,/nulldata,2015-06-23,EXPERT,0,0,3,8
+1045,1046,512750,Dmytro Danevskyi,/ddanevskyi,2016-01-25,EXPERT,0,0,4,8
+1046,1047,1315079,Peijen Lin,/peijenlin,2017-10-05,EXPERT,0,1,3,8
+1047,1048,1327805,Anshul Sharma,/anshuls235,2017-10-11,EXPERT,0,0,4,8
+1048,1049,1615779,Leigh,/leighplt,2018-02-06,EXPERT,0,0,3,8
+1049,1050,1636665,Victor Geislinger,/mrgeislinger,2018-02-14,EXPERT,0,0,3,8
+1050,1051,1774732,Harshit Kapoor,/hkapoor,2018-03-30,EXPERT,0,0,3,8
+1051,1052,1888089,Deniz Yigit,/denizyigit,2018-05-06,EXPERT,0,0,3,8
+1052,1053,2476631,Tien Tran,/tientd95,2018-11-11,EXPERT,0,0,3,8
+1053,1054,3391014,Yogesh Singla,/yogeshkumarsingla,2019-06-25,EXPERT,0,0,4,8
+1054,1055,3408653,Kunal Gupta,/kunalgupta2616,2019-06-30,EXPERT,0,0,3,8
+1055,1056,3416291,Achintya Tripathi,/achintyatripathi,2019-07-02,EXPERT,0,0,3,8
+1056,1057,3724244,Rishabh Dhyani,/rishabhdhyani4,2019-09-17,EXPERT,0,0,3,8
+1057,1058,3837716,ManjotSinghDhillon,/jatta3399,2019-10-10,EXPERT,0,0,3,8
+1058,1059,4521496,Ada Kibet,/adakibet,2020-02-19,EXPERT,0,0,4,8
+1059,1060,5169863,Sai Ram K,/balaramk,2020-05-26,EXPERT,0,0,3,8
+1060,1061,5261065,Dhiraj Nirne,/dhirajnirne,2020-06-08,EXPERT,0,0,3,8
+1061,1062,5694986,Hasan Ersan Yağcı,/ersany,2020-08-29,EXPERT,0,0,3,8
+1062,1063,6348108,Chaitanya Hivlekar,/chaitanyahivlekar,2020-12-09,EXPERT,0,0,3,8
+1063,1064,7028777,Ravindranadh Bobbili,/ravindranadhbobbili,2021-03-25,EXPERT,0,0,4,8
+1064,1065,7288698,NohrUd,/nohrud,2021-04-27,EXPERT,0,0,3,8
+1065,1066,7874654,Kosta R,/boneacrabonjac,2021-07-10,EXPERT,0,0,3,8
+1066,1067,313101,Abed Khooli,/abedkhooli,2015-03-17,EXPERT,0,0,4,7
+1067,1068,582369,Evgeny_Semyonov,/lightforever,2016-04-11,EXPERT,0,0,3,7
+1068,1069,655302,Chaitanya Bapat,/chaibapat,2016-07-05,EXPERT,0,0,3,7
+1069,1070,695758,Nishanth,/nishanthsalian,2016-08-25,EXPERT,0,0,3,7
+1070,1071,1173320,Francke Peixoto,/franckepeixoto,2017-07-17,EXPERT,0,0,3,7
+1071,1072,1611087,Ibtesam Ahmed,/ibtesama,2018-02-05,EXPERT,0,0,3,7
+1072,1073,1842648,Sugandh ,/sugandhkhobragade,2018-04-21,EXPERT,0,0,4,7
+1073,1074,2018468,Aadarsh Singh,/paradoxlover,2018-06-25,EXPERT,0,0,3,7
+1074,1075,2137271,Yegor Biryukov,/yegorbiryukov,2018-08-08,EXPERT,0,0,3,7
+1075,1076,2226462,Dhananjay Raut,/dhananjay3,2018-09-09,EXPERT,0,0,3,7
+1076,1077,2509889,fireflies,/firefliesqn,2018-11-18,EXPERT,0,0,3,7
+1077,1078,2600198,AJ Pass,/ajpass,2018-12-10,EXPERT,0,0,3,7
+1078,1079,2676111,Prageeth Anjula,/praanj,2019-01-06,EXPERT,0,0,3,7
+1079,1080,2735179,voru588,/alenavorushilova,2019-01-23,EXPERT,0,0,5,7
+1080,1081,2980413,Pulkit Mehta,/pulkitmehtawork1985,2019-03-23,EXPERT,0,0,3,7
+1081,1082,3045065,Yassine Hamdaoui,/yassinehamdaoui1,2019-04-05,EXPERT,0,0,3,7
+1082,1083,3299426,Nandan Pandey,/awadhi123,2019-06-01,EXPERT,0,0,3,7
+1083,1084,3393450,Marcos Martins Marchetti,/mmmarchetti,2019-06-25,EXPERT,0,0,3,7
+1084,1085,4248073,Md Mahmud Ferdous,/mdmahmudferdous,2019-12-25,EXPERT,0,0,3,7
+1085,1086,4251407,Sagar Shee,/winterbreeze,2019-12-26,EXPERT,0,0,3,7
+1086,1087,4371011,👨🏼‍💻,/lazycoder00,2020-01-23,EXPERT,0,0,4,7
+1087,1088,4808962,Shishir Singh,/shishir349,2020-04-04,EXPERT,0,0,3,7
+1088,1089,4857935,Sachin Sharma,/sachinsharma1123,2020-04-11,EXPERT,0,0,3,7
+1089,1090,5012903,Gokul raj K.,/gokulrajkmv,2020-05-03,EXPERT,0,0,3,7
+1090,1091,5341387,YASH DIXIT_24,/yashdixit24,2020-06-21,EXPERT,0,0,3,7
+1091,1092,5416707,Minnie Liang,/minnieliang,2020-07-04,EXPERT,0,0,4,7
+1092,1093,5428975,Dev Chauhan,/devchauhan1,2020-07-07,EXPERT,0,0,3,7
+1093,1094,5494764,MD. Mehedi Hassan Galib,/galibce003,2020-07-19,EXPERT,0,0,3,7
+1094,1095,5602674,Harshit Bansal,/pocooo,2020-08-10,EXPERT,0,0,3,7
+1095,1096,5780391,Selen Susuz,/selensusuz,2020-09-15,EXPERT,0,0,3,7
+1096,1097,7109951,Zheyu Ye,/svcy1969,2021-04-05,EXPERT,0,0,3,7
+1097,1098,84413,Brian Roach,/broach,2013-02-09,EXPERT,0,1,2,6
+1098,1099,473824,ColinMorris,/colinmorris,2015-11-25,EXPERT,0,1,2,6
+1099,1100,848555,Ouassim Adnane,/ishivinal,2016-12-27,EXPERT,0,0,3,6
+1100,1101,951035,Brett Kurzawa,/brkurzawa,2017-03-08,EXPERT,0,0,3,6
+1101,1102,1279142,VinayVikram,/vin1234,2017-09-20,EXPERT,0,0,3,6
+1102,1103,1396467,Simran Jain,/simranjain17,2017-11-07,EXPERT,0,0,3,6
+1103,1104,1779270,filipefilardi,/filipefilardi,2018-04-01,EXPERT,0,0,3,6
+1104,1105,2688640,"R. Joseph Manoj, PhD",/rjmanoj,2019-01-09,EXPERT,0,0,4,6
+1105,1106,2809468,Dhruv,/dhruvagg,2019-02-12,EXPERT,0,0,3,6
+1106,1107,2810363,Efrad Galio,/efradgamer,2019-02-13,EXPERT,0,0,3,6
+1107,1108,2828310,Amanda,/amandalk,2019-02-17,EXPERT,0,0,3,6
+1108,1109,2960565,Foridur,/foridurrahman,2019-03-19,EXPERT,0,0,3,6
+1109,1110,3290492,Jaswinder Singh,/jassican,2019-05-30,EXPERT,0,0,3,6
+1110,1111,3781390,DoVan,/nhan1212,2019-09-29,EXPERT,0,0,4,6
+1111,1112,4374082,Anany Sharma,/ananysharma,2020-01-23,EXPERT,0,0,3,6
+1112,1113,4619258,Bivek Subedi,/bibeksubedi11,2020-03-06,EXPERT,0,0,3,6
+1113,1114,5039341,Archit9406,/archit9406,2020-05-07,EXPERT,0,0,3,6
+1114,1115,5449215,Voler,/voler2333,2020-07-11,EXPERT,0,0,3,6
+1115,1116,6713915,Jamie Leech,/jamieleech,2021-02-12,EXPERT,0,0,3,6
+1116,1117,7135723,Nikunj Malpani,/nikunjmalpani,2021-04-08,EXPERT,0,0,3,6
+1117,1118,7175936,LightlightsupLight,/lightlightsuplight,2021-04-13,EXPERT,0,0,3,6
+1118,1119,7275440,aegehbi,/aegehbi,2021-04-26,EXPERT,0,0,3,6
+1119,1120,178265,Chandan Verma,/chandanverma,2014-03-25,EXPERT,0,0,3,5
+1120,1121,763007,Rohit Agarwal,/rohitagarwal,2016-10-23,EXPERT,0,0,3,5
+1121,1122,1085226,AlexanderGeiger,/alexgeiger,2017-05-21,EXPERT,0,2,1,5
+1122,1123,1320281,Mobasshir Bhuiya Shagor,/mobasshir,2017-10-08,EXPERT,0,0,3,5
+1123,1124,1365275,Sanchit Tanwar,/sanchit2843,2017-10-27,EXPERT,0,0,3,5
+1124,1125,2596940,Seol,/lys620,2018-12-10,EXPERT,0,0,3,5
+1125,1126,2896970,Nishanth,/kdnishanth,2019-03-05,EXPERT,0,0,3,5
+1126,1127,2903737,Arpit Bhushan Sharma,/arpit3043,2019-03-06,EXPERT,0,0,3,5
+1127,1128,3573270,Bunty,/subbhashit,2019-08-12,EXPERT,0,0,3,5
+1128,1129,3650699,Andrea Garritano,/andreagarritano,2019-09-01,EXPERT,0,0,3,5
+1129,1130,3885153,Sagnik,/sagnikpatra,2019-10-19,EXPERT,0,0,3,5
+1130,1131,4285773,Nahian Rifaat,/nahianrifaat,2020-01-04,EXPERT,0,0,3,5
+1131,1132,4484287,Niraj,/nirajpoudel,2020-02-13,EXPERT,0,0,3,5
+1132,1133,4678761,Alberto Maria Falletta,/albeffe,2020-03-16,EXPERT,0,0,4,5
+1133,1134,4957964,Shivam Mittal,/shivammittal274,2020-04-25,EXPERT,0,0,3,5
+1134,1135,4965255,Jay Faldu,/jayfaldu,2020-04-26,EXPERT,0,0,3,5
+1135,1136,5008581,Ujwal Kandi,/ujwalkandi,2020-05-02,EXPERT,0,0,3,5
+1136,1137,5231941,Shyam R,/darkknight98,2020-06-04,EXPERT,0,0,3,5
+1137,1138,573171,sandy1112,/sandy1112,2016-04-01,EXPERT,0,0,3,4
+1138,1139,627861,freeCodeCamp,/fccuser,2016-05-30,EXPERT,0,1,2,4
+1139,1140,681799,Maxime Fuccellaro,/blackbee2016,2016-08-08,EXPERT,0,0,4,4
+1140,1141,953273,Sudhir Kumar,/sudhirnl7,2017-03-09,EXPERT,0,0,3,4
+1141,1142,1356385,Semih Arıcan,/smhrcn,2017-10-24,EXPERT,0,0,3,4
+1142,1143,2203328,Amaan,/rainmaker29,2018-09-02,EXPERT,0,0,4,4
+1143,1144,2674632,Nakul Singh,/nakulsingh1289,2019-01-05,EXPERT,0,0,3,4
+1144,1145,2702953,Burak  Batıbay,/batibayburak,2019-01-14,EXPERT,0,0,3,4
+1145,1146,3865028,vijay chauhan,/vchauhanusf,2019-10-16,EXPERT,0,0,4,4
+1146,1147,5020560,Mohamed Fadl,/eng0mohamed0nabil,2020-05-04,EXPERT,0,0,3,4
+1147,1148,5130024,Animesh Nareda,/animeshnareda,2020-05-20,EXPERT,0,0,3,4
+1148,1149,5492706,Liu Shang,/liushanglee,2020-07-19,EXPERT,0,0,3,4
+1149,1150,5724912,Praveen Kumar,/penchalaiah123,2020-09-05,EXPERT,0,0,3,4
+1150,1151,5775390,Gaurav Sarkar,/gauravsarkar,2020-09-14,EXPERT,0,0,3,4
+1151,1152,838157,kishorkumarJha,/kishor1210,2016-12-16,EXPERT,0,0,3,3
+1152,1153,1197601,JobsPikr,/jobspikr,2017-08-02,EXPERT,0,0,3,3
+1153,1154,2483909,Rafay,/rafay12,2018-11-12,EXPERT,0,0,3,3
+1154,1155,3622891,Jigyashu Suraj,/jigyashusuraj,2019-08-26,EXPERT,0,0,3,3
+1155,1156,3952139,Sanskruti Panda,/sanskrutipanda,2019-10-30,EXPERT,0,0,3,3
+1156,1157,4229835,Icaro Freire,/icarofreire,2019-12-19,EXPERT,0,0,3,3
+1157,1158,5450851,Linh Halley,/linhhalley,2020-07-11,EXPERT,0,0,3,3
+1158,1159,830540,Blake Valenta,/dblakev,2016-12-09,EXPERT,0,1,2,2
+1159,1160,2631168,Alexsumt,/alexsumt,2018-12-19,EXPERT,0,0,3,2
+1160,0,0,0,0,0,0,0,0,0,0
+1161,0,0,0,0,0,0,0,0,0,0
+1162,0,0,0,0,0,MASTER,0,0,0,0
+1163,0,0,0,0,0,EXPERT,0,0,0,0
+1164,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1165,0,0,0,0,0,0,0,0,0,0
+1166,0,0,0,0,0,0,0,0,0,0
+1167,0,0,0,0,0,0,0,0,0,0
+1168,0,0,0,0,0,MASTER,0,0,0,0
+1169,0,0,0,0,0,EXPERT,0,0,0,0
+1170,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1171,0,0,0,0,0,0,0,0,0,0
+1172,0,0,0,0,0,0,0,0,0,0
+1173,0,0,0,0,0,0,0,0,0,0
+1174,0,0,0,0,0,MASTER,0,0,0,0
+1175,0,0,0,0,0,EXPERT,0,0,0,0
+1176,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1177,0,0,0,0,0,0,0,0,0,0
+1178,0,0,0,0,0,0,0,0,0,0
+1179,0,0,0,0,0,0,0,0,0,0
+1180,0,0,0,0,0,MASTER,0,0,0,0
+1181,0,0,0,0,0,EXPERT,0,0,0,0
+1182,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1183,0,0,0,0,0,0,0,0,0,0
+1184,0,0,0,0,0,0,0,0,0,0
+1185,0,0,0,0,0,0,0,0,0,0
+1186,0,0,0,0,0,MASTER,0,0,0,0
+1187,0,0,0,0,0,EXPERT,0,0,0,0
+1188,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1189,0,0,0,0,0,0,0,0,0,0
+1190,0,0,0,0,0,0,0,0,0,0
+1191,0,0,0,0,0,0,0,0,0,0
+1192,0,0,0,0,0,MASTER,0,0,0,0
+1193,0,0,0,0,0,EXPERT,0,0,0,0
+1194,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1195,0,0,0,0,0,0,0,0,0,0
+1196,0,0,0,0,0,0,0,0,0,0
+1197,0,0,0,0,0,0,0,0,0,0
+1198,0,0,0,0,0,MASTER,0,0,0,0
+1199,0,0,0,0,0,EXPERT,0,0,0,0
+1200,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1201,0,0,0,0,0,0,0,0,0,0
+1202,0,0,0,0,0,0,0,0,0,0
+1203,0,0,0,0,0,0,0,0,0,0
+1204,0,0,0,0,0,MASTER,0,0,0,0
+1205,0,0,0,0,0,EXPERT,0,0,0,0
+1206,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1207,0,0,0,0,0,0,0,0,0,0
+1208,0,0,0,0,0,0,0,0,0,0
+1209,0,0,0,0,0,0,0,0,0,0
+1210,0,0,0,0,0,MASTER,0,0,0,0
+1211,0,0,0,0,0,EXPERT,0,0,0,0
+1212,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1213,0,0,0,0,0,0,0,0,0,0
+1214,0,0,0,0,0,0,0,0,0,0
+1215,0,0,0,0,0,0,0,0,0,0
+1216,0,0,0,0,0,MASTER,0,0,0,0
+1217,0,0,0,0,0,EXPERT,0,0,0,0
+1218,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1219,0,0,0,0,0,0,0,0,0,0
+1220,0,0,0,0,0,0,0,0,0,0
+1221,0,0,0,0,0,0,0,0,0,0
+1222,0,0,0,0,0,MASTER,0,0,0,0
+1223,0,0,0,0,0,EXPERT,0,0,0,0
+1224,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1225,0,0,0,0,0,0,0,0,0,0
+1226,0,0,0,0,0,0,0,0,0,0
+1227,0,0,0,0,0,0,0,0,0,0
+1228,0,0,0,0,0,MASTER,0,0,0,0
+1229,0,0,0,0,0,EXPERT,0,0,0,0
+1230,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1231,0,0,0,0,0,0,0,0,0,0
+1232,0,0,0,0,0,0,0,0,0,0
+1233,0,0,0,0,0,0,0,0,0,0
+1234,0,0,0,0,0,MASTER,0,0,0,0
+1235,0,0,0,0,0,EXPERT,0,0,0,0
+1236,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1237,0,0,0,0,0,0,0,0,0,0
+1238,0,0,0,0,0,0,0,0,0,0
+1239,0,0,0,0,0,0,0,0,0,0
+1240,0,0,0,0,0,MASTER,0,0,0,0
+1241,0,0,0,0,0,EXPERT,0,0,0,0
+1242,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1243,0,0,0,0,0,0,0,0,0,0
+1244,0,0,0,0,0,0,0,0,0,0
+1245,0,0,0,0,0,0,0,0,0,0
+1246,0,0,0,0,0,MASTER,0,0,0,0
+1247,0,0,0,0,0,EXPERT,0,0,0,0
+1248,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1249,0,0,0,0,0,0,0,0,0,0
+1250,0,0,0,0,0,0,0,0,0,0
+1251,0,0,0,0,0,0,0,0,0,0
+1252,0,0,0,0,0,MASTER,0,0,0,0
+1253,0,0,0,0,0,EXPERT,0,0,0,0
+1254,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1255,0,0,0,0,0,0,0,0,0,0
+1256,0,0,0,0,0,0,0,0,0,0
+1257,0,0,0,0,0,0,0,0,0,0
+1258,0,0,0,0,0,MASTER,0,0,0,0
+1259,0,0,0,0,0,EXPERT,0,0,0,0
+1260,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1261,0,0,0,0,0,0,0,0,0,0
+1262,0,0,0,0,0,0,0,0,0,0
+1263,0,0,0,0,0,0,0,0,0,0
+1264,0,0,0,0,0,MASTER,0,0,0,0
+1265,0,0,0,0,0,EXPERT,0,0,0,0
+1266,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1267,0,0,0,0,0,0,0,0,0,0
+1268,0,0,0,0,0,0,0,0,0,0
+1269,0,0,0,0,0,0,0,0,0,0
+1270,0,0,0,0,0,MASTER,0,0,0,0
+1271,0,0,0,0,0,EXPERT,0,0,0,0
+1272,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1273,0,0,0,0,0,0,0,0,0,0
+1274,0,0,0,0,0,0,0,0,0,0
+1275,0,0,0,0,0,0,0,0,0,0
+1276,0,0,0,0,0,MASTER,0,0,0,0
+1277,0,0,0,0,0,EXPERT,0,0,0,0
+1278,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1279,0,0,0,0,0,0,0,0,0,0
+1280,0,0,0,0,0,0,0,0,0,0
+1281,0,0,0,0,0,0,0,0,0,0
+1282,0,0,0,0,0,MASTER,0,0,0,0
+1283,0,0,0,0,0,EXPERT,0,0,0,0
+1284,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1285,0,0,0,0,0,0,0,0,0,0
+1286,0,0,0,0,0,0,0,0,0,0
+1287,0,0,0,0,0,0,0,0,0,0
+1288,0,0,0,0,0,MASTER,0,0,0,0
+1289,0,0,0,0,0,EXPERT,0,0,0,0
+1290,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1291,0,0,0,0,0,0,0,0,0,0
+1292,0,0,0,0,0,0,0,0,0,0
+1293,0,0,0,0,0,0,0,0,0,0
+1294,0,0,0,0,0,MASTER,0,0,0,0
+1295,0,0,0,0,0,EXPERT,0,0,0,0
+1296,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1297,0,0,0,0,0,0,0,0,0,0
+1298,0,0,0,0,0,0,0,0,0,0
+1299,0,0,0,0,0,0,0,0,0,0
+1300,0,0,0,0,0,MASTER,0,0,0,0
+1301,0,0,0,0,0,EXPERT,0,0,0,0
+1302,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1303,0,0,0,0,0,0,0,0,0,0
+1304,0,0,0,0,0,0,0,0,0,0
+1305,0,0,0,0,0,0,0,0,0,0
+1306,0,0,0,0,0,MASTER,0,0,0,0
+1307,0,0,0,0,0,EXPERT,0,0,0,0
+1308,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1309,0,0,0,0,0,0,0,0,0,0
+1310,0,0,0,0,0,0,0,0,0,0
+1311,0,0,0,0,0,0,0,0,0,0
+1312,0,0,0,0,0,MASTER,0,0,0,0
+1313,0,0,0,0,0,EXPERT,0,0,0,0
+1314,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1315,0,0,0,0,0,0,0,0,0,0
+1316,0,0,0,0,0,0,0,0,0,0
+1317,0,0,0,0,0,0,0,0,0,0
+1318,0,0,0,0,0,MASTER,0,0,0,0
+1319,0,0,0,0,0,EXPERT,0,0,0,0
+1320,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1321,0,0,0,0,0,0,0,0,0,0
+1322,0,0,0,0,0,0,0,0,0,0
+1323,0,0,0,0,0,0,0,0,0,0
+1324,0,0,0,0,0,MASTER,0,0,0,0
+1325,0,0,0,0,0,EXPERT,0,0,0,0
+1326,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1327,0,0,0,0,0,0,0,0,0,0
+1328,0,0,0,0,0,0,0,0,0,0
+1329,0,0,0,0,0,0,0,0,0,0
+1330,0,0,0,0,0,MASTER,0,0,0,0
+1331,0,0,0,0,0,EXPERT,0,0,0,0
+1332,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1333,0,0,0,0,0,0,0,0,0,0
+1334,0,0,0,0,0,0,0,0,0,0
+1335,0,0,0,0,0,0,0,0,0,0
+1336,0,0,0,0,0,MASTER,0,0,0,0
+1337,0,0,0,0,0,EXPERT,0,0,0,0
+1338,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1339,0,0,0,0,0,0,0,0,0,0
+1340,0,0,0,0,0,0,0,0,0,0
+1341,0,0,0,0,0,0,0,0,0,0
+1342,0,0,0,0,0,MASTER,0,0,0,0
+1343,0,0,0,0,0,EXPERT,0,0,0,0
+1344,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1345,0,0,0,0,0,0,0,0,0,0
+1346,0,0,0,0,0,0,0,0,0,0
+1347,0,0,0,0,0,0,0,0,0,0
+1348,0,0,0,0,0,MASTER,0,0,0,0
+1349,0,0,0,0,0,EXPERT,0,0,0,0
+1350,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1351,0,0,0,0,0,0,0,0,0,0
+1352,0,0,0,0,0,0,0,0,0,0
+1353,0,0,0,0,0,0,0,0,0,0
+1354,0,0,0,0,0,MASTER,0,0,0,0
+1355,0,0,0,0,0,EXPERT,0,0,0,0
+1356,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1357,0,0,0,0,0,0,0,0,0,0
+1358,0,0,0,0,0,0,0,0,0,0
+1359,0,0,0,0,0,0,0,0,0,0
+1360,0,0,0,0,0,MASTER,0,0,0,0
+1361,0,0,0,0,0,EXPERT,0,0,0,0
+1362,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1363,0,0,0,0,0,0,0,0,0,0
+1364,0,0,0,0,0,0,0,0,0,0
+1365,0,0,0,0,0,0,0,0,0,0
+1366,0,0,0,0,0,MASTER,0,0,0,0
+1367,0,0,0,0,0,EXPERT,0,0,0,0
+1368,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1369,0,0,0,0,0,0,0,0,0,0
+1370,0,0,0,0,0,0,0,0,0,0
+1371,0,0,0,0,0,0,0,0,0,0
+1372,0,0,0,0,0,MASTER,0,0,0,0
+1373,0,0,0,0,0,EXPERT,0,0,0,0
+1374,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1375,0,0,0,0,0,0,0,0,0,0
+1376,0,0,0,0,0,0,0,0,0,0
+1377,0,0,0,0,0,0,0,0,0,0
+1378,0,0,0,0,0,MASTER,0,0,0,0
+1379,0,0,0,0,0,EXPERT,0,0,0,0
+1380,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1381,0,0,0,0,0,0,0,0,0,0
+1382,0,0,0,0,0,0,0,0,0,0
+1383,0,0,0,0,0,0,0,0,0,0
+1384,0,0,0,0,0,MASTER,0,0,0,0
+1385,0,0,0,0,0,EXPERT,0,0,0,0
+1386,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1387,0,0,0,0,0,0,0,0,0,0
+1388,0,0,0,0,0,0,0,0,0,0
+1389,0,0,0,0,0,0,0,0,0,0
+1390,0,0,0,0,0,MASTER,0,0,0,0
+1391,0,0,0,0,0,EXPERT,0,0,0,0
+1392,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1393,0,0,0,0,0,0,0,0,0,0
+1394,0,0,0,0,0,0,0,0,0,0
+1395,0,0,0,0,0,0,0,0,0,0
+1396,0,0,0,0,0,MASTER,0,0,0,0
+1397,0,0,0,0,0,EXPERT,0,0,0,0
+1398,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1399,0,0,0,0,0,0,0,0,0,0
+1400,0,0,0,0,0,0,0,0,0,0
+1401,0,0,0,0,0,0,0,0,0,0
+1402,0,0,0,0,0,MASTER,0,0,0,0
+1403,0,0,0,0,0,EXPERT,0,0,0,0
+1404,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1405,0,0,0,0,0,0,0,0,0,0
+1406,0,0,0,0,0,0,0,0,0,0
+1407,0,0,0,0,0,0,0,0,0,0
+1408,0,0,0,0,0,MASTER,0,0,0,0
+1409,0,0,0,0,0,EXPERT,0,0,0,0
+1410,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1411,0,0,0,0,0,0,0,0,0,0
+1412,0,0,0,0,0,0,0,0,0,0
+1413,0,0,0,0,0,0,0,0,0,0
+1414,0,0,0,0,0,MASTER,0,0,0,0
+1415,0,0,0,0,0,EXPERT,0,0,0,0
+1416,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1417,0,0,0,0,0,0,0,0,0,0
+1418,0,0,0,0,0,0,0,0,0,0
+1419,0,0,0,0,0,0,0,0,0,0
+1420,0,0,0,0,0,MASTER,0,0,0,0
+1421,0,0,0,0,0,EXPERT,0,0,0,0
+1422,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1423,0,0,0,0,0,0,0,0,0,0
+1424,0,0,0,0,0,0,0,0,0,0
+1425,0,0,0,0,0,0,0,0,0,0
+1426,0,0,0,0,0,MASTER,0,0,0,0
+1427,0,0,0,0,0,EXPERT,0,0,0,0
+1428,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1429,0,0,0,0,0,0,0,0,0,0
+1430,0,0,0,0,0,0,0,0,0,0
+1431,0,0,0,0,0,0,0,0,0,0
+1432,0,0,0,0,0,MASTER,0,0,0,0
+1433,0,0,0,0,0,EXPERT,0,0,0,0
+1434,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1435,0,0,0,0,0,0,0,0,0,0
+1436,0,0,0,0,0,0,0,0,0,0
+1437,0,0,0,0,0,0,0,0,0,0
+1438,0,0,0,0,0,MASTER,0,0,0,0
+1439,0,0,0,0,0,EXPERT,0,0,0,0
+1440,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1441,0,0,0,0,0,0,0,0,0,0
+1442,0,0,0,0,0,0,0,0,0,0
+1443,0,0,0,0,0,0,0,0,0,0
+1444,0,0,0,0,0,MASTER,0,0,0,0
+1445,0,0,0,0,0,EXPERT,0,0,0,0
+1446,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1447,0,0,0,0,0,0,0,0,0,0
+1448,0,0,0,0,0,0,0,0,0,0
+1449,0,0,0,0,0,0,0,0,0,0
+1450,0,0,0,0,0,MASTER,0,0,0,0
+1451,0,0,0,0,0,EXPERT,0,0,0,0
+1452,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1453,0,0,0,0,0,0,0,0,0,0
+1454,0,0,0,0,0,0,0,0,0,0
+1455,0,0,0,0,0,0,0,0,0,0
+1456,0,0,0,0,0,MASTER,0,0,0,0
+1457,0,0,0,0,0,EXPERT,0,0,0,0
+1458,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1459,0,0,0,0,0,0,0,0,0,0
+1460,0,0,0,0,0,0,0,0,0,0
+1461,0,0,0,0,0,0,0,0,0,0
+1462,0,0,0,0,0,MASTER,0,0,0,0
+1463,0,0,0,0,0,EXPERT,0,0,0,0
+1464,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1465,0,0,0,0,0,0,0,0,0,0
+1466,0,0,0,0,0,0,0,0,0,0
+1467,0,0,0,0,0,0,0,0,0,0
+1468,0,0,0,0,0,MASTER,0,0,0,0
+1469,0,0,0,0,0,EXPERT,0,0,0,0
+1470,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1471,0,0,0,0,0,0,0,0,0,0
+1472,0,0,0,0,0,0,0,0,0,0
+1473,0,0,0,0,0,0,0,0,0,0
+1474,0,0,0,0,0,MASTER,0,0,0,0
+1475,0,0,0,0,0,EXPERT,0,0,0,0
+1476,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1477,0,0,0,0,0,0,0,0,0,0
+1478,0,0,0,0,0,0,0,0,0,0
+1479,0,0,0,0,0,0,0,0,0,0
+1480,0,0,0,0,0,MASTER,0,0,0,0
+1481,0,0,0,0,0,EXPERT,0,0,0,0
+1482,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1483,0,0,0,0,0,0,0,0,0,0
+1484,0,0,0,0,0,0,0,0,0,0
+1485,0,0,0,0,0,0,0,0,0,0
+1486,0,0,0,0,0,MASTER,0,0,0,0
+1487,0,0,0,0,0,EXPERT,0,0,0,0
+1488,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1489,0,0,0,0,0,0,0,0,0,0
+1490,0,0,0,0,0,0,0,0,0,0
+1491,0,0,0,0,0,0,0,0,0,0
+1492,0,0,0,0,0,MASTER,0,0,0,0
+1493,0,0,0,0,0,EXPERT,0,0,0,0
+1494,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1495,0,0,0,0,0,0,0,0,0,0
+1496,0,0,0,0,0,0,0,0,0,0
+1497,0,0,0,0,0,0,0,0,0,0
+1498,0,0,0,0,0,MASTER,0,0,0,0
+1499,0,0,0,0,0,EXPERT,0,0,0,0
+1500,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1501,0,0,0,0,0,0,0,0,0,0
+1502,0,0,0,0,0,0,0,0,0,0
+1503,0,0,0,0,0,0,0,0,0,0
+1504,0,0,0,0,0,MASTER,0,0,0,0
+1505,0,0,0,0,0,EXPERT,0,0,0,0
+1506,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1507,0,0,0,0,0,0,0,0,0,0
+1508,0,0,0,0,0,0,0,0,0,0
+1509,0,0,0,0,0,0,0,0,0,0
+1510,0,0,0,0,0,MASTER,0,0,0,0
+1511,0,0,0,0,0,EXPERT,0,0,0,0
+1512,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1513,0,0,0,0,0,0,0,0,0,0
+1514,0,0,0,0,0,0,0,0,0,0
+1515,0,0,0,0,0,0,0,0,0,0
+1516,0,0,0,0,0,MASTER,0,0,0,0
+1517,0,0,0,0,0,EXPERT,0,0,0,0
+1518,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1519,0,0,0,0,0,0,0,0,0,0
+1520,0,0,0,0,0,0,0,0,0,0
+1521,0,0,0,0,0,0,0,0,0,0
+1522,0,0,0,0,0,MASTER,0,0,0,0
+1523,0,0,0,0,0,EXPERT,0,0,0,0
+1524,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1525,0,0,0,0,0,0,0,0,0,0
+1526,0,0,0,0,0,0,0,0,0,0
+1527,0,0,0,0,0,0,0,0,0,0
+1528,0,0,0,0,0,MASTER,0,0,0,0
+1529,0,0,0,0,0,EXPERT,0,0,0,0
+1530,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1531,0,0,0,0,0,0,0,0,0,0
+1532,0,0,0,0,0,0,0,0,0,0
+1533,0,0,0,0,0,0,0,0,0,0
+1534,0,0,0,0,0,MASTER,0,0,0,0
+1535,0,0,0,0,0,EXPERT,0,0,0,0
+1536,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1537,0,0,0,0,0,0,0,0,0,0
+1538,0,0,0,0,0,0,0,0,0,0
+1539,0,0,0,0,0,0,0,0,0,0
+1540,0,0,0,0,0,MASTER,0,0,0,0
+1541,0,0,0,0,0,EXPERT,0,0,0,0
+1542,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1543,0,0,0,0,0,0,0,0,0,0
+1544,0,0,0,0,0,0,0,0,0,0
+1545,0,0,0,0,0,0,0,0,0,0
+1546,0,0,0,0,0,MASTER,0,0,0,0
+1547,0,0,0,0,0,EXPERT,0,0,0,0
+1548,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1549,0,0,0,0,0,0,0,0,0,0
+1550,0,0,0,0,0,0,0,0,0,0
+1551,0,0,0,0,0,0,0,0,0,0
+1552,0,0,0,0,0,MASTER,0,0,0,0
+1553,0,0,0,0,0,EXPERT,0,0,0,0
+1554,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1555,0,0,0,0,0,0,0,0,0,0
+1556,0,0,0,0,0,0,0,0,0,0
+1557,0,0,0,0,0,0,0,0,0,0
+1558,0,0,0,0,0,MASTER,0,0,0,0
+1559,0,0,0,0,0,EXPERT,0,0,0,0
+1560,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1561,0,0,0,0,0,0,0,0,0,0
+1562,0,0,0,0,0,0,0,0,0,0
+1563,0,0,0,0,0,0,0,0,0,0
+1564,0,0,0,0,0,MASTER,0,0,0,0
+1565,0,0,0,0,0,EXPERT,0,0,0,0
+1566,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1567,0,0,0,0,0,0,0,0,0,0
+1568,0,0,0,0,0,0,0,0,0,0
+1569,0,0,0,0,0,0,0,0,0,0
+1570,0,0,0,0,0,MASTER,0,0,0,0
+1571,0,0,0,0,0,EXPERT,0,0,0,0
+1572,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1573,0,0,0,0,0,0,0,0,0,0
+1574,0,0,0,0,0,0,0,0,0,0
+1575,0,0,0,0,0,0,0,0,0,0
+1576,0,0,0,0,0,MASTER,0,0,0,0
+1577,0,0,0,0,0,EXPERT,0,0,0,0
+1578,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1579,0,0,0,0,0,0,0,0,0,0
+1580,0,0,0,0,0,0,0,0,0,0
+1581,0,0,0,0,0,0,0,0,0,0
+1582,0,0,0,0,0,MASTER,0,0,0,0
+1583,0,0,0,0,0,EXPERT,0,0,0,0
+1584,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1585,0,0,0,0,0,0,0,0,0,0
+1586,0,0,0,0,0,0,0,0,0,0
+1587,0,0,0,0,0,0,0,0,0,0
+1588,0,0,0,0,0,MASTER,0,0,0,0
+1589,0,0,0,0,0,EXPERT,0,0,0,0
+1590,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1591,0,0,0,0,0,0,0,0,0,0
+1592,0,0,0,0,0,0,0,0,0,0
+1593,0,0,0,0,0,0,0,0,0,0
+1594,0,0,0,0,0,MASTER,0,0,0,0
+1595,0,0,0,0,0,EXPERT,0,0,0,0
+1596,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1597,0,0,0,0,0,0,0,0,0,0
+1598,0,0,0,0,0,0,0,0,0,0
+1599,0,0,0,0,0,0,0,0,0,0
+1600,0,0,0,0,0,MASTER,0,0,0,0
+1601,0,0,0,0,0,EXPERT,0,0,0,0
+1602,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1603,0,0,0,0,0,0,0,0,0,0
+1604,0,0,0,0,0,0,0,0,0,0
+1605,0,0,0,0,0,0,0,0,0,0
+1606,0,0,0,0,0,MASTER,0,0,0,0
+1607,0,0,0,0,0,EXPERT,0,0,0,0
+1608,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1609,0,0,0,0,0,0,0,0,0,0
+1610,0,0,0,0,0,0,0,0,0,0
+1611,0,0,0,0,0,0,0,0,0,0
+1612,0,0,0,0,0,MASTER,0,0,0,0
+1613,0,0,0,0,0,EXPERT,0,0,0,0
+1614,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1615,0,0,0,0,0,0,0,0,0,0
+1616,0,0,0,0,0,0,0,0,0,0
+1617,0,0,0,0,0,0,0,0,0,0
+1618,0,0,0,0,0,MASTER,0,0,0,0
+1619,0,0,0,0,0,EXPERT,0,0,0,0
+1620,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1621,0,0,0,0,0,0,0,0,0,0
+1622,0,0,0,0,0,0,0,0,0,0
+1623,0,0,0,0,0,0,0,0,0,0
+1624,0,0,0,0,0,MASTER,0,0,0,0
+1625,0,0,0,0,0,EXPERT,0,0,0,0
+1626,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1627,0,0,0,0,0,0,0,0,0,0
+1628,0,0,0,0,0,0,0,0,0,0
+1629,0,0,0,0,0,0,0,0,0,0
+1630,0,0,0,0,0,MASTER,0,0,0,0
+1631,0,0,0,0,0,EXPERT,0,0,0,0
+1632,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1633,0,0,0,0,0,0,0,0,0,0
+1634,0,0,0,0,0,0,0,0,0,0
+1635,0,0,0,0,0,0,0,0,0,0
+1636,0,0,0,0,0,MASTER,0,0,0,0
+1637,0,0,0,0,0,EXPERT,0,0,0,0
+1638,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1639,0,0,0,0,0,0,0,0,0,0
+1640,0,0,0,0,0,0,0,0,0,0
+1641,0,0,0,0,0,0,0,0,0,0
+1642,0,0,0,0,0,MASTER,0,0,0,0
+1643,0,0,0,0,0,EXPERT,0,0,0,0
+1644,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1645,0,0,0,0,0,0,0,0,0,0
+1646,0,0,0,0,0,0,0,0,0,0
+1647,0,0,0,0,0,0,0,0,0,0
+1648,0,0,0,0,0,MASTER,0,0,0,0
+1649,0,0,0,0,0,EXPERT,0,0,0,0
+1650,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1651,0,0,0,0,0,0,0,0,0,0
+1652,0,0,0,0,0,0,0,0,0,0
+1653,0,0,0,0,0,0,0,0,0,0
+1654,0,0,0,0,0,MASTER,0,0,0,0
+1655,0,0,0,0,0,EXPERT,0,0,0,0
+1656,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1657,0,0,0,0,0,0,0,0,0,0
+1658,0,0,0,0,0,0,0,0,0,0
+1659,0,0,0,0,0,0,0,0,0,0
+1660,0,0,0,0,0,MASTER,0,0,0,0
+1661,0,0,0,0,0,EXPERT,0,0,0,0
+1662,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1663,0,0,0,0,0,0,0,0,0,0
+1664,0,0,0,0,0,0,0,0,0,0
+1665,0,0,0,0,0,0,0,0,0,0
+1666,0,0,0,0,0,MASTER,0,0,0,0
+1667,0,0,0,0,0,EXPERT,0,0,0,0
+1668,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1669,0,0,0,0,0,0,0,0,0,0
+1670,0,0,0,0,0,0,0,0,0,0
+1671,0,0,0,0,0,0,0,0,0,0
+1672,0,0,0,0,0,MASTER,0,0,0,0
+1673,0,0,0,0,0,EXPERT,0,0,0,0
+1674,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1675,0,0,0,0,0,0,0,0,0,0
+1676,0,0,0,0,0,0,0,0,0,0
+1677,0,0,0,0,0,0,0,0,0,0
+1678,0,0,0,0,0,MASTER,0,0,0,0
+1679,0,0,0,0,0,EXPERT,0,0,0,0
+1680,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1681,0,0,0,0,0,0,0,0,0,0
+1682,0,0,0,0,0,0,0,0,0,0
+1683,0,0,0,0,0,0,0,0,0,0
+1684,0,0,0,0,0,MASTER,0,0,0,0
+1685,0,0,0,0,0,EXPERT,0,0,0,0
+1686,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1687,0,0,0,0,0,0,0,0,0,0
+1688,0,0,0,0,0,0,0,0,0,0
+1689,0,0,0,0,0,0,0,0,0,0
+1690,0,0,0,0,0,MASTER,0,0,0,0
+1691,0,0,0,0,0,EXPERT,0,0,0,0
+1692,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1693,0,0,0,0,0,0,0,0,0,0
+1694,0,0,0,0,0,0,0,0,0,0
+1695,0,0,0,0,0,0,0,0,0,0
+1696,0,0,0,0,0,MASTER,0,0,0,0
+1697,0,0,0,0,0,EXPERT,0,0,0,0
+1698,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1699,0,0,0,0,0,0,0,0,0,0
+1700,0,0,0,0,0,0,0,0,0,0
+1701,0,0,0,0,0,0,0,0,0,0
+1702,0,0,0,0,0,MASTER,0,0,0,0
+1703,0,0,0,0,0,EXPERT,0,0,0,0
+1704,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1705,0,0,0,0,0,0,0,0,0,0
+1706,0,0,0,0,0,0,0,0,0,0
+1707,0,0,0,0,0,0,0,0,0,0
+1708,0,0,0,0,0,MASTER,0,0,0,0
+1709,0,0,0,0,0,EXPERT,0,0,0,0
+1710,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1711,0,0,0,0,0,0,0,0,0,0
+1712,0,0,0,0,0,0,0,0,0,0
+1713,0,0,0,0,0,0,0,0,0,0
+1714,0,0,0,0,0,MASTER,0,0,0,0
+1715,0,0,0,0,0,EXPERT,0,0,0,0
+1716,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1717,0,0,0,0,0,0,0,0,0,0
+1718,0,0,0,0,0,0,0,0,0,0
+1719,0,0,0,0,0,0,0,0,0,0
+1720,0,0,0,0,0,MASTER,0,0,0,0
+1721,0,0,0,0,0,EXPERT,0,0,0,0
+1722,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1723,0,0,0,0,0,0,0,0,0,0
+1724,0,0,0,0,0,0,0,0,0,0
+1725,0,0,0,0,0,0,0,0,0,0
+1726,0,0,0,0,0,MASTER,0,0,0,0
+1727,0,0,0,0,0,EXPERT,0,0,0,0
+1728,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1729,0,0,0,0,0,0,0,0,0,0
+1730,0,0,0,0,0,0,0,0,0,0
+1731,0,0,0,0,0,0,0,0,0,0
+1732,0,0,0,0,0,MASTER,0,0,0,0
+1733,0,0,0,0,0,EXPERT,0,0,0,0
+1734,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1735,0,0,0,0,0,0,0,0,0,0
+1736,0,0,0,0,0,0,0,0,0,0
+1737,0,0,0,0,0,0,0,0,0,0
+1738,0,0,0,0,0,MASTER,0,0,0,0
+1739,0,0,0,0,0,EXPERT,0,0,0,0
+1740,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1741,0,0,0,0,0,0,0,0,0,0
+1742,0,0,0,0,0,0,0,0,0,0
+1743,0,0,0,0,0,0,0,0,0,0
+1744,0,0,0,0,0,MASTER,0,0,0,0
+1745,0,0,0,0,0,EXPERT,0,0,0,0
+1746,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1747,0,0,0,0,0,0,0,0,0,0
+1748,0,0,0,0,0,0,0,0,0,0
+1749,0,0,0,0,0,0,0,0,0,0
+1750,0,0,0,0,0,MASTER,0,0,0,0
+1751,0,0,0,0,0,EXPERT,0,0,0,0
+1752,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1753,0,0,0,0,0,0,0,0,0,0
+1754,0,0,0,0,0,0,0,0,0,0
+1755,0,0,0,0,0,0,0,0,0,0
+1756,0,0,0,0,0,MASTER,0,0,0,0
+1757,0,0,0,0,0,EXPERT,0,0,0,0
+1758,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1759,0,0,0,0,0,0,0,0,0,0
+1760,0,0,0,0,0,0,0,0,0,0
+1761,0,0,0,0,0,0,0,0,0,0
+1762,0,0,0,0,0,MASTER,0,0,0,0
+1763,0,0,0,0,0,EXPERT,0,0,0,0
+1764,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1765,0,0,0,0,0,0,0,0,0,0
+1766,0,0,0,0,0,0,0,0,0,0
+1767,0,0,0,0,0,0,0,0,0,0
+1768,0,0,0,0,0,MASTER,0,0,0,0
+1769,0,0,0,0,0,EXPERT,0,0,0,0
+1770,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1771,0,0,0,0,0,0,0,0,0,0
+1772,0,0,0,0,0,0,0,0,0,0
+1773,0,0,0,0,0,0,0,0,0,0
+1774,0,0,0,0,0,MASTER,0,0,0,0
+1775,0,0,0,0,0,EXPERT,0,0,0,0
+1776,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1777,0,0,0,0,0,0,0,0,0,0
+1778,0,0,0,0,0,0,0,0,0,0
+1779,0,0,0,0,0,0,0,0,0,0
+1780,0,0,0,0,0,MASTER,0,0,0,0
+1781,0,0,0,0,0,EXPERT,0,0,0,0
+1782,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1783,0,0,0,0,0,0,0,0,0,0
+1784,0,0,0,0,0,0,0,0,0,0
+1785,0,0,0,0,0,0,0,0,0,0
+1786,0,0,0,0,0,MASTER,0,0,0,0
+1787,0,0,0,0,0,EXPERT,0,0,0,0
+1788,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1789,0,0,0,0,0,0,0,0,0,0
+1790,0,0,0,0,0,0,0,0,0,0
+1791,0,0,0,0,0,0,0,0,0,0
+1792,0,0,0,0,0,MASTER,0,0,0,0
+1793,0,0,0,0,0,EXPERT,0,0,0,0
+1794,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1795,0,0,0,0,0,0,0,0,0,0
+1796,0,0,0,0,0,0,0,0,0,0
+1797,0,0,0,0,0,0,0,0,0,0
+1798,0,0,0,0,0,MASTER,0,0,0,0
+1799,0,0,0,0,0,EXPERT,0,0,0,0
+1800,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1801,0,0,0,0,0,0,0,0,0,0
+1802,0,0,0,0,0,0,0,0,0,0
+1803,0,0,0,0,0,0,0,0,0,0
+1804,0,0,0,0,0,MASTER,0,0,0,0
+1805,0,0,0,0,0,EXPERT,0,0,0,0
+1806,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1807,0,0,0,0,0,0,0,0,0,0
+1808,0,0,0,0,0,0,0,0,0,0
+1809,0,0,0,0,0,0,0,0,0,0
+1810,0,0,0,0,0,MASTER,0,0,0,0
+1811,0,0,0,0,0,EXPERT,0,0,0,0
+1812,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1813,0,0,0,0,0,0,0,0,0,0
+1814,0,0,0,0,0,0,0,0,0,0
+1815,0,0,0,0,0,0,0,0,0,0
+1816,0,0,0,0,0,MASTER,0,0,0,0
+1817,0,0,0,0,0,EXPERT,0,0,0,0
+1818,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1819,0,0,0,0,0,0,0,0,0,0
+1820,0,0,0,0,0,0,0,0,0,0
+1821,0,0,0,0,0,0,0,0,0,0
+1822,0,0,0,0,0,MASTER,0,0,0,0
+1823,0,0,0,0,0,EXPERT,0,0,0,0
+1824,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1825,0,0,0,0,0,0,0,0,0,0
+1826,0,0,0,0,0,0,0,0,0,0
+1827,0,0,0,0,0,0,0,0,0,0
+1828,0,0,0,0,0,MASTER,0,0,0,0
+1829,0,0,0,0,0,EXPERT,0,0,0,0
+1830,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1831,0,0,0,0,0,0,0,0,0,0
+1832,0,0,0,0,0,0,0,0,0,0
+1833,0,0,0,0,0,0,0,0,0,0
+1834,0,0,0,0,0,MASTER,0,0,0,0
+1835,0,0,0,0,0,EXPERT,0,0,0,0
+1836,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1837,0,0,0,0,0,0,0,0,0,0
+1838,0,0,0,0,0,0,0,0,0,0
+1839,0,0,0,0,0,0,0,0,0,0
+1840,0,0,0,0,0,MASTER,0,0,0,0
+1841,0,0,0,0,0,EXPERT,0,0,0,0
+1842,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1843,0,0,0,0,0,0,0,0,0,0
+1844,0,0,0,0,0,0,0,0,0,0
+1845,0,0,0,0,0,0,0,0,0,0
+1846,0,0,0,0,0,MASTER,0,0,0,0
+1847,0,0,0,0,0,EXPERT,0,0,0,0
+1848,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1849,0,0,0,0,0,0,0,0,0,0
+1850,0,0,0,0,0,0,0,0,0,0
+1851,0,0,0,0,0,0,0,0,0,0
+1852,0,0,0,0,0,MASTER,0,0,0,0
+1853,0,0,0,0,0,EXPERT,0,0,0,0
+1854,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1855,0,0,0,0,0,0,0,0,0,0
+1856,0,0,0,0,0,0,0,0,0,0
+1857,0,0,0,0,0,0,0,0,0,0
+1858,0,0,0,0,0,MASTER,0,0,0,0
+1859,0,0,0,0,0,EXPERT,0,0,0,0
+1860,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1861,0,0,0,0,0,0,0,0,0,0
+1862,0,0,0,0,0,0,0,0,0,0
+1863,0,0,0,0,0,0,0,0,0,0
+1864,0,0,0,0,0,MASTER,0,0,0,0
+1865,0,0,0,0,0,EXPERT,0,0,0,0
+1866,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1867,0,0,0,0,0,0,0,0,0,0
+1868,0,0,0,0,0,0,0,0,0,0
+1869,0,0,0,0,0,0,0,0,0,0
+1870,0,0,0,0,0,MASTER,0,0,0,0
+1871,0,0,0,0,0,EXPERT,0,0,0,0
+1872,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1873,0,0,0,0,0,0,0,0,0,0
+1874,0,0,0,0,0,0,0,0,0,0
+1875,0,0,0,0,0,0,0,0,0,0
+1876,0,0,0,0,0,MASTER,0,0,0,0
+1877,0,0,0,0,0,EXPERT,0,0,0,0
+1878,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1879,0,0,0,0,0,0,0,0,0,0
+1880,0,0,0,0,0,0,0,0,0,0
+1881,0,0,0,0,0,0,0,0,0,0
+1882,0,0,0,0,0,MASTER,0,0,0,0
+1883,0,0,0,0,0,EXPERT,0,0,0,0
+1884,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1885,0,0,0,0,0,0,0,0,0,0
+1886,0,0,0,0,0,0,0,0,0,0
+1887,0,0,0,0,0,0,0,0,0,0
+1888,0,0,0,0,0,MASTER,0,0,0,0
+1889,0,0,0,0,0,EXPERT,0,0,0,0
+1890,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1891,0,0,0,0,0,0,0,0,0,0
+1892,0,0,0,0,0,0,0,0,0,0
+1893,0,0,0,0,0,0,0,0,0,0
+1894,0,0,0,0,0,MASTER,0,0,0,0
+1895,0,0,0,0,0,EXPERT,0,0,0,0
+1896,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1897,0,0,0,0,0,0,0,0,0,0
+1898,0,0,0,0,0,0,0,0,0,0
+1899,0,0,0,0,0,0,0,0,0,0
+1900,0,0,0,0,0,MASTER,0,0,0,0
+1901,0,0,0,0,0,EXPERT,0,0,0,0
+1902,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1903,0,0,0,0,0,0,0,0,0,0
+1904,0,0,0,0,0,0,0,0,0,0
+1905,0,0,0,0,0,0,0,0,0,0
+1906,0,0,0,0,0,MASTER,0,0,0,0
+1907,0,0,0,0,0,EXPERT,0,0,0,0
+1908,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1909,0,0,0,0,0,0,0,0,0,0
+1910,0,0,0,0,0,0,0,0,0,0
+1911,0,0,0,0,0,0,0,0,0,0
+1912,0,0,0,0,0,MASTER,0,0,0,0
+1913,0,0,0,0,0,EXPERT,0,0,0,0
+1914,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1915,0,0,0,0,0,0,0,0,0,0
+1916,0,0,0,0,0,0,0,0,0,0
+1917,0,0,0,0,0,0,0,0,0,0
+1918,0,0,0,0,0,MASTER,0,0,0,0
+1919,0,0,0,0,0,EXPERT,0,0,0,0
+1920,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1921,0,0,0,0,0,0,0,0,0,0
+1922,0,0,0,0,0,0,0,0,0,0
+1923,0,0,0,0,0,0,0,0,0,0
+1924,0,0,0,0,0,MASTER,0,0,0,0
+1925,0,0,0,0,0,EXPERT,0,0,0,0
+1926,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1927,0,0,0,0,0,0,0,0,0,0
+1928,0,0,0,0,0,0,0,0,0,0
+1929,0,0,0,0,0,0,0,0,0,0
+1930,0,0,0,0,0,MASTER,0,0,0,0
+1931,0,0,0,0,0,EXPERT,0,0,0,0
+1932,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1933,0,0,0,0,0,0,0,0,0,0
+1934,0,0,0,0,0,0,0,0,0,0
+1935,0,0,0,0,0,0,0,0,0,0
+1936,0,0,0,0,0,MASTER,0,0,0,0
+1937,0,0,0,0,0,EXPERT,0,0,0,0
+1938,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1939,0,0,0,0,0,0,0,0,0,0
+1940,0,0,0,0,0,0,0,0,0,0
+1941,0,0,0,0,0,0,0,0,0,0
+1942,0,0,0,0,0,MASTER,0,0,0,0
+1943,0,0,0,0,0,EXPERT,0,0,0,0
+1944,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1945,0,0,0,0,0,0,0,0,0,0
+1946,0,0,0,0,0,0,0,0,0,0
+1947,0,0,0,0,0,0,0,0,0,0
+1948,0,0,0,0,0,MASTER,0,0,0,0
+1949,0,0,0,0,0,EXPERT,0,0,0,0
+1950,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1951,0,0,0,0,0,0,0,0,0,0
+1952,0,0,0,0,0,0,0,0,0,0
+1953,0,0,0,0,0,0,0,0,0,0
+1954,0,0,0,0,0,MASTER,0,0,0,0
+1955,0,0,0,0,0,EXPERT,0,0,0,0
+1956,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1957,0,0,0,0,0,0,0,0,0,0
+1958,0,0,0,0,0,0,0,0,0,0
+1959,0,0,0,0,0,0,0,0,0,0
+1960,0,0,0,0,0,MASTER,0,0,0,0
+1961,0,0,0,0,0,EXPERT,0,0,0,0
+1962,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1963,0,0,0,0,0,0,0,0,0,0
+1964,0,0,0,0,0,0,0,0,0,0
+1965,0,0,0,0,0,0,0,0,0,0
+1966,0,0,0,0,0,MASTER,0,0,0,0
+1967,0,0,0,0,0,EXPERT,0,0,0,0
+1968,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1969,0,0,0,0,0,0,0,0,0,0
+1970,0,0,0,0,0,0,0,0,0,0
+1971,0,0,0,0,0,0,0,0,0,0
+1972,0,0,0,0,0,MASTER,0,0,0,0
+1973,0,0,0,0,0,EXPERT,0,0,0,0
+1974,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1975,0,0,0,0,0,0,0,0,0,0
+1976,0,0,0,0,0,0,0,0,0,0
+1977,0,0,0,0,0,0,0,0,0,0
+1978,0,0,0,0,0,MASTER,0,0,0,0
+1979,0,0,0,0,0,EXPERT,0,0,0,0
+1980,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1981,0,0,0,0,0,0,0,0,0,0
+1982,0,0,0,0,0,0,0,0,0,0
+1983,0,0,0,0,0,0,0,0,0,0
+1984,0,0,0,0,0,MASTER,0,0,0,0
+1985,0,0,0,0,0,EXPERT,0,0,0,0
+1986,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1987,0,0,0,0,0,0,0,0,0,0
+1988,0,0,0,0,0,0,0,0,0,0
+1989,0,0,0,0,0,0,0,0,0,0
+1990,0,0,0,0,0,MASTER,0,0,0,0
+1991,0,0,0,0,0,EXPERT,0,0,0,0
+1992,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1993,0,0,0,0,0,0,0,0,0,0
+1994,0,0,0,0,0,0,0,0,0,0
+1995,0,0,0,0,0,0,0,0,0,0
+1996,0,0,0,0,0,MASTER,0,0,0,0
+1997,0,0,0,0,0,EXPERT,0,0,0,0
+1998,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+1999,0,0,0,0,0,0,0,0,0,0
+2000,0,0,0,0,0,0,0,0,0,0
+2001,0,0,0,0,0,0,0,0,0,0
+2002,0,0,0,0,0,MASTER,0,0,0,0
+2003,0,0,0,0,0,EXPERT,0,0,0,0
+2004,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2005,0,0,0,0,0,0,0,0,0,0
+2006,0,0,0,0,0,0,0,0,0,0
+2007,0,0,0,0,0,0,0,0,0,0
+2008,0,0,0,0,0,MASTER,0,0,0,0
+2009,0,0,0,0,0,EXPERT,0,0,0,0
+2010,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2011,0,0,0,0,0,0,0,0,0,0
+2012,0,0,0,0,0,0,0,0,0,0
+2013,0,0,0,0,0,0,0,0,0,0
+2014,0,0,0,0,0,MASTER,0,0,0,0
+2015,0,0,0,0,0,EXPERT,0,0,0,0
+2016,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2017,0,0,0,0,0,0,0,0,0,0
+2018,0,0,0,0,0,0,0,0,0,0
+2019,0,0,0,0,0,0,0,0,0,0
+2020,0,0,0,0,0,MASTER,0,0,0,0
+2021,0,0,0,0,0,EXPERT,0,0,0,0
+2022,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2023,0,0,0,0,0,0,0,0,0,0
+2024,0,0,0,0,0,0,0,0,0,0
+2025,0,0,0,0,0,0,0,0,0,0
+2026,0,0,0,0,0,MASTER,0,0,0,0
+2027,0,0,0,0,0,EXPERT,0,0,0,0
+2028,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2029,0,0,0,0,0,0,0,0,0,0
+2030,0,0,0,0,0,0,0,0,0,0
+2031,0,0,0,0,0,0,0,0,0,0
+2032,0,0,0,0,0,MASTER,0,0,0,0
+2033,0,0,0,0,0,EXPERT,0,0,0,0
+2034,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2035,0,0,0,0,0,0,0,0,0,0
+2036,0,0,0,0,0,0,0,0,0,0
+2037,0,0,0,0,0,0,0,0,0,0
+2038,0,0,0,0,0,MASTER,0,0,0,0
+2039,0,0,0,0,0,EXPERT,0,0,0,0
+2040,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2041,0,0,0,0,0,0,0,0,0,0
+2042,0,0,0,0,0,0,0,0,0,0
+2043,0,0,0,0,0,0,0,0,0,0
+2044,0,0,0,0,0,MASTER,0,0,0,0
+2045,0,0,0,0,0,EXPERT,0,0,0,0
+2046,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2047,0,0,0,0,0,0,0,0,0,0
+2048,0,0,0,0,0,0,0,0,0,0
+2049,0,0,0,0,0,0,0,0,0,0
+2050,0,0,0,0,0,MASTER,0,0,0,0
+2051,0,0,0,0,0,EXPERT,0,0,0,0
+2052,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2053,0,0,0,0,0,0,0,0,0,0
+2054,0,0,0,0,0,0,0,0,0,0
+2055,0,0,0,0,0,0,0,0,0,0
+2056,0,0,0,0,0,MASTER,0,0,0,0
+2057,0,0,0,0,0,EXPERT,0,0,0,0
+2058,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2059,0,0,0,0,0,0,0,0,0,0
+2060,0,0,0,0,0,0,0,0,0,0
+2061,0,0,0,0,0,0,0,0,0,0
+2062,0,0,0,0,0,MASTER,0,0,0,0
+2063,0,0,0,0,0,EXPERT,0,0,0,0
+2064,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2065,0,0,0,0,0,0,0,0,0,0
+2066,0,0,0,0,0,0,0,0,0,0
+2067,0,0,0,0,0,0,0,0,0,0
+2068,0,0,0,0,0,MASTER,0,0,0,0
+2069,0,0,0,0,0,EXPERT,0,0,0,0
+2070,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2071,0,0,0,0,0,0,0,0,0,0
+2072,0,0,0,0,0,0,0,0,0,0
+2073,0,0,0,0,0,0,0,0,0,0
+2074,0,0,0,0,0,MASTER,0,0,0,0
+2075,0,0,0,0,0,EXPERT,0,0,0,0
+2076,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2077,0,0,0,0,0,0,0,0,0,0
+2078,0,0,0,0,0,0,0,0,0,0
+2079,0,0,0,0,0,0,0,0,0,0
+2080,0,0,0,0,0,MASTER,0,0,0,0
+2081,0,0,0,0,0,EXPERT,0,0,0,0
+2082,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2083,0,0,0,0,0,0,0,0,0,0
+2084,0,0,0,0,0,0,0,0,0,0
+2085,0,0,0,0,0,0,0,0,0,0
+2086,0,0,0,0,0,MASTER,0,0,0,0
+2087,0,0,0,0,0,EXPERT,0,0,0,0
+2088,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2089,0,0,0,0,0,0,0,0,0,0
+2090,0,0,0,0,0,0,0,0,0,0
+2091,0,0,0,0,0,0,0,0,0,0
+2092,0,0,0,0,0,MASTER,0,0,0,0
+2093,0,0,0,0,0,EXPERT,0,0,0,0
+2094,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2095,0,0,0,0,0,0,0,0,0,0
+2096,0,0,0,0,0,0,0,0,0,0
+2097,0,0,0,0,0,0,0,0,0,0
+2098,0,0,0,0,0,MASTER,0,0,0,0
+2099,0,0,0,0,0,EXPERT,0,0,0,0
+2100,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2101,0,0,0,0,0,0,0,0,0,0
+2102,0,0,0,0,0,0,0,0,0,0
+2103,0,0,0,0,0,0,0,0,0,0
+2104,0,0,0,0,0,MASTER,0,0,0,0
+2105,0,0,0,0,0,EXPERT,0,0,0,0
+2106,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2107,0,0,0,0,0,0,0,0,0,0
+2108,0,0,0,0,0,0,0,0,0,0
+2109,0,0,0,0,0,0,0,0,0,0
+2110,0,0,0,0,0,MASTER,0,0,0,0
+2111,0,0,0,0,0,EXPERT,0,0,0,0
+2112,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2113,0,0,0,0,0,0,0,0,0,0
+2114,0,0,0,0,0,0,0,0,0,0
+2115,0,0,0,0,0,0,0,0,0,0
+2116,0,0,0,0,0,MASTER,0,0,0,0
+2117,0,0,0,0,0,EXPERT,0,0,0,0
+2118,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2119,0,0,0,0,0,0,0,0,0,0
+2120,0,0,0,0,0,0,0,0,0,0
+2121,0,0,0,0,0,0,0,0,0,0
+2122,0,0,0,0,0,MASTER,0,0,0,0
+2123,0,0,0,0,0,EXPERT,0,0,0,0
+2124,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2125,0,0,0,0,0,0,0,0,0,0
+2126,0,0,0,0,0,0,0,0,0,0
+2127,0,0,0,0,0,0,0,0,0,0
+2128,0,0,0,0,0,MASTER,0,0,0,0
+2129,0,0,0,0,0,EXPERT,0,0,0,0
+2130,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2131,0,0,0,0,0,0,0,0,0,0
+2132,0,0,0,0,0,0,0,0,0,0
+2133,0,0,0,0,0,0,0,0,0,0
+2134,0,0,0,0,0,MASTER,0,0,0,0
+2135,0,0,0,0,0,EXPERT,0,0,0,0
+2136,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2137,0,0,0,0,0,0,0,0,0,0
+2138,0,0,0,0,0,0,0,0,0,0
+2139,0,0,0,0,0,0,0,0,0,0
+2140,0,0,0,0,0,MASTER,0,0,0,0
+2141,0,0,0,0,0,EXPERT,0,0,0,0
+2142,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2143,0,0,0,0,0,0,0,0,0,0
+2144,0,0,0,0,0,0,0,0,0,0
+2145,0,0,0,0,0,0,0,0,0,0
+2146,0,0,0,0,0,MASTER,0,0,0,0
+2147,0,0,0,0,0,EXPERT,0,0,0,0
+2148,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2149,0,0,0,0,0,0,0,0,0,0
+2150,0,0,0,0,0,0,0,0,0,0
+2151,0,0,0,0,0,0,0,0,0,0
+2152,0,0,0,0,0,MASTER,0,0,0,0
+2153,0,0,0,0,0,EXPERT,0,0,0,0
+2154,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2155,0,0,0,0,0,0,0,0,0,0
+2156,0,0,0,0,0,0,0,0,0,0
+2157,0,0,0,0,0,0,0,0,0,0
+2158,0,0,0,0,0,MASTER,0,0,0,0
+2159,0,0,0,0,0,EXPERT,0,0,0,0
+2160,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2161,0,0,0,0,0,0,0,0,0,0
+2162,0,0,0,0,0,0,0,0,0,0
+2163,0,0,0,0,0,0,0,0,0,0
+2164,0,0,0,0,0,MASTER,0,0,0,0
+2165,0,0,0,0,0,EXPERT,0,0,0,0
+2166,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2167,0,0,0,0,0,0,0,0,0,0
+2168,0,0,0,0,0,0,0,0,0,0
+2169,0,0,0,0,0,0,0,0,0,0
+2170,0,0,0,0,0,MASTER,0,0,0,0
+2171,0,0,0,0,0,EXPERT,0,0,0,0
+2172,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2173,0,0,0,0,0,0,0,0,0,0
+2174,0,0,0,0,0,0,0,0,0,0
+2175,0,0,0,0,0,0,0,0,0,0
+2176,0,0,0,0,0,MASTER,0,0,0,0
+2177,0,0,0,0,0,EXPERT,0,0,0,0
+2178,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2179,0,0,0,0,0,0,0,0,0,0
+2180,0,0,0,0,0,0,0,0,0,0
+2181,0,0,0,0,0,0,0,0,0,0
+2182,0,0,0,0,0,MASTER,0,0,0,0
+2183,0,0,0,0,0,EXPERT,0,0,0,0
+2184,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2185,0,0,0,0,0,0,0,0,0,0
+2186,0,0,0,0,0,0,0,0,0,0
+2187,0,0,0,0,0,0,0,0,0,0
+2188,0,0,0,0,0,MASTER,0,0,0,0
+2189,0,0,0,0,0,EXPERT,0,0,0,0
+2190,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2191,0,0,0,0,0,0,0,0,0,0
+2192,0,0,0,0,0,0,0,0,0,0
+2193,0,0,0,0,0,0,0,0,0,0
+2194,0,0,0,0,0,MASTER,0,0,0,0
+2195,0,0,0,0,0,EXPERT,0,0,0,0
+2196,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2197,0,0,0,0,0,0,0,0,0,0
+2198,0,0,0,0,0,0,0,0,0,0
+2199,0,0,0,0,0,0,0,0,0,0
+2200,0,0,0,0,0,MASTER,0,0,0,0
+2201,0,0,0,0,0,EXPERT,0,0,0,0
+2202,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2203,0,0,0,0,0,0,0,0,0,0
+2204,0,0,0,0,0,0,0,0,0,0
+2205,0,0,0,0,0,0,0,0,0,0
+2206,0,0,0,0,0,MASTER,0,0,0,0
+2207,0,0,0,0,0,EXPERT,0,0,0,0
+2208,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2209,0,0,0,0,0,0,0,0,0,0
+2210,0,0,0,0,0,0,0,0,0,0
+2211,0,0,0,0,0,0,0,0,0,0
+2212,0,0,0,0,0,MASTER,0,0,0,0
+2213,0,0,0,0,0,EXPERT,0,0,0,0
+2214,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2215,0,0,0,0,0,0,0,0,0,0
+2216,0,0,0,0,0,0,0,0,0,0
+2217,0,0,0,0,0,0,0,0,0,0
+2218,0,0,0,0,0,MASTER,0,0,0,0
+2219,0,0,0,0,0,EXPERT,0,0,0,0
+2220,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2221,0,0,0,0,0,0,0,0,0,0
+2222,0,0,0,0,0,0,0,0,0,0
+2223,0,0,0,0,0,0,0,0,0,0
+2224,0,0,0,0,0,MASTER,0,0,0,0
+2225,0,0,0,0,0,EXPERT,0,0,0,0
+2226,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2227,0,0,0,0,0,0,0,0,0,0
+2228,0,0,0,0,0,0,0,0,0,0
+2229,0,0,0,0,0,0,0,0,0,0
+2230,0,0,0,0,0,MASTER,0,0,0,0
+2231,0,0,0,0,0,EXPERT,0,0,0,0
+2232,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2233,0,0,0,0,0,0,0,0,0,0
+2234,0,0,0,0,0,0,0,0,0,0
+2235,0,0,0,0,0,0,0,0,0,0
+2236,0,0,0,0,0,MASTER,0,0,0,0
+2237,0,0,0,0,0,EXPERT,0,0,0,0
+2238,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2239,0,0,0,0,0,0,0,0,0,0
+2240,0,0,0,0,0,0,0,0,0,0
+2241,0,0,0,0,0,0,0,0,0,0
+2242,0,0,0,0,0,MASTER,0,0,0,0
+2243,0,0,0,0,0,EXPERT,0,0,0,0
+2244,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2245,0,0,0,0,0,0,0,0,0,0
+2246,0,0,0,0,0,0,0,0,0,0
+2247,0,0,0,0,0,0,0,0,0,0
+2248,0,0,0,0,0,MASTER,0,0,0,0
+2249,0,0,0,0,0,EXPERT,0,0,0,0
+2250,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2251,0,0,0,0,0,0,0,0,0,0
+2252,0,0,0,0,0,0,0,0,0,0
+2253,0,0,0,0,0,0,0,0,0,0
+2254,0,0,0,0,0,MASTER,0,0,0,0
+2255,0,0,0,0,0,EXPERT,0,0,0,0
+2256,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2257,0,0,0,0,0,0,0,0,0,0
+2258,0,0,0,0,0,0,0,0,0,0
+2259,0,0,0,0,0,0,0,0,0,0
+2260,0,0,0,0,0,MASTER,0,0,0,0
+2261,0,0,0,0,0,EXPERT,0,0,0,0
+2262,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2263,0,0,0,0,0,0,0,0,0,0
+2264,0,0,0,0,0,0,0,0,0,0
+2265,0,0,0,0,0,0,0,0,0,0
+2266,0,0,0,0,0,MASTER,0,0,0,0
+2267,0,0,0,0,0,EXPERT,0,0,0,0
+2268,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2269,0,0,0,0,0,0,0,0,0,0
+2270,0,0,0,0,0,0,0,0,0,0
+2271,0,0,0,0,0,0,0,0,0,0
+2272,0,0,0,0,0,MASTER,0,0,0,0
+2273,0,0,0,0,0,EXPERT,0,0,0,0
+2274,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2275,0,0,0,0,0,0,0,0,0,0
+2276,0,0,0,0,0,0,0,0,0,0
+2277,0,0,0,0,0,0,0,0,0,0
+2278,0,0,0,0,0,MASTER,0,0,0,0
+2279,0,0,0,0,0,EXPERT,0,0,0,0
+2280,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2281,0,0,0,0,0,0,0,0,0,0
+2282,0,0,0,0,0,0,0,0,0,0
+2283,0,0,0,0,0,0,0,0,0,0
+2284,0,0,0,0,0,MASTER,0,0,0,0
+2285,0,0,0,0,0,EXPERT,0,0,0,0
+2286,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2287,0,0,0,0,0,0,0,0,0,0
+2288,0,0,0,0,0,0,0,0,0,0
+2289,0,0,0,0,0,0,0,0,0,0
+2290,0,0,0,0,0,MASTER,0,0,0,0
+2291,0,0,0,0,0,EXPERT,0,0,0,0
+2292,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2293,0,0,0,0,0,0,0,0,0,0
+2294,0,0,0,0,0,0,0,0,0,0
+2295,0,0,0,0,0,0,0,0,0,0
+2296,0,0,0,0,0,MASTER,0,0,0,0
+2297,0,0,0,0,0,EXPERT,0,0,0,0
+2298,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2299,0,0,0,0,0,0,0,0,0,0
+2300,0,0,0,0,0,0,0,0,0,0
+2301,0,0,0,0,0,0,0,0,0,0
+2302,0,0,0,0,0,MASTER,0,0,0,0
+2303,0,0,0,0,0,EXPERT,0,0,0,0
+2304,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2305,0,0,0,0,0,0,0,0,0,0
+2306,0,0,0,0,0,0,0,0,0,0
+2307,0,0,0,0,0,0,0,0,0,0
+2308,0,0,0,0,0,MASTER,0,0,0,0
+2309,0,0,0,0,0,EXPERT,0,0,0,0
+2310,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2311,0,0,0,0,0,0,0,0,0,0
+2312,0,0,0,0,0,0,0,0,0,0
+2313,0,0,0,0,0,0,0,0,0,0
+2314,0,0,0,0,0,MASTER,0,0,0,0
+2315,0,0,0,0,0,EXPERT,0,0,0,0
+2316,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2317,0,0,0,0,0,0,0,0,0,0
+2318,0,0,0,0,0,0,0,0,0,0
+2319,0,0,0,0,0,0,0,0,0,0
+2320,0,0,0,0,0,MASTER,0,0,0,0
+2321,0,0,0,0,0,EXPERT,0,0,0,0
+2322,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2323,0,0,0,0,0,0,0,0,0,0
+2324,0,0,0,0,0,0,0,0,0,0
+2325,0,0,0,0,0,0,0,0,0,0
+2326,0,0,0,0,0,MASTER,0,0,0,0
+2327,0,0,0,0,0,EXPERT,0,0,0,0
+2328,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2329,0,0,0,0,0,0,0,0,0,0
+2330,0,0,0,0,0,0,0,0,0,0
+2331,0,0,0,0,0,0,0,0,0,0
+2332,0,0,0,0,0,MASTER,0,0,0,0
+2333,0,0,0,0,0,EXPERT,0,0,0,0
+2334,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2335,0,0,0,0,0,0,0,0,0,0
+2336,0,0,0,0,0,0,0,0,0,0
+2337,0,0,0,0,0,0,0,0,0,0
+2338,0,0,0,0,0,MASTER,0,0,0,0
+2339,0,0,0,0,0,EXPERT,0,0,0,0
+2340,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2341,0,0,0,0,0,0,0,0,0,0
+2342,0,0,0,0,0,0,0,0,0,0
+2343,0,0,0,0,0,0,0,0,0,0
+2344,0,0,0,0,0,MASTER,0,0,0,0
+2345,0,0,0,0,0,EXPERT,0,0,0,0
+2346,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2347,0,0,0,0,0,0,0,0,0,0
+2348,0,0,0,0,0,0,0,0,0,0
+2349,0,0,0,0,0,0,0,0,0,0
+2350,0,0,0,0,0,MASTER,0,0,0,0
+2351,0,0,0,0,0,EXPERT,0,0,0,0
+2352,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2353,0,0,0,0,0,0,0,0,0,0
+2354,0,0,0,0,0,0,0,0,0,0
+2355,0,0,0,0,0,0,0,0,0,0
+2356,0,0,0,0,0,MASTER,0,0,0,0
+2357,0,0,0,0,0,EXPERT,0,0,0,0
+2358,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2359,0,0,0,0,0,0,0,0,0,0
+2360,0,0,0,0,0,0,0,0,0,0
+2361,0,0,0,0,0,0,0,0,0,0
+2362,0,0,0,0,0,MASTER,0,0,0,0
+2363,0,0,0,0,0,EXPERT,0,0,0,0
+2364,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2365,0,0,0,0,0,0,0,0,0,0
+2366,0,0,0,0,0,0,0,0,0,0
+2367,0,0,0,0,0,0,0,0,0,0
+2368,0,0,0,0,0,MASTER,0,0,0,0
+2369,0,0,0,0,0,EXPERT,0,0,0,0
+2370,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2371,0,0,0,0,0,0,0,0,0,0
+2372,0,0,0,0,0,0,0,0,0,0
+2373,0,0,0,0,0,0,0,0,0,0
+2374,0,0,0,0,0,MASTER,0,0,0,0
+2375,0,0,0,0,0,EXPERT,0,0,0,0
+2376,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2377,0,0,0,0,0,0,0,0,0,0
+2378,0,0,0,0,0,0,0,0,0,0
+2379,0,0,0,0,0,0,0,0,0,0
+2380,0,0,0,0,0,MASTER,0,0,0,0
+2381,0,0,0,0,0,EXPERT,0,0,0,0
+2382,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2383,0,0,0,0,0,0,0,0,0,0
+2384,0,0,0,0,0,0,0,0,0,0
+2385,0,0,0,0,0,0,0,0,0,0
+2386,0,0,0,0,0,MASTER,0,0,0,0
+2387,0,0,0,0,0,EXPERT,0,0,0,0
+2388,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2389,0,0,0,0,0,0,0,0,0,0
+2390,0,0,0,0,0,0,0,0,0,0
+2391,0,0,0,0,0,0,0,0,0,0
+2392,0,0,0,0,0,MASTER,0,0,0,0
+2393,0,0,0,0,0,EXPERT,0,0,0,0
+2394,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2395,0,0,0,0,0,0,0,0,0,0
+2396,0,0,0,0,0,0,0,0,0,0
+2397,0,0,0,0,0,0,0,0,0,0
+2398,0,0,0,0,0,MASTER,0,0,0,0
+2399,0,0,0,0,0,EXPERT,0,0,0,0
+2400,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2401,0,0,0,0,0,0,0,0,0,0
+2402,0,0,0,0,0,0,0,0,0,0
+2403,0,0,0,0,0,0,0,0,0,0
+2404,0,0,0,0,0,MASTER,0,0,0,0
+2405,0,0,0,0,0,EXPERT,0,0,0,0
+2406,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2407,0,0,0,0,0,0,0,0,0,0
+2408,0,0,0,0,0,0,0,0,0,0
+2409,0,0,0,0,0,0,0,0,0,0
+2410,0,0,0,0,0,MASTER,0,0,0,0
+2411,0,0,0,0,0,EXPERT,0,0,0,0
+2412,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2413,0,0,0,0,0,0,0,0,0,0
+2414,0,0,0,0,0,0,0,0,0,0
+2415,0,0,0,0,0,0,0,0,0,0
+2416,0,0,0,0,0,MASTER,0,0,0,0
+2417,0,0,0,0,0,EXPERT,0,0,0,0
+2418,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2419,0,0,0,0,0,0,0,0,0,0
+2420,0,0,0,0,0,0,0,0,0,0
+2421,0,0,0,0,0,0,0,0,0,0
+2422,0,0,0,0,0,MASTER,0,0,0,0
+2423,0,0,0,0,0,EXPERT,0,0,0,0
+2424,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2425,0,0,0,0,0,0,0,0,0,0
+2426,0,0,0,0,0,0,0,0,0,0
+2427,0,0,0,0,0,0,0,0,0,0
+2428,0,0,0,0,0,MASTER,0,0,0,0
+2429,0,0,0,0,0,EXPERT,0,0,0,0
+2430,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2431,0,0,0,0,0,0,0,0,0,0
+2432,0,0,0,0,0,0,0,0,0,0
+2433,0,0,0,0,0,0,0,0,0,0
+2434,0,0,0,0,0,MASTER,0,0,0,0
+2435,0,0,0,0,0,EXPERT,0,0,0,0
+2436,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2437,0,0,0,0,0,0,0,0,0,0
+2438,0,0,0,0,0,0,0,0,0,0
+2439,0,0,0,0,0,0,0,0,0,0
+2440,0,0,0,0,0,MASTER,0,0,0,0
+2441,0,0,0,0,0,EXPERT,0,0,0,0
+2442,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2443,0,0,0,0,0,0,0,0,0,0
+2444,0,0,0,0,0,0,0,0,0,0
+2445,0,0,0,0,0,0,0,0,0,0
+2446,0,0,0,0,0,MASTER,0,0,0,0
+2447,0,0,0,0,0,EXPERT,0,0,0,0
+2448,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2449,0,0,0,0,0,0,0,0,0,0
+2450,0,0,0,0,0,0,0,0,0,0
+2451,0,0,0,0,0,0,0,0,0,0
+2452,0,0,0,0,0,MASTER,0,0,0,0
+2453,0,0,0,0,0,EXPERT,0,0,0,0
+2454,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2455,0,0,0,0,0,0,0,0,0,0
+2456,0,0,0,0,0,0,0,0,0,0
+2457,0,0,0,0,0,0,0,0,0,0
+2458,0,0,0,0,0,MASTER,0,0,0,0
+2459,0,0,0,0,0,EXPERT,0,0,0,0
+2460,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2461,0,0,0,0,0,0,0,0,0,0
+2462,0,0,0,0,0,0,0,0,0,0
+2463,0,0,0,0,0,0,0,0,0,0
+2464,0,0,0,0,0,MASTER,0,0,0,0
+2465,0,0,0,0,0,EXPERT,0,0,0,0
+2466,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2467,0,0,0,0,0,0,0,0,0,0
+2468,0,0,0,0,0,0,0,0,0,0
+2469,0,0,0,0,0,0,0,0,0,0
+2470,0,0,0,0,0,MASTER,0,0,0,0
+2471,0,0,0,0,0,EXPERT,0,0,0,0
+2472,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2473,0,0,0,0,0,0,0,0,0,0
+2474,0,0,0,0,0,0,0,0,0,0
+2475,0,0,0,0,0,0,0,0,0,0
+2476,0,0,0,0,0,MASTER,0,0,0,0
+2477,0,0,0,0,0,EXPERT,0,0,0,0
+2478,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2479,0,0,0,0,0,0,0,0,0,0
+2480,0,0,0,0,0,0,0,0,0,0
+2481,0,0,0,0,0,0,0,0,0,0
+2482,0,0,0,0,0,MASTER,0,0,0,0
+2483,0,0,0,0,0,EXPERT,0,0,0,0
+2484,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2485,0,0,0,0,0,0,0,0,0,0
+2486,0,0,0,0,0,0,0,0,0,0
+2487,0,0,0,0,0,0,0,0,0,0
+2488,0,0,0,0,0,MASTER,0,0,0,0
+2489,0,0,0,0,0,EXPERT,0,0,0,0
+2490,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2491,0,0,0,0,0,0,0,0,0,0
+2492,0,0,0,0,0,0,0,0,0,0
+2493,0,0,0,0,0,0,0,0,0,0
+2494,0,0,0,0,0,MASTER,0,0,0,0
+2495,0,0,0,0,0,EXPERT,0,0,0,0
+2496,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2497,0,0,0,0,0,0,0,0,0,0
+2498,0,0,0,0,0,0,0,0,0,0
+2499,0,0,0,0,0,0,0,0,0,0
+2500,0,0,0,0,0,MASTER,0,0,0,0
+2501,0,0,0,0,0,EXPERT,0,0,0,0
+2502,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2503,0,0,0,0,0,0,0,0,0,0
+2504,0,0,0,0,0,0,0,0,0,0
+2505,0,0,0,0,0,0,0,0,0,0
+2506,0,0,0,0,0,MASTER,0,0,0,0
+2507,0,0,0,0,0,EXPERT,0,0,0,0
+2508,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2509,0,0,0,0,0,0,0,0,0,0
+2510,0,0,0,0,0,0,0,0,0,0
+2511,0,0,0,0,0,0,0,0,0,0
+2512,0,0,0,0,0,MASTER,0,0,0,0
+2513,0,0,0,0,0,EXPERT,0,0,0,0
+2514,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2515,0,0,0,0,0,0,0,0,0,0
+2516,0,0,0,0,0,0,0,0,0,0
+2517,0,0,0,0,0,0,0,0,0,0
+2518,0,0,0,0,0,MASTER,0,0,0,0
+2519,0,0,0,0,0,EXPERT,0,0,0,0
+2520,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2521,0,0,0,0,0,0,0,0,0,0
+2522,0,0,0,0,0,0,0,0,0,0
+2523,0,0,0,0,0,0,0,0,0,0
+2524,0,0,0,0,0,MASTER,0,0,0,0
+2525,0,0,0,0,0,EXPERT,0,0,0,0
+2526,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2527,0,0,0,0,0,0,0,0,0,0
+2528,0,0,0,0,0,0,0,0,0,0
+2529,0,0,0,0,0,0,0,0,0,0
+2530,0,0,0,0,0,MASTER,0,0,0,0
+2531,0,0,0,0,0,EXPERT,0,0,0,0
+2532,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2533,0,0,0,0,0,0,0,0,0,0
+2534,0,0,0,0,0,0,0,0,0,0
+2535,0,0,0,0,0,0,0,0,0,0
+2536,0,0,0,0,0,MASTER,0,0,0,0
+2537,0,0,0,0,0,EXPERT,0,0,0,0
+2538,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2539,0,0,0,0,0,0,0,0,0,0
+2540,0,0,0,0,0,0,0,0,0,0
+2541,0,0,0,0,0,0,0,0,0,0
+2542,0,0,0,0,0,MASTER,0,0,0,0
+2543,0,0,0,0,0,EXPERT,0,0,0,0
+2544,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2545,0,0,0,0,0,0,0,0,0,0
+2546,0,0,0,0,0,0,0,0,0,0
+2547,0,0,0,0,0,0,0,0,0,0
+2548,0,0,0,0,0,MASTER,0,0,0,0
+2549,0,0,0,0,0,EXPERT,0,0,0,0
+2550,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2551,0,0,0,0,0,0,0,0,0,0
+2552,0,0,0,0,0,0,0,0,0,0
+2553,0,0,0,0,0,0,0,0,0,0
+2554,0,0,0,0,0,MASTER,0,0,0,0
+2555,0,0,0,0,0,EXPERT,0,0,0,0
+2556,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2557,0,0,0,0,0,0,0,0,0,0
+2558,0,0,0,0,0,0,0,0,0,0
+2559,0,0,0,0,0,0,0,0,0,0
+2560,0,0,0,0,0,MASTER,0,0,0,0
+2561,0,0,0,0,0,EXPERT,0,0,0,0
+2562,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2563,0,0,0,0,0,0,0,0,0,0
+2564,0,0,0,0,0,0,0,0,0,0
+2565,0,0,0,0,0,0,0,0,0,0
+2566,0,0,0,0,0,MASTER,0,0,0,0
+2567,0,0,0,0,0,EXPERT,0,0,0,0
+2568,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2569,0,0,0,0,0,0,0,0,0,0
+2570,0,0,0,0,0,0,0,0,0,0
+2571,0,0,0,0,0,0,0,0,0,0
+2572,0,0,0,0,0,MASTER,0,0,0,0
+2573,0,0,0,0,0,EXPERT,0,0,0,0
+2574,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2575,0,0,0,0,0,0,0,0,0,0
+2576,0,0,0,0,0,0,0,0,0,0
+2577,0,0,0,0,0,0,0,0,0,0
+2578,0,0,0,0,0,MASTER,0,0,0,0
+2579,0,0,0,0,0,EXPERT,0,0,0,0
+2580,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2581,0,0,0,0,0,0,0,0,0,0
+2582,0,0,0,0,0,0,0,0,0,0
+2583,0,0,0,0,0,0,0,0,0,0
+2584,0,0,0,0,0,MASTER,0,0,0,0
+2585,0,0,0,0,0,EXPERT,0,0,0,0
+2586,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2587,0,0,0,0,0,0,0,0,0,0
+2588,0,0,0,0,0,0,0,0,0,0
+2589,0,0,0,0,0,0,0,0,0,0
+2590,0,0,0,0,0,MASTER,0,0,0,0
+2591,0,0,0,0,0,EXPERT,0,0,0,0
+2592,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2593,0,0,0,0,0,0,0,0,0,0
+2594,0,0,0,0,0,0,0,0,0,0
+2595,0,0,0,0,0,0,0,0,0,0
+2596,0,0,0,0,0,MASTER,0,0,0,0
+2597,0,0,0,0,0,EXPERT,0,0,0,0
+2598,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2599,0,0,0,0,0,0,0,0,0,0
+2600,0,0,0,0,0,0,0,0,0,0
+2601,0,0,0,0,0,0,0,0,0,0
+2602,0,0,0,0,0,MASTER,0,0,0,0
+2603,0,0,0,0,0,EXPERT,0,0,0,0
+2604,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2605,0,0,0,0,0,0,0,0,0,0
+2606,0,0,0,0,0,0,0,0,0,0
+2607,0,0,0,0,0,0,0,0,0,0
+2608,0,0,0,0,0,MASTER,0,0,0,0
+2609,0,0,0,0,0,EXPERT,0,0,0,0
+2610,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2611,0,0,0,0,0,0,0,0,0,0
+2612,0,0,0,0,0,0,0,0,0,0
+2613,0,0,0,0,0,0,0,0,0,0
+2614,0,0,0,0,0,MASTER,0,0,0,0
+2615,0,0,0,0,0,EXPERT,0,0,0,0
+2616,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2617,0,0,0,0,0,0,0,0,0,0
+2618,0,0,0,0,0,0,0,0,0,0
+2619,0,0,0,0,0,0,0,0,0,0
+2620,0,0,0,0,0,MASTER,0,0,0,0
+2621,0,0,0,0,0,EXPERT,0,0,0,0
+2622,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2623,0,0,0,0,0,0,0,0,0,0
+2624,0,0,0,0,0,0,0,0,0,0
+2625,0,0,0,0,0,0,0,0,0,0
+2626,0,0,0,0,0,MASTER,0,0,0,0
+2627,0,0,0,0,0,EXPERT,0,0,0,0
+2628,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2629,0,0,0,0,0,0,0,0,0,0
+2630,0,0,0,0,0,0,0,0,0,0
+2631,0,0,0,0,0,0,0,0,0,0
+2632,0,0,0,0,0,MASTER,0,0,0,0
+2633,0,0,0,0,0,EXPERT,0,0,0,0
+2634,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2635,0,0,0,0,0,0,0,0,0,0
+2636,0,0,0,0,0,0,0,0,0,0
+2637,0,0,0,0,0,0,0,0,0,0
+2638,0,0,0,0,0,MASTER,0,0,0,0
+2639,0,0,0,0,0,EXPERT,0,0,0,0
+2640,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2641,0,0,0,0,0,0,0,0,0,0
+2642,0,0,0,0,0,0,0,0,0,0
+2643,0,0,0,0,0,0,0,0,0,0
+2644,0,0,0,0,0,MASTER,0,0,0,0
+2645,0,0,0,0,0,EXPERT,0,0,0,0
+2646,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2647,0,0,0,0,0,0,0,0,0,0
+2648,0,0,0,0,0,0,0,0,0,0
+2649,0,0,0,0,0,0,0,0,0,0
+2650,0,0,0,0,0,MASTER,0,0,0,0
+2651,0,0,0,0,0,EXPERT,0,0,0,0
+2652,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2653,0,0,0,0,0,0,0,0,0,0
+2654,0,0,0,0,0,0,0,0,0,0
+2655,0,0,0,0,0,0,0,0,0,0
+2656,0,0,0,0,0,MASTER,0,0,0,0
+2657,0,0,0,0,0,EXPERT,0,0,0,0
+2658,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2659,0,0,0,0,0,0,0,0,0,0
+2660,0,0,0,0,0,0,0,0,0,0
+2661,0,0,0,0,0,0,0,0,0,0
+2662,0,0,0,0,0,MASTER,0,0,0,0
+2663,0,0,0,0,0,EXPERT,0,0,0,0
+2664,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2665,0,0,0,0,0,0,0,0,0,0
+2666,0,0,0,0,0,0,0,0,0,0
+2667,0,0,0,0,0,0,0,0,0,0
+2668,0,0,0,0,0,MASTER,0,0,0,0
+2669,0,0,0,0,0,EXPERT,0,0,0,0
+2670,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2671,0,0,0,0,0,0,0,0,0,0
+2672,0,0,0,0,0,0,0,0,0,0
+2673,0,0,0,0,0,0,0,0,0,0
+2674,0,0,0,0,0,MASTER,0,0,0,0
+2675,0,0,0,0,0,EXPERT,0,0,0,0
+2676,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2677,0,0,0,0,0,0,0,0,0,0
+2678,0,0,0,0,0,0,0,0,0,0
+2679,0,0,0,0,0,0,0,0,0,0
+2680,0,0,0,0,0,MASTER,0,0,0,0
+2681,0,0,0,0,0,EXPERT,0,0,0,0
+2682,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2683,0,0,0,0,0,0,0,0,0,0
+2684,0,0,0,0,0,0,0,0,0,0
+2685,0,0,0,0,0,0,0,0,0,0
+2686,0,0,0,0,0,MASTER,0,0,0,0
+2687,0,0,0,0,0,EXPERT,0,0,0,0
+2688,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2689,0,0,0,0,0,0,0,0,0,0
+2690,0,0,0,0,0,0,0,0,0,0
+2691,0,0,0,0,0,0,0,0,0,0
+2692,0,0,0,0,0,MASTER,0,0,0,0
+2693,0,0,0,0,0,EXPERT,0,0,0,0
+2694,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2695,0,0,0,0,0,0,0,0,0,0
+2696,0,0,0,0,0,0,0,0,0,0
+2697,0,0,0,0,0,0,0,0,0,0
+2698,0,0,0,0,0,MASTER,0,0,0,0
+2699,0,0,0,0,0,EXPERT,0,0,0,0
+2700,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2701,0,0,0,0,0,0,0,0,0,0
+2702,0,0,0,0,0,0,0,0,0,0
+2703,0,0,0,0,0,0,0,0,0,0
+2704,0,0,0,0,0,MASTER,0,0,0,0
+2705,0,0,0,0,0,EXPERT,0,0,0,0
+2706,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2707,0,0,0,0,0,0,0,0,0,0
+2708,0,0,0,0,0,0,0,0,0,0
+2709,0,0,0,0,0,0,0,0,0,0
+2710,0,0,0,0,0,MASTER,0,0,0,0
+2711,0,0,0,0,0,EXPERT,0,0,0,0
+2712,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2713,0,0,0,0,0,0,0,0,0,0
+2714,0,0,0,0,0,0,0,0,0,0
+2715,0,0,0,0,0,0,0,0,0,0
+2716,0,0,0,0,0,MASTER,0,0,0,0
+2717,0,0,0,0,0,EXPERT,0,0,0,0
+2718,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2719,0,0,0,0,0,0,0,0,0,0
+2720,0,0,0,0,0,0,0,0,0,0
+2721,0,0,0,0,0,0,0,0,0,0
+2722,0,0,0,0,0,MASTER,0,0,0,0
+2723,0,0,0,0,0,EXPERT,0,0,0,0
+2724,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2725,0,0,0,0,0,0,0,0,0,0
+2726,0,0,0,0,0,0,0,0,0,0
+2727,0,0,0,0,0,0,0,0,0,0
+2728,0,0,0,0,0,MASTER,0,0,0,0
+2729,0,0,0,0,0,EXPERT,0,0,0,0
+2730,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2731,0,0,0,0,0,0,0,0,0,0
+2732,0,0,0,0,0,0,0,0,0,0
+2733,0,0,0,0,0,0,0,0,0,0
+2734,0,0,0,0,0,MASTER,0,0,0,0
+2735,0,0,0,0,0,EXPERT,0,0,0,0
+2736,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2737,0,0,0,0,0,0,0,0,0,0
+2738,0,0,0,0,0,0,0,0,0,0
+2739,0,0,0,0,0,0,0,0,0,0
+2740,0,0,0,0,0,MASTER,0,0,0,0
+2741,0,0,0,0,0,EXPERT,0,0,0,0
+2742,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2743,0,0,0,0,0,0,0,0,0,0
+2744,0,0,0,0,0,0,0,0,0,0
+2745,0,0,0,0,0,0,0,0,0,0
+2746,0,0,0,0,0,MASTER,0,0,0,0
+2747,0,0,0,0,0,EXPERT,0,0,0,0
+2748,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2749,0,0,0,0,0,0,0,0,0,0
+2750,0,0,0,0,0,0,0,0,0,0
+2751,0,0,0,0,0,0,0,0,0,0
+2752,0,0,0,0,0,MASTER,0,0,0,0
+2753,0,0,0,0,0,EXPERT,0,0,0,0
+2754,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2755,0,0,0,0,0,0,0,0,0,0
+2756,0,0,0,0,0,0,0,0,0,0
+2757,0,0,0,0,0,0,0,0,0,0
+2758,0,0,0,0,0,MASTER,0,0,0,0
+2759,0,0,0,0,0,EXPERT,0,0,0,0
+2760,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2761,0,0,0,0,0,0,0,0,0,0
+2762,0,0,0,0,0,0,0,0,0,0
+2763,0,0,0,0,0,0,0,0,0,0
+2764,0,0,0,0,0,MASTER,0,0,0,0
+2765,0,0,0,0,0,EXPERT,0,0,0,0
+2766,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2767,0,0,0,0,0,0,0,0,0,0
+2768,0,0,0,0,0,0,0,0,0,0
+2769,0,0,0,0,0,0,0,0,0,0
+2770,0,0,0,0,0,MASTER,0,0,0,0
+2771,0,0,0,0,0,EXPERT,0,0,0,0
+2772,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2773,0,0,0,0,0,0,0,0,0,0
+2774,0,0,0,0,0,0,0,0,0,0
+2775,0,0,0,0,0,0,0,0,0,0
+2776,0,0,0,0,0,MASTER,0,0,0,0
+2777,0,0,0,0,0,EXPERT,0,0,0,0
+2778,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2779,0,0,0,0,0,0,0,0,0,0
+2780,0,0,0,0,0,0,0,0,0,0
+2781,0,0,0,0,0,0,0,0,0,0
+2782,0,0,0,0,0,MASTER,0,0,0,0
+2783,0,0,0,0,0,EXPERT,0,0,0,0
+2784,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2785,0,0,0,0,0,0,0,0,0,0
+2786,0,0,0,0,0,0,0,0,0,0
+2787,0,0,0,0,0,0,0,0,0,0
+2788,0,0,0,0,0,MASTER,0,0,0,0
+2789,0,0,0,0,0,EXPERT,0,0,0,0
+2790,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2791,0,0,0,0,0,0,0,0,0,0
+2792,0,0,0,0,0,0,0,0,0,0
+2793,0,0,0,0,0,0,0,0,0,0
+2794,0,0,0,0,0,MASTER,0,0,0,0
+2795,0,0,0,0,0,EXPERT,0,0,0,0
+2796,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2797,0,0,0,0,0,0,0,0,0,0
+2798,0,0,0,0,0,0,0,0,0,0
+2799,0,0,0,0,0,0,0,0,0,0
+2800,0,0,0,0,0,MASTER,0,0,0,0
+2801,0,0,0,0,0,EXPERT,0,0,0,0
+2802,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2803,0,0,0,0,0,0,0,0,0,0
+2804,0,0,0,0,0,0,0,0,0,0
+2805,0,0,0,0,0,0,0,0,0,0
+2806,0,0,0,0,0,MASTER,0,0,0,0
+2807,0,0,0,0,0,EXPERT,0,0,0,0
+2808,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2809,0,0,0,0,0,0,0,0,0,0
+2810,0,0,0,0,0,0,0,0,0,0
+2811,0,0,0,0,0,0,0,0,0,0
+2812,0,0,0,0,0,MASTER,0,0,0,0
+2813,0,0,0,0,0,EXPERT,0,0,0,0
+2814,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2815,0,0,0,0,0,0,0,0,0,0
+2816,0,0,0,0,0,0,0,0,0,0
+2817,0,0,0,0,0,0,0,0,0,0
+2818,0,0,0,0,0,MASTER,0,0,0,0
+2819,0,0,0,0,0,EXPERT,0,0,0,0
+2820,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2821,0,0,0,0,0,0,0,0,0,0
+2822,0,0,0,0,0,0,0,0,0,0
+2823,0,0,0,0,0,0,0,0,0,0
+2824,0,0,0,0,0,MASTER,0,0,0,0
+2825,0,0,0,0,0,EXPERT,0,0,0,0
+2826,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2827,0,0,0,0,0,0,0,0,0,0
+2828,0,0,0,0,0,0,0,0,0,0
+2829,0,0,0,0,0,0,0,0,0,0
+2830,0,0,0,0,0,MASTER,0,0,0,0
+2831,0,0,0,0,0,EXPERT,0,0,0,0
+2832,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2833,0,0,0,0,0,0,0,0,0,0
+2834,0,0,0,0,0,0,0,0,0,0
+2835,0,0,0,0,0,0,0,0,0,0
+2836,0,0,0,0,0,MASTER,0,0,0,0
+2837,0,0,0,0,0,EXPERT,0,0,0,0
+2838,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2839,0,0,0,0,0,0,0,0,0,0
+2840,0,0,0,0,0,0,0,0,0,0
+2841,0,0,0,0,0,0,0,0,0,0
+2842,0,0,0,0,0,MASTER,0,0,0,0
+2843,0,0,0,0,0,EXPERT,0,0,0,0
+2844,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2845,0,0,0,0,0,0,0,0,0,0
+2846,0,0,0,0,0,0,0,0,0,0
+2847,0,0,0,0,0,0,0,0,0,0
+2848,0,0,0,0,0,MASTER,0,0,0,0
+2849,0,0,0,0,0,EXPERT,0,0,0,0
+2850,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2851,0,0,0,0,0,0,0,0,0,0
+2852,0,0,0,0,0,0,0,0,0,0
+2853,0,0,0,0,0,0,0,0,0,0
+2854,0,0,0,0,0,MASTER,0,0,0,0
+2855,0,0,0,0,0,EXPERT,0,0,0,0
+2856,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2857,0,0,0,0,0,0,0,0,0,0
+2858,0,0,0,0,0,0,0,0,0,0
+2859,0,0,0,0,0,0,0,0,0,0
+2860,0,0,0,0,0,MASTER,0,0,0,0
+2861,0,0,0,0,0,EXPERT,0,0,0,0
+2862,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2863,0,0,0,0,0,0,0,0,0,0
+2864,0,0,0,0,0,0,0,0,0,0
+2865,0,0,0,0,0,0,0,0,0,0
+2866,0,0,0,0,0,MASTER,0,0,0,0
+2867,0,0,0,0,0,EXPERT,0,0,0,0
+2868,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2869,0,0,0,0,0,0,0,0,0,0
+2870,0,0,0,0,0,0,0,0,0,0
+2871,0,0,0,0,0,0,0,0,0,0
+2872,0,0,0,0,0,MASTER,0,0,0,0
+2873,0,0,0,0,0,EXPERT,0,0,0,0
+2874,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2875,0,0,0,0,0,0,0,0,0,0
+2876,0,0,0,0,0,0,0,0,0,0
+2877,0,0,0,0,0,0,0,0,0,0
+2878,0,0,0,0,0,MASTER,0,0,0,0
+2879,0,0,0,0,0,EXPERT,0,0,0,0
+2880,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2881,0,0,0,0,0,0,0,0,0,0
+2882,0,0,0,0,0,0,0,0,0,0
+2883,0,0,0,0,0,0,0,0,0,0
+2884,0,0,0,0,0,MASTER,0,0,0,0
+2885,0,0,0,0,0,EXPERT,0,0,0,0
+2886,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2887,0,0,0,0,0,0,0,0,0,0
+2888,0,0,0,0,0,0,0,0,0,0
+2889,0,0,0,0,0,0,0,0,0,0
+2890,0,0,0,0,0,MASTER,0,0,0,0
+2891,0,0,0,0,0,EXPERT,0,0,0,0
+2892,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2893,0,0,0,0,0,0,0,0,0,0
+2894,0,0,0,0,0,0,0,0,0,0
+2895,0,0,0,0,0,0,0,0,0,0
+2896,0,0,0,0,0,MASTER,0,0,0,0
+2897,0,0,0,0,0,EXPERT,0,0,0,0
+2898,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2899,0,0,0,0,0,0,0,0,0,0
+2900,0,0,0,0,0,0,0,0,0,0
+2901,0,0,0,0,0,0,0,0,0,0
+2902,0,0,0,0,0,MASTER,0,0,0,0
+2903,0,0,0,0,0,EXPERT,0,0,0,0
+2904,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2905,0,0,0,0,0,0,0,0,0,0
+2906,0,0,0,0,0,0,0,0,0,0
+2907,0,0,0,0,0,0,0,0,0,0
+2908,0,0,0,0,0,MASTER,0,0,0,0
+2909,0,0,0,0,0,EXPERT,0,0,0,0
+2910,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2911,0,0,0,0,0,0,0,0,0,0
+2912,0,0,0,0,0,0,0,0,0,0
+2913,0,0,0,0,0,0,0,0,0,0
+2914,0,0,0,0,0,MASTER,0,0,0,0
+2915,0,0,0,0,0,EXPERT,0,0,0,0
+2916,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2917,0,0,0,0,0,0,0,0,0,0
+2918,0,0,0,0,0,0,0,0,0,0
+2919,0,0,0,0,0,0,0,0,0,0
+2920,0,0,0,0,0,MASTER,0,0,0,0
+2921,0,0,0,0,0,EXPERT,0,0,0,0
+2922,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2923,0,0,0,0,0,0,0,0,0,0
+2924,0,0,0,0,0,0,0,0,0,0
+2925,0,0,0,0,0,0,0,0,0,0
+2926,0,0,0,0,0,MASTER,0,0,0,0
+2927,0,0,0,0,0,EXPERT,0,0,0,0
+2928,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2929,0,0,0,0,0,0,0,0,0,0
+2930,0,0,0,0,0,0,0,0,0,0
+2931,0,0,0,0,0,0,0,0,0,0
+2932,0,0,0,0,0,MASTER,0,0,0,0
+2933,0,0,0,0,0,EXPERT,0,0,0,0
+2934,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2935,0,0,0,0,0,0,0,0,0,0
+2936,0,0,0,0,0,0,0,0,0,0
+2937,0,0,0,0,0,0,0,0,0,0
+2938,0,0,0,0,0,MASTER,0,0,0,0
+2939,0,0,0,0,0,EXPERT,0,0,0,0
+2940,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2941,0,0,0,0,0,0,0,0,0,0
+2942,0,0,0,0,0,0,0,0,0,0
+2943,0,0,0,0,0,0,0,0,0,0
+2944,0,0,0,0,0,MASTER,0,0,0,0
+2945,0,0,0,0,0,EXPERT,0,0,0,0
+2946,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2947,0,0,0,0,0,0,0,0,0,0
+2948,0,0,0,0,0,0,0,0,0,0
+2949,0,0,0,0,0,0,0,0,0,0
+2950,0,0,0,0,0,MASTER,0,0,0,0
+2951,0,0,0,0,0,EXPERT,0,0,0,0
+2952,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2953,0,0,0,0,0,0,0,0,0,0
+2954,0,0,0,0,0,0,0,0,0,0
+2955,0,0,0,0,0,0,0,0,0,0
+2956,0,0,0,0,0,MASTER,0,0,0,0
+2957,0,0,0,0,0,EXPERT,0,0,0,0
+2958,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2959,0,0,0,0,0,0,0,0,0,0
+2960,0,0,0,0,0,0,0,0,0,0
+2961,0,0,0,0,0,0,0,0,0,0
+2962,0,0,0,0,0,MASTER,0,0,0,0
+2963,0,0,0,0,0,EXPERT,0,0,0,0
+2964,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2965,0,0,0,0,0,0,0,0,0,0
+2966,0,0,0,0,0,0,0,0,0,0
+2967,0,0,0,0,0,0,0,0,0,0
+2968,0,0,0,0,0,MASTER,0,0,0,0
+2969,0,0,0,0,0,EXPERT,0,0,0,0
+2970,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2971,0,0,0,0,0,0,0,0,0,0
+2972,0,0,0,0,0,0,0,0,0,0
+2973,0,0,0,0,0,0,0,0,0,0
+2974,0,0,0,0,0,MASTER,0,0,0,0
+2975,0,0,0,0,0,EXPERT,0,0,0,0
+2976,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2977,0,0,0,0,0,0,0,0,0,0
+2978,0,0,0,0,0,0,0,0,0,0
+2979,0,0,0,0,0,0,0,0,0,0
+2980,0,0,0,0,0,MASTER,0,0,0,0
+2981,0,0,0,0,0,EXPERT,0,0,0,0
+2982,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2983,0,0,0,0,0,0,0,0,0,0
+2984,0,0,0,0,0,0,0,0,0,0
+2985,0,0,0,0,0,0,0,0,0,0
+2986,0,0,0,0,0,MASTER,0,0,0,0
+2987,0,0,0,0,0,EXPERT,0,0,0,0
+2988,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2989,0,0,0,0,0,0,0,0,0,0
+2990,0,0,0,0,0,0,0,0,0,0
+2991,0,0,0,0,0,0,0,0,0,0
+2992,0,0,0,0,0,MASTER,0,0,0,0
+2993,0,0,0,0,0,EXPERT,0,0,0,0
+2994,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+2995,0,0,0,0,0,0,0,0,0,0
+2996,0,0,0,0,0,0,0,0,0,0
+2997,0,0,0,0,0,0,0,0,0,0
+2998,0,0,0,0,0,MASTER,0,0,0,0
+2999,0,0,0,0,0,EXPERT,0,0,0,0
+3000,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3001,0,0,0,0,0,0,0,0,0,0
+3002,0,0,0,0,0,0,0,0,0,0
+3003,0,0,0,0,0,0,0,0,0,0
+3004,0,0,0,0,0,MASTER,0,0,0,0
+3005,0,0,0,0,0,EXPERT,0,0,0,0
+3006,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3007,0,0,0,0,0,0,0,0,0,0
+3008,0,0,0,0,0,0,0,0,0,0
+3009,0,0,0,0,0,0,0,0,0,0
+3010,0,0,0,0,0,MASTER,0,0,0,0
+3011,0,0,0,0,0,EXPERT,0,0,0,0
+3012,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3013,0,0,0,0,0,0,0,0,0,0
+3014,0,0,0,0,0,0,0,0,0,0
+3015,0,0,0,0,0,0,0,0,0,0
+3016,0,0,0,0,0,MASTER,0,0,0,0
+3017,0,0,0,0,0,EXPERT,0,0,0,0
+3018,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3019,0,0,0,0,0,0,0,0,0,0
+3020,0,0,0,0,0,0,0,0,0,0
+3021,0,0,0,0,0,0,0,0,0,0
+3022,0,0,0,0,0,MASTER,0,0,0,0
+3023,0,0,0,0,0,EXPERT,0,0,0,0
+3024,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3025,0,0,0,0,0,0,0,0,0,0
+3026,0,0,0,0,0,0,0,0,0,0
+3027,0,0,0,0,0,0,0,0,0,0
+3028,0,0,0,0,0,MASTER,0,0,0,0
+3029,0,0,0,0,0,EXPERT,0,0,0,0
+3030,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3031,0,0,0,0,0,0,0,0,0,0
+3032,0,0,0,0,0,0,0,0,0,0
+3033,0,0,0,0,0,0,0,0,0,0
+3034,0,0,0,0,0,MASTER,0,0,0,0
+3035,0,0,0,0,0,EXPERT,0,0,0,0
+3036,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3037,0,0,0,0,0,0,0,0,0,0
+3038,0,0,0,0,0,0,0,0,0,0
+3039,0,0,0,0,0,0,0,0,0,0
+3040,0,0,0,0,0,MASTER,0,0,0,0
+3041,0,0,0,0,0,EXPERT,0,0,0,0
+3042,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3043,0,0,0,0,0,0,0,0,0,0
+3044,0,0,0,0,0,0,0,0,0,0
+3045,0,0,0,0,0,0,0,0,0,0
+3046,0,0,0,0,0,MASTER,0,0,0,0
+3047,0,0,0,0,0,EXPERT,0,0,0,0
+3048,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3049,0,0,0,0,0,0,0,0,0,0
+3050,0,0,0,0,0,0,0,0,0,0
+3051,0,0,0,0,0,0,0,0,0,0
+3052,0,0,0,0,0,MASTER,0,0,0,0
+3053,0,0,0,0,0,EXPERT,0,0,0,0
+3054,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3055,0,0,0,0,0,0,0,0,0,0
+3056,0,0,0,0,0,0,0,0,0,0
+3057,0,0,0,0,0,0,0,0,0,0
+3058,0,0,0,0,0,MASTER,0,0,0,0
+3059,0,0,0,0,0,EXPERT,0,0,0,0
+3060,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3061,0,0,0,0,0,0,0,0,0,0
+3062,0,0,0,0,0,0,0,0,0,0
+3063,0,0,0,0,0,0,0,0,0,0
+3064,0,0,0,0,0,MASTER,0,0,0,0
+3065,0,0,0,0,0,EXPERT,0,0,0,0
+3066,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3067,0,0,0,0,0,0,0,0,0,0
+3068,0,0,0,0,0,0,0,0,0,0
+3069,0,0,0,0,0,0,0,0,0,0
+3070,0,0,0,0,0,MASTER,0,0,0,0
+3071,0,0,0,0,0,EXPERT,0,0,0,0
+3072,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3073,0,0,0,0,0,0,0,0,0,0
+3074,0,0,0,0,0,0,0,0,0,0
+3075,0,0,0,0,0,0,0,0,0,0
+3076,0,0,0,0,0,MASTER,0,0,0,0
+3077,0,0,0,0,0,EXPERT,0,0,0,0
+3078,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3079,0,0,0,0,0,0,0,0,0,0
+3080,0,0,0,0,0,0,0,0,0,0
+3081,0,0,0,0,0,0,0,0,0,0
+3082,0,0,0,0,0,MASTER,0,0,0,0
+3083,0,0,0,0,0,EXPERT,0,0,0,0
+3084,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3085,0,0,0,0,0,0,0,0,0,0
+3086,0,0,0,0,0,0,0,0,0,0
+3087,0,0,0,0,0,0,0,0,0,0
+3088,0,0,0,0,0,MASTER,0,0,0,0
+3089,0,0,0,0,0,EXPERT,0,0,0,0
+3090,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3091,0,0,0,0,0,0,0,0,0,0
+3092,0,0,0,0,0,0,0,0,0,0
+3093,0,0,0,0,0,0,0,0,0,0
+3094,0,0,0,0,0,MASTER,0,0,0,0
+3095,0,0,0,0,0,EXPERT,0,0,0,0
+3096,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3097,0,0,0,0,0,0,0,0,0,0
+3098,0,0,0,0,0,0,0,0,0,0
+3099,0,0,0,0,0,0,0,0,0,0
+3100,0,0,0,0,0,MASTER,0,0,0,0
+3101,0,0,0,0,0,EXPERT,0,0,0,0
+3102,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3103,0,0,0,0,0,0,0,0,0,0
+3104,0,0,0,0,0,0,0,0,0,0
+3105,0,0,0,0,0,0,0,0,0,0
+3106,0,0,0,0,0,MASTER,0,0,0,0
+3107,0,0,0,0,0,EXPERT,0,0,0,0
+3108,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3109,0,0,0,0,0,0,0,0,0,0
+3110,0,0,0,0,0,0,0,0,0,0
+3111,0,0,0,0,0,0,0,0,0,0
+3112,0,0,0,0,0,MASTER,0,0,0,0
+3113,0,0,0,0,0,EXPERT,0,0,0,0
+3114,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3115,0,0,0,0,0,0,0,0,0,0
+3116,0,0,0,0,0,0,0,0,0,0
+3117,0,0,0,0,0,0,0,0,0,0
+3118,0,0,0,0,0,MASTER,0,0,0,0
+3119,0,0,0,0,0,EXPERT,0,0,0,0
+3120,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3121,0,0,0,0,0,0,0,0,0,0
+3122,0,0,0,0,0,0,0,0,0,0
+3123,0,0,0,0,0,0,0,0,0,0
+3124,0,0,0,0,0,MASTER,0,0,0,0
+3125,0,0,0,0,0,EXPERT,0,0,0,0
+3126,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3127,0,0,0,0,0,0,0,0,0,0
+3128,0,0,0,0,0,0,0,0,0,0
+3129,0,0,0,0,0,0,0,0,0,0
+3130,0,0,0,0,0,MASTER,0,0,0,0
+3131,0,0,0,0,0,EXPERT,0,0,0,0
+3132,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3133,0,0,0,0,0,0,0,0,0,0
+3134,0,0,0,0,0,0,0,0,0,0
+3135,0,0,0,0,0,0,0,0,0,0
+3136,0,0,0,0,0,MASTER,0,0,0,0
+3137,0,0,0,0,0,EXPERT,0,0,0,0
+3138,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3139,0,0,0,0,0,0,0,0,0,0
+3140,0,0,0,0,0,0,0,0,0,0
+3141,0,0,0,0,0,0,0,0,0,0
+3142,0,0,0,0,0,MASTER,0,0,0,0
+3143,0,0,0,0,0,EXPERT,0,0,0,0
+3144,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3145,0,0,0,0,0,0,0,0,0,0
+3146,0,0,0,0,0,0,0,0,0,0
+3147,0,0,0,0,0,0,0,0,0,0
+3148,0,0,0,0,0,MASTER,0,0,0,0
+3149,0,0,0,0,0,EXPERT,0,0,0,0
+3150,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3151,0,0,0,0,0,0,0,0,0,0
+3152,0,0,0,0,0,0,0,0,0,0
+3153,0,0,0,0,0,0,0,0,0,0
+3154,0,0,0,0,0,MASTER,0,0,0,0
+3155,0,0,0,0,0,EXPERT,0,0,0,0
+3156,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3157,0,0,0,0,0,0,0,0,0,0
+3158,0,0,0,0,0,0,0,0,0,0
+3159,0,0,0,0,0,0,0,0,0,0
+3160,0,0,0,0,0,MASTER,0,0,0,0
+3161,0,0,0,0,0,EXPERT,0,0,0,0
+3162,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3163,0,0,0,0,0,0,0,0,0,0
+3164,0,0,0,0,0,0,0,0,0,0
+3165,0,0,0,0,0,0,0,0,0,0
+3166,0,0,0,0,0,MASTER,0,0,0,0
+3167,0,0,0,0,0,EXPERT,0,0,0,0
+3168,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3169,0,0,0,0,0,0,0,0,0,0
+3170,0,0,0,0,0,0,0,0,0,0
+3171,0,0,0,0,0,0,0,0,0,0
+3172,0,0,0,0,0,MASTER,0,0,0,0
+3173,0,0,0,0,0,EXPERT,0,0,0,0
+3174,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3175,0,0,0,0,0,0,0,0,0,0
+3176,0,0,0,0,0,0,0,0,0,0
+3177,0,0,0,0,0,0,0,0,0,0
+3178,0,0,0,0,0,MASTER,0,0,0,0
+3179,0,0,0,0,0,EXPERT,0,0,0,0
+3180,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3181,0,0,0,0,0,0,0,0,0,0
+3182,0,0,0,0,0,0,0,0,0,0
+3183,0,0,0,0,0,0,0,0,0,0
+3184,0,0,0,0,0,MASTER,0,0,0,0
+3185,0,0,0,0,0,EXPERT,0,0,0,0
+3186,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3187,0,0,0,0,0,0,0,0,0,0
+3188,0,0,0,0,0,0,0,0,0,0
+3189,0,0,0,0,0,0,0,0,0,0
+3190,0,0,0,0,0,MASTER,0,0,0,0
+3191,0,0,0,0,0,EXPERT,0,0,0,0
+3192,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3193,0,0,0,0,0,0,0,0,0,0
+3194,0,0,0,0,0,0,0,0,0,0
+3195,0,0,0,0,0,0,0,0,0,0
+3196,0,0,0,0,0,MASTER,0,0,0,0
+3197,0,0,0,0,0,EXPERT,0,0,0,0
+3198,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3199,0,0,0,0,0,0,0,0,0,0
+3200,0,0,0,0,0,0,0,0,0,0
+3201,0,0,0,0,0,0,0,0,0,0
+3202,0,0,0,0,0,MASTER,0,0,0,0
+3203,0,0,0,0,0,EXPERT,0,0,0,0
+3204,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3205,0,0,0,0,0,0,0,0,0,0
+3206,0,0,0,0,0,0,0,0,0,0
+3207,0,0,0,0,0,0,0,0,0,0
+3208,0,0,0,0,0,MASTER,0,0,0,0
+3209,0,0,0,0,0,EXPERT,0,0,0,0
+3210,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3211,0,0,0,0,0,0,0,0,0,0
+3212,0,0,0,0,0,0,0,0,0,0
+3213,0,0,0,0,0,0,0,0,0,0
+3214,0,0,0,0,0,MASTER,0,0,0,0
+3215,0,0,0,0,0,EXPERT,0,0,0,0
+3216,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3217,0,0,0,0,0,0,0,0,0,0
+3218,0,0,0,0,0,0,0,0,0,0
+3219,0,0,0,0,0,0,0,0,0,0
+3220,0,0,0,0,0,MASTER,0,0,0,0
+3221,0,0,0,0,0,EXPERT,0,0,0,0
+3222,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3223,0,0,0,0,0,0,0,0,0,0
+3224,0,0,0,0,0,0,0,0,0,0
+3225,0,0,0,0,0,0,0,0,0,0
+3226,0,0,0,0,0,MASTER,0,0,0,0
+3227,0,0,0,0,0,EXPERT,0,0,0,0
+3228,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3229,0,0,0,0,0,0,0,0,0,0
+3230,0,0,0,0,0,0,0,0,0,0
+3231,0,0,0,0,0,0,0,0,0,0
+3232,0,0,0,0,0,MASTER,0,0,0,0
+3233,0,0,0,0,0,EXPERT,0,0,0,0
+3234,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3235,0,0,0,0,0,0,0,0,0,0
+3236,0,0,0,0,0,0,0,0,0,0
+3237,0,0,0,0,0,0,0,0,0,0
+3238,0,0,0,0,0,MASTER,0,0,0,0
+3239,0,0,0,0,0,EXPERT,0,0,0,0
+3240,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3241,0,0,0,0,0,0,0,0,0,0
+3242,0,0,0,0,0,0,0,0,0,0
+3243,0,0,0,0,0,0,0,0,0,0
+3244,0,0,0,0,0,MASTER,0,0,0,0
+3245,0,0,0,0,0,EXPERT,0,0,0,0
+3246,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3247,0,0,0,0,0,0,0,0,0,0
+3248,0,0,0,0,0,0,0,0,0,0
+3249,0,0,0,0,0,0,0,0,0,0
+3250,0,0,0,0,0,MASTER,0,0,0,0
+3251,0,0,0,0,0,EXPERT,0,0,0,0
+3252,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3253,0,0,0,0,0,0,0,0,0,0
+3254,0,0,0,0,0,0,0,0,0,0
+3255,0,0,0,0,0,0,0,0,0,0
+3256,0,0,0,0,0,MASTER,0,0,0,0
+3257,0,0,0,0,0,EXPERT,0,0,0,0
+3258,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3259,0,0,0,0,0,0,0,0,0,0
+3260,0,0,0,0,0,0,0,0,0,0
+3261,0,0,0,0,0,0,0,0,0,0
+3262,0,0,0,0,0,MASTER,0,0,0,0
+3263,0,0,0,0,0,EXPERT,0,0,0,0
+3264,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3265,0,0,0,0,0,0,0,0,0,0
+3266,0,0,0,0,0,0,0,0,0,0
+3267,0,0,0,0,0,0,0,0,0,0
+3268,0,0,0,0,0,MASTER,0,0,0,0
+3269,0,0,0,0,0,EXPERT,0,0,0,0
+3270,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3271,0,0,0,0,0,0,0,0,0,0
+3272,0,0,0,0,0,0,0,0,0,0
+3273,0,0,0,0,0,0,0,0,0,0
+3274,0,0,0,0,0,MASTER,0,0,0,0
+3275,0,0,0,0,0,EXPERT,0,0,0,0
+3276,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3277,0,0,0,0,0,0,0,0,0,0
+3278,0,0,0,0,0,0,0,0,0,0
+3279,0,0,0,0,0,0,0,0,0,0
+3280,0,0,0,0,0,MASTER,0,0,0,0
+3281,0,0,0,0,0,EXPERT,0,0,0,0
+3282,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3283,0,0,0,0,0,0,0,0,0,0
+3284,0,0,0,0,0,0,0,0,0,0
+3285,0,0,0,0,0,0,0,0,0,0
+3286,0,0,0,0,0,MASTER,0,0,0,0
+3287,0,0,0,0,0,EXPERT,0,0,0,0
+3288,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3289,0,0,0,0,0,0,0,0,0,0
+3290,0,0,0,0,0,0,0,0,0,0
+3291,0,0,0,0,0,0,0,0,0,0
+3292,0,0,0,0,0,MASTER,0,0,0,0
+3293,0,0,0,0,0,EXPERT,0,0,0,0
+3294,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3295,0,0,0,0,0,0,0,0,0,0
+3296,0,0,0,0,0,0,0,0,0,0
+3297,0,0,0,0,0,0,0,0,0,0
+3298,0,0,0,0,0,MASTER,0,0,0,0
+3299,0,0,0,0,0,EXPERT,0,0,0,0
+3300,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3301,0,0,0,0,0,0,0,0,0,0
+3302,0,0,0,0,0,0,0,0,0,0
+3303,0,0,0,0,0,0,0,0,0,0
+3304,0,0,0,0,0,MASTER,0,0,0,0
+3305,0,0,0,0,0,EXPERT,0,0,0,0
+3306,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3307,0,0,0,0,0,0,0,0,0,0
+3308,0,0,0,0,0,0,0,0,0,0
+3309,0,0,0,0,0,0,0,0,0,0
+3310,0,0,0,0,0,MASTER,0,0,0,0
+3311,0,0,0,0,0,EXPERT,0,0,0,0
+3312,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3313,0,0,0,0,0,0,0,0,0,0
+3314,0,0,0,0,0,0,0,0,0,0
+3315,0,0,0,0,0,0,0,0,0,0
+3316,0,0,0,0,0,MASTER,0,0,0,0
+3317,0,0,0,0,0,EXPERT,0,0,0,0
+3318,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3319,0,0,0,0,0,0,0,0,0,0
+3320,0,0,0,0,0,0,0,0,0,0
+3321,0,0,0,0,0,0,0,0,0,0
+3322,0,0,0,0,0,MASTER,0,0,0,0
+3323,0,0,0,0,0,EXPERT,0,0,0,0
+3324,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3325,0,0,0,0,0,0,0,0,0,0
+3326,0,0,0,0,0,0,0,0,0,0
+3327,0,0,0,0,0,0,0,0,0,0
+3328,0,0,0,0,0,MASTER,0,0,0,0
+3329,0,0,0,0,0,EXPERT,0,0,0,0
+3330,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3331,0,0,0,0,0,0,0,0,0,0
+3332,0,0,0,0,0,0,0,0,0,0
+3333,0,0,0,0,0,0,0,0,0,0
+3334,0,0,0,0,0,MASTER,0,0,0,0
+3335,0,0,0,0,0,EXPERT,0,0,0,0
+3336,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3337,0,0,0,0,0,0,0,0,0,0
+3338,0,0,0,0,0,0,0,0,0,0
+3339,0,0,0,0,0,0,0,0,0,0
+3340,0,0,0,0,0,MASTER,0,0,0,0
+3341,0,0,0,0,0,EXPERT,0,0,0,0
+3342,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3343,0,0,0,0,0,0,0,0,0,0
+3344,0,0,0,0,0,0,0,0,0,0
+3345,0,0,0,0,0,0,0,0,0,0
+3346,0,0,0,0,0,MASTER,0,0,0,0
+3347,0,0,0,0,0,EXPERT,0,0,0,0
+3348,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3349,0,0,0,0,0,0,0,0,0,0
+3350,0,0,0,0,0,0,0,0,0,0
+3351,0,0,0,0,0,0,0,0,0,0
+3352,0,0,0,0,0,MASTER,0,0,0,0
+3353,0,0,0,0,0,EXPERT,0,0,0,0
+3354,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3355,0,0,0,0,0,0,0,0,0,0
+3356,0,0,0,0,0,0,0,0,0,0
+3357,0,0,0,0,0,0,0,0,0,0
+3358,0,0,0,0,0,MASTER,0,0,0,0
+3359,0,0,0,0,0,EXPERT,0,0,0,0
+3360,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3361,0,0,0,0,0,0,0,0,0,0
+3362,0,0,0,0,0,0,0,0,0,0
+3363,0,0,0,0,0,0,0,0,0,0
+3364,0,0,0,0,0,MASTER,0,0,0,0
+3365,0,0,0,0,0,EXPERT,0,0,0,0
+3366,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3367,0,0,0,0,0,0,0,0,0,0
+3368,0,0,0,0,0,0,0,0,0,0
+3369,0,0,0,0,0,0,0,0,0,0
+3370,0,0,0,0,0,MASTER,0,0,0,0
+3371,0,0,0,0,0,EXPERT,0,0,0,0
+3372,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3373,0,0,0,0,0,0,0,0,0,0
+3374,0,0,0,0,0,0,0,0,0,0
+3375,0,0,0,0,0,0,0,0,0,0
+3376,0,0,0,0,0,MASTER,0,0,0,0
+3377,0,0,0,0,0,EXPERT,0,0,0,0
+3378,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3379,0,0,0,0,0,0,0,0,0,0
+3380,0,0,0,0,0,0,0,0,0,0
+3381,0,0,0,0,0,0,0,0,0,0
+3382,0,0,0,0,0,MASTER,0,0,0,0
+3383,0,0,0,0,0,EXPERT,0,0,0,0
+3384,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3385,0,0,0,0,0,0,0,0,0,0
+3386,0,0,0,0,0,0,0,0,0,0
+3387,0,0,0,0,0,0,0,0,0,0
+3388,0,0,0,0,0,MASTER,0,0,0,0
+3389,0,0,0,0,0,EXPERT,0,0,0,0
+3390,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3391,0,0,0,0,0,0,0,0,0,0
+3392,0,0,0,0,0,0,0,0,0,0
+3393,0,0,0,0,0,0,0,0,0,0
+3394,0,0,0,0,0,MASTER,0,0,0,0
+3395,0,0,0,0,0,EXPERT,0,0,0,0
+3396,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3397,0,0,0,0,0,0,0,0,0,0
+3398,0,0,0,0,0,0,0,0,0,0
+3399,0,0,0,0,0,0,0,0,0,0
+3400,0,0,0,0,0,MASTER,0,0,0,0
+3401,0,0,0,0,0,EXPERT,0,0,0,0
+3402,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3403,0,0,0,0,0,0,0,0,0,0
+3404,0,0,0,0,0,0,0,0,0,0
+3405,0,0,0,0,0,0,0,0,0,0
+3406,0,0,0,0,0,MASTER,0,0,0,0
+3407,0,0,0,0,0,EXPERT,0,0,0,0
+3408,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3409,0,0,0,0,0,0,0,0,0,0
+3410,0,0,0,0,0,0,0,0,0,0
+3411,0,0,0,0,0,0,0,0,0,0
+3412,0,0,0,0,0,MASTER,0,0,0,0
+3413,0,0,0,0,0,EXPERT,0,0,0,0
+3414,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3415,0,0,0,0,0,0,0,0,0,0
+3416,0,0,0,0,0,0,0,0,0,0
+3417,0,0,0,0,0,0,0,0,0,0
+3418,0,0,0,0,0,MASTER,0,0,0,0
+3419,0,0,0,0,0,EXPERT,0,0,0,0
+3420,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3421,0,0,0,0,0,0,0,0,0,0
+3422,0,0,0,0,0,0,0,0,0,0
+3423,0,0,0,0,0,0,0,0,0,0
+3424,0,0,0,0,0,MASTER,0,0,0,0
+3425,0,0,0,0,0,EXPERT,0,0,0,0
+3426,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3427,0,0,0,0,0,0,0,0,0,0
+3428,0,0,0,0,0,0,0,0,0,0
+3429,0,0,0,0,0,0,0,0,0,0
+3430,0,0,0,0,0,MASTER,0,0,0,0
+3431,0,0,0,0,0,EXPERT,0,0,0,0
+3432,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3433,0,0,0,0,0,0,0,0,0,0
+3434,0,0,0,0,0,0,0,0,0,0
+3435,0,0,0,0,0,0,0,0,0,0
+3436,0,0,0,0,0,MASTER,0,0,0,0
+3437,0,0,0,0,0,EXPERT,0,0,0,0
+3438,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3439,0,0,0,0,0,0,0,0,0,0
+3440,0,0,0,0,0,0,0,0,0,0
+3441,0,0,0,0,0,0,0,0,0,0
+3442,0,0,0,0,0,MASTER,0,0,0,0
+3443,0,0,0,0,0,EXPERT,0,0,0,0
+3444,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3445,0,0,0,0,0,0,0,0,0,0
+3446,0,0,0,0,0,0,0,0,0,0
+3447,0,0,0,0,0,0,0,0,0,0
+3448,0,0,0,0,0,MASTER,0,0,0,0
+3449,0,0,0,0,0,EXPERT,0,0,0,0
+3450,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3451,0,0,0,0,0,0,0,0,0,0
+3452,0,0,0,0,0,0,0,0,0,0
+3453,0,0,0,0,0,0,0,0,0,0
+3454,0,0,0,0,0,MASTER,0,0,0,0
+3455,0,0,0,0,0,EXPERT,0,0,0,0
+3456,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3457,0,0,0,0,0,0,0,0,0,0
+3458,0,0,0,0,0,0,0,0,0,0
+3459,0,0,0,0,0,0,0,0,0,0
+3460,0,0,0,0,0,MASTER,0,0,0,0
+3461,0,0,0,0,0,EXPERT,0,0,0,0
+3462,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3463,0,0,0,0,0,0,0,0,0,0
+3464,0,0,0,0,0,0,0,0,0,0
+3465,0,0,0,0,0,0,0,0,0,0
+3466,0,0,0,0,0,MASTER,0,0,0,0
+3467,0,0,0,0,0,EXPERT,0,0,0,0
+3468,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3469,0,0,0,0,0,0,0,0,0,0
+3470,0,0,0,0,0,0,0,0,0,0
+3471,0,0,0,0,0,0,0,0,0,0
+3472,0,0,0,0,0,MASTER,0,0,0,0
+3473,0,0,0,0,0,EXPERT,0,0,0,0
+3474,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3475,0,0,0,0,0,0,0,0,0,0
+3476,0,0,0,0,0,0,0,0,0,0
+3477,0,0,0,0,0,0,0,0,0,0
+3478,0,0,0,0,0,MASTER,0,0,0,0
+3479,0,0,0,0,0,EXPERT,0,0,0,0
+3480,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3481,0,0,0,0,0,0,0,0,0,0
+3482,0,0,0,0,0,0,0,0,0,0
+3483,0,0,0,0,0,0,0,0,0,0
+3484,0,0,0,0,0,MASTER,0,0,0,0
+3485,0,0,0,0,0,EXPERT,0,0,0,0
+3486,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3487,0,0,0,0,0,0,0,0,0,0
+3488,0,0,0,0,0,0,0,0,0,0
+3489,0,0,0,0,0,0,0,0,0,0
+3490,0,0,0,0,0,MASTER,0,0,0,0
+3491,0,0,0,0,0,EXPERT,0,0,0,0
+3492,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3493,0,0,0,0,0,0,0,0,0,0
+3494,0,0,0,0,0,0,0,0,0,0
+3495,0,0,0,0,0,0,0,0,0,0
+3496,0,0,0,0,0,MASTER,0,0,0,0
+3497,0,0,0,0,0,EXPERT,0,0,0,0
+3498,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3499,0,0,0,0,0,0,0,0,0,0
+3500,0,0,0,0,0,0,0,0,0,0
+3501,0,0,0,0,0,0,0,0,0,0
+3502,0,0,0,0,0,MASTER,0,0,0,0
+3503,0,0,0,0,0,EXPERT,0,0,0,0
+3504,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3505,0,0,0,0,0,0,0,0,0,0
+3506,0,0,0,0,0,0,0,0,0,0
+3507,0,0,0,0,0,0,0,0,0,0
+3508,0,0,0,0,0,MASTER,0,0,0,0
+3509,0,0,0,0,0,EXPERT,0,0,0,0
+3510,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3511,0,0,0,0,0,0,0,0,0,0
+3512,0,0,0,0,0,0,0,0,0,0
+3513,0,0,0,0,0,0,0,0,0,0
+3514,0,0,0,0,0,MASTER,0,0,0,0
+3515,0,0,0,0,0,EXPERT,0,0,0,0
+3516,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3517,0,0,0,0,0,0,0,0,0,0
+3518,0,0,0,0,0,0,0,0,0,0
+3519,0,0,0,0,0,0,0,0,0,0
+3520,0,0,0,0,0,MASTER,0,0,0,0
+3521,0,0,0,0,0,EXPERT,0,0,0,0
+3522,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3523,0,0,0,0,0,0,0,0,0,0
+3524,0,0,0,0,0,0,0,0,0,0
+3525,0,0,0,0,0,0,0,0,0,0
+3526,0,0,0,0,0,MASTER,0,0,0,0
+3527,0,0,0,0,0,EXPERT,0,0,0,0
+3528,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3529,0,0,0,0,0,0,0,0,0,0
+3530,0,0,0,0,0,0,0,0,0,0
+3531,0,0,0,0,0,0,0,0,0,0
+3532,0,0,0,0,0,MASTER,0,0,0,0
+3533,0,0,0,0,0,EXPERT,0,0,0,0
+3534,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3535,0,0,0,0,0,0,0,0,0,0
+3536,0,0,0,0,0,0,0,0,0,0
+3537,0,0,0,0,0,0,0,0,0,0
+3538,0,0,0,0,0,MASTER,0,0,0,0
+3539,0,0,0,0,0,EXPERT,0,0,0,0
+3540,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3541,0,0,0,0,0,0,0,0,0,0
+3542,0,0,0,0,0,0,0,0,0,0
+3543,0,0,0,0,0,0,0,0,0,0
+3544,0,0,0,0,0,MASTER,0,0,0,0
+3545,0,0,0,0,0,EXPERT,0,0,0,0
+3546,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3547,0,0,0,0,0,0,0,0,0,0
+3548,0,0,0,0,0,0,0,0,0,0
+3549,0,0,0,0,0,0,0,0,0,0
+3550,0,0,0,0,0,MASTER,0,0,0,0
+3551,0,0,0,0,0,EXPERT,0,0,0,0
+3552,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3553,0,0,0,0,0,0,0,0,0,0
+3554,0,0,0,0,0,0,0,0,0,0
+3555,0,0,0,0,0,0,0,0,0,0
+3556,0,0,0,0,0,MASTER,0,0,0,0
+3557,0,0,0,0,0,EXPERT,0,0,0,0
+3558,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3559,0,0,0,0,0,0,0,0,0,0
+3560,0,0,0,0,0,0,0,0,0,0
+3561,0,0,0,0,0,0,0,0,0,0
+3562,0,0,0,0,0,MASTER,0,0,0,0
+3563,0,0,0,0,0,EXPERT,0,0,0,0
+3564,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3565,0,0,0,0,0,0,0,0,0,0
+3566,0,0,0,0,0,0,0,0,0,0
+3567,0,0,0,0,0,0,0,0,0,0
+3568,0,0,0,0,0,MASTER,0,0,0,0
+3569,0,0,0,0,0,EXPERT,0,0,0,0
+3570,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3571,0,0,0,0,0,0,0,0,0,0
+3572,0,0,0,0,0,0,0,0,0,0
+3573,0,0,0,0,0,0,0,0,0,0
+3574,0,0,0,0,0,MASTER,0,0,0,0
+3575,0,0,0,0,0,EXPERT,0,0,0,0
+3576,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3577,0,0,0,0,0,0,0,0,0,0
+3578,0,0,0,0,0,0,0,0,0,0
+3579,0,0,0,0,0,0,0,0,0,0
+3580,0,0,0,0,0,MASTER,0,0,0,0
+3581,0,0,0,0,0,EXPERT,0,0,0,0
+3582,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3583,0,0,0,0,0,0,0,0,0,0
+3584,0,0,0,0,0,0,0,0,0,0
+3585,0,0,0,0,0,0,0,0,0,0
+3586,0,0,0,0,0,MASTER,0,0,0,0
+3587,0,0,0,0,0,EXPERT,0,0,0,0
+3588,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3589,0,0,0,0,0,0,0,0,0,0
+3590,0,0,0,0,0,0,0,0,0,0
+3591,0,0,0,0,0,0,0,0,0,0
+3592,0,0,0,0,0,MASTER,0,0,0,0
+3593,0,0,0,0,0,EXPERT,0,0,0,0
+3594,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3595,0,0,0,0,0,0,0,0,0,0
+3596,0,0,0,0,0,0,0,0,0,0
+3597,0,0,0,0,0,0,0,0,0,0
+3598,0,0,0,0,0,MASTER,0,0,0,0
+3599,0,0,0,0,0,EXPERT,0,0,0,0
+3600,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3601,0,0,0,0,0,0,0,0,0,0
+3602,0,0,0,0,0,0,0,0,0,0
+3603,0,0,0,0,0,0,0,0,0,0
+3604,0,0,0,0,0,MASTER,0,0,0,0
+3605,0,0,0,0,0,EXPERT,0,0,0,0
+3606,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3607,0,0,0,0,0,0,0,0,0,0
+3608,0,0,0,0,0,0,0,0,0,0
+3609,0,0,0,0,0,0,0,0,0,0
+3610,0,0,0,0,0,MASTER,0,0,0,0
+3611,0,0,0,0,0,EXPERT,0,0,0,0
+3612,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3613,0,0,0,0,0,0,0,0,0,0
+3614,0,0,0,0,0,0,0,0,0,0
+3615,0,0,0,0,0,0,0,0,0,0
+3616,0,0,0,0,0,MASTER,0,0,0,0
+3617,0,0,0,0,0,EXPERT,0,0,0,0
+3618,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3619,0,0,0,0,0,0,0,0,0,0
+3620,0,0,0,0,0,0,0,0,0,0
+3621,0,0,0,0,0,0,0,0,0,0
+3622,0,0,0,0,0,MASTER,0,0,0,0
+3623,0,0,0,0,0,EXPERT,0,0,0,0
+3624,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3625,0,0,0,0,0,0,0,0,0,0
+3626,0,0,0,0,0,0,0,0,0,0
+3627,0,0,0,0,0,0,0,0,0,0
+3628,0,0,0,0,0,MASTER,0,0,0,0
+3629,0,0,0,0,0,EXPERT,0,0,0,0
+3630,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3631,0,0,0,0,0,0,0,0,0,0
+3632,0,0,0,0,0,0,0,0,0,0
+3633,0,0,0,0,0,0,0,0,0,0
+3634,0,0,0,0,0,MASTER,0,0,0,0
+3635,0,0,0,0,0,EXPERT,0,0,0,0
+3636,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3637,0,0,0,0,0,0,0,0,0,0
+3638,0,0,0,0,0,0,0,0,0,0
+3639,0,0,0,0,0,0,0,0,0,0
+3640,0,0,0,0,0,MASTER,0,0,0,0
+3641,0,0,0,0,0,EXPERT,0,0,0,0
+3642,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3643,0,0,0,0,0,0,0,0,0,0
+3644,0,0,0,0,0,0,0,0,0,0
+3645,0,0,0,0,0,0,0,0,0,0
+3646,0,0,0,0,0,MASTER,0,0,0,0
+3647,0,0,0,0,0,EXPERT,0,0,0,0
+3648,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3649,0,0,0,0,0,0,0,0,0,0
+3650,0,0,0,0,0,0,0,0,0,0
+3651,0,0,0,0,0,0,0,0,0,0
+3652,0,0,0,0,0,MASTER,0,0,0,0
+3653,0,0,0,0,0,EXPERT,0,0,0,0
+3654,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3655,0,0,0,0,0,0,0,0,0,0
+3656,0,0,0,0,0,0,0,0,0,0
+3657,0,0,0,0,0,0,0,0,0,0
+3658,0,0,0,0,0,MASTER,0,0,0,0
+3659,0,0,0,0,0,EXPERT,0,0,0,0
+3660,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3661,0,0,0,0,0,0,0,0,0,0
+3662,0,0,0,0,0,0,0,0,0,0
+3663,0,0,0,0,0,0,0,0,0,0
+3664,0,0,0,0,0,MASTER,0,0,0,0
+3665,0,0,0,0,0,EXPERT,0,0,0,0
+3666,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3667,0,0,0,0,0,0,0,0,0,0
+3668,0,0,0,0,0,0,0,0,0,0
+3669,0,0,0,0,0,0,0,0,0,0
+3670,0,0,0,0,0,MASTER,0,0,0,0
+3671,0,0,0,0,0,EXPERT,0,0,0,0
+3672,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3673,0,0,0,0,0,0,0,0,0,0
+3674,0,0,0,0,0,0,0,0,0,0
+3675,0,0,0,0,0,0,0,0,0,0
+3676,0,0,0,0,0,MASTER,0,0,0,0
+3677,0,0,0,0,0,EXPERT,0,0,0,0
+3678,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3679,0,0,0,0,0,0,0,0,0,0
+3680,0,0,0,0,0,0,0,0,0,0
+3681,0,0,0,0,0,0,0,0,0,0
+3682,0,0,0,0,0,MASTER,0,0,0,0
+3683,0,0,0,0,0,EXPERT,0,0,0,0
+3684,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3685,0,0,0,0,0,0,0,0,0,0
+3686,0,0,0,0,0,0,0,0,0,0
+3687,0,0,0,0,0,0,0,0,0,0
+3688,0,0,0,0,0,MASTER,0,0,0,0
+3689,0,0,0,0,0,EXPERT,0,0,0,0
+3690,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3691,0,0,0,0,0,0,0,0,0,0
+3692,0,0,0,0,0,0,0,0,0,0
+3693,0,0,0,0,0,0,0,0,0,0
+3694,0,0,0,0,0,MASTER,0,0,0,0
+3695,0,0,0,0,0,EXPERT,0,0,0,0
+3696,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3697,0,0,0,0,0,0,0,0,0,0
+3698,0,0,0,0,0,0,0,0,0,0
+3699,0,0,0,0,0,0,0,0,0,0
+3700,0,0,0,0,0,MASTER,0,0,0,0
+3701,0,0,0,0,0,EXPERT,0,0,0,0
+3702,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3703,0,0,0,0,0,0,0,0,0,0
+3704,0,0,0,0,0,0,0,0,0,0
+3705,0,0,0,0,0,0,0,0,0,0
+3706,0,0,0,0,0,MASTER,0,0,0,0
+3707,0,0,0,0,0,EXPERT,0,0,0,0
+3708,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3709,0,0,0,0,0,0,0,0,0,0
+3710,0,0,0,0,0,0,0,0,0,0
+3711,0,0,0,0,0,0,0,0,0,0
+3712,0,0,0,0,0,MASTER,0,0,0,0
+3713,0,0,0,0,0,EXPERT,0,0,0,0
+3714,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3715,0,0,0,0,0,0,0,0,0,0
+3716,0,0,0,0,0,0,0,0,0,0
+3717,0,0,0,0,0,0,0,0,0,0
+3718,0,0,0,0,0,MASTER,0,0,0,0
+3719,0,0,0,0,0,EXPERT,0,0,0,0
+3720,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3721,0,0,0,0,0,0,0,0,0,0
+3722,0,0,0,0,0,0,0,0,0,0
+3723,0,0,0,0,0,0,0,0,0,0
+3724,0,0,0,0,0,MASTER,0,0,0,0
+3725,0,0,0,0,0,EXPERT,0,0,0,0
+3726,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3727,0,0,0,0,0,0,0,0,0,0
+3728,0,0,0,0,0,0,0,0,0,0
+3729,0,0,0,0,0,0,0,0,0,0
+3730,0,0,0,0,0,MASTER,0,0,0,0
+3731,0,0,0,0,0,EXPERT,0,0,0,0
+3732,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3733,0,0,0,0,0,0,0,0,0,0
+3734,0,0,0,0,0,0,0,0,0,0
+3735,0,0,0,0,0,0,0,0,0,0
+3736,0,0,0,0,0,MASTER,0,0,0,0
+3737,0,0,0,0,0,EXPERT,0,0,0,0
+3738,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3739,0,0,0,0,0,0,0,0,0,0
+3740,0,0,0,0,0,0,0,0,0,0
+3741,0,0,0,0,0,0,0,0,0,0
+3742,0,0,0,0,0,MASTER,0,0,0,0
+3743,0,0,0,0,0,EXPERT,0,0,0,0
+3744,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3745,0,0,0,0,0,0,0,0,0,0
+3746,0,0,0,0,0,0,0,0,0,0
+3747,0,0,0,0,0,0,0,0,0,0
+3748,0,0,0,0,0,MASTER,0,0,0,0
+3749,0,0,0,0,0,EXPERT,0,0,0,0
+3750,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3751,0,0,0,0,0,0,0,0,0,0
+3752,0,0,0,0,0,0,0,0,0,0
+3753,0,0,0,0,0,0,0,0,0,0
+3754,0,0,0,0,0,MASTER,0,0,0,0
+3755,0,0,0,0,0,EXPERT,0,0,0,0
+3756,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3757,0,0,0,0,0,0,0,0,0,0
+3758,0,0,0,0,0,0,0,0,0,0
+3759,0,0,0,0,0,0,0,0,0,0
+3760,0,0,0,0,0,MASTER,0,0,0,0
+3761,0,0,0,0,0,EXPERT,0,0,0,0
+3762,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3763,0,0,0,0,0,0,0,0,0,0
+3764,0,0,0,0,0,0,0,0,0,0
+3765,0,0,0,0,0,0,0,0,0,0
+3766,0,0,0,0,0,MASTER,0,0,0,0
+3767,0,0,0,0,0,EXPERT,0,0,0,0
+3768,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3769,0,0,0,0,0,0,0,0,0,0
+3770,0,0,0,0,0,0,0,0,0,0
+3771,0,0,0,0,0,0,0,0,0,0
+3772,0,0,0,0,0,MASTER,0,0,0,0
+3773,0,0,0,0,0,EXPERT,0,0,0,0
+3774,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3775,0,0,0,0,0,0,0,0,0,0
+3776,0,0,0,0,0,0,0,0,0,0
+3777,0,0,0,0,0,0,0,0,0,0
+3778,0,0,0,0,0,MASTER,0,0,0,0
+3779,0,0,0,0,0,EXPERT,0,0,0,0
+3780,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3781,0,0,0,0,0,0,0,0,0,0
+3782,0,0,0,0,0,0,0,0,0,0
+3783,0,0,0,0,0,0,0,0,0,0
+3784,0,0,0,0,0,MASTER,0,0,0,0
+3785,0,0,0,0,0,EXPERT,0,0,0,0
+3786,0,0,0,0,0,CONTRIBUTOR,0,0,0,0
+3787,0,0,0,0,0,0,0,0,0,0
