@@ -12,3 +12,16 @@
     </div>
 
     
+    <div>
+        <h1>CSV Processing Results</h1>
+        {% if df_head_html %}
+        <div class="table-representation">
+            {{df_head_html|safe}}
+        </div>
+        {% else %}
+        <p>No Data to Display</p>        
+        {% endif %}
+        <a href="/">Back to Home</a>
+    </div>
+    </body>
+</html>

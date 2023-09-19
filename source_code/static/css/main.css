@@ -74,29 +74,6 @@ label {
     color: black;
 }
 
-/* body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-} */
-
-/* .upload {
-    text-align: center;
-}
-
-table {
-    border-collapse: collapse;
-    width: 80%;
-    margin: 20px auto;
-}
-
-table, th, td {
-    border: 1px solid #ddd;
-}
-
-th, td {
-    padding: 8px;
+.table-representation{
     text-align: left;
-} */
+}
