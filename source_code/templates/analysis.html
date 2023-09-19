@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis</title>
+</head>
+<body>
+    <center>
+        <div class="dropdown">
+            <form  action="/analysis" method="POST">
+                <label for="myDropdown">Select an option to perform:</label>
+                <select id="myDropdown" name="analytical_operations">
+                    <option value="1">Find the number of null values in each column</option>
+                    <option value="2">Drop rows with null values</option>
+                    <option value="3">Find the maximum value in a column</option>
+                    <option value="4">Find the minimum value in a column</option>
+                    <option value="5">Calculate the mean (average) value of a column</option>
+                    <option value="6">Calculate the median value of a column</option>
+                    <option value="7">Concatenate two columns</option> 
+                    <option value="8">Fill missing values in a column</option>
+                    <option value="9">Adding a new column to the data</option>
+                    <option value="10">Drop unnecessary columns</option>
+                    <option value="11">Shape of the data</option>
+                    <option value="12">Sum of the column</option>
+                    <option value="13">Copy the original data</option>
+                </select><br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div> 
+        <div class="dropdown">
+            <form method="POST" action="/analysis">
+                <label for="my_dropdown_col">Select a column:</label>
+                <select name="my_dropdown_col" id="columns">
+                    {% for column in cols %}
+                    <option value="{{ column }}">{{ column }}</option>
+                    {% endfor %}
+                </select><br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </center>    
+</body>
+</html>
